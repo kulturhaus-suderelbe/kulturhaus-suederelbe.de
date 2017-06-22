@@ -1,0 +1,126 @@
+/*----------------------------------------------------------------------------
+	colorscheme1.css for colorscheme 1
+
+	this css-file contains all definitions, that depend on the colorscheme.
+
+	(c) Schlund + Partner AG
+----------------------------------------------------------------------------*/
+
+/*-- main container --------------------------------------------------------*/
+
+#container {
+    background: repeat-x;
+    background-image: url(images/static/pgbk.gif);
+}
+
+/*--- header ---------------------------------------------------------------*/
+
+#header {
+    background-color: transparent;
+}
+
+/*--- footer ---------------------------------------------------------------*/
+
+#footer {
+    background-color: transparent;
+}
+
+/*----------------------------------------------------------------------------
+  default-styles for html-elements
+----------------------------------------------------------------------------*/
+
+/*--- body -----------------------------------------------------------------*/
+
+body#main_body {
+    color: #000000;
+    background: repeat-x;
+    background-image: url(images/static/pgbk.gif);
+    background-color: #ffffff;
+}
+
+/*--- tables ---------------------------------------------------------------*/
+
+.content table {
+    border-color: #9a9a9a;
+    color: #696560;
+}
+
+.content th {
+    color: #666666;
+    background-color: #FFEAD7;
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr.odd {
+    color: #755b53;
+    background-color: #f9f8f8;
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr.even {
+    color: #755b53;
+    background-color: #f2efef;
+    padding: 3px 2px 3px 2px;
+}
+
+/*--- forms ----------------------------------------------------------------*/
+
+.content fieldset {
+    font-size: 11px;
+    line-height: 14px;
+    background-color: #FFF3E7;
+}
+
+.content legend {
+    color: #666666;
+    color: #FF8915;
+}
+
+.content label {
+    color: #666666;
+}
+
+.content input {
+    border: 1px solid #9A9A9A;
+}
+
+.content textarea {
+    border: 1px solid #9A9A9A;
+}
+
+.content button {
+    border: 1px solid #666666;
+    background-color: #efefef;
+}
+
+/*--------------------------------------------------------------------------*/
+
+/*--- lists ------------------------------------------------------------*/
+
+.content ul {
+    color: #666666;
+}
+
+.content li {
+    color: #666666;
+    color: #666666;
+}
+
+.content ol {
+    color: #666666;
+}
+
+/*--------------------------------------------------------------------------*/
+
+a.main_nav_active_item {
+    background-position: top right;
+}
+
+a.main_nav_item {
+    background-position: top right;
+}
+
+.content {
+    color: #696560;
+}
+
