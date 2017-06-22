@@ -1,0 +1,286 @@
+/*----------------------------------------------------------------------------
+	main.css
+
+	this css-file contains all definitions, that are independend from the
+	colorschemes.
+
+	(c) Schlund + Partner AG
+
+	----------------------------------------------------------------------
+
+	This CSS-File uses the original "Tanteks Box Modell Hack"
+	http://www.tantek.com/CSS/Examples/boxmodelhack.html
+
+	NOTE:
+	Older W3C CSS validators return errors when the voice-family property
+	is used in a 'screen' style sheet. This is an error in the W3C CSS
+	validator itself. The validator should report a warning, not an error,
+	when properties which are unsupported by a particular medium are used,
+	and this has been reported to the W3C:
+
+ ----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------
+ styles for specific classes and ids
+----------------------------------------------------------------------------*/
+
+/*-- global container ------------------------------------------------------*/
+
+body#main_body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000;
+}
+
+#container {
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    text-align: left;
+    width: 736px;
+}
+
+/*-- main container: contains all between header and footer ----------------*/
+
+#main_container {
+    clear: both;
+    padding: 0;
+    margin: 0px 0px 0px 0px;
+}
+
+/*--- the main container is devided in sub containers ----------------------*/
+
+#layout_table {
+    border-collapse: collapse;
+}
+
+#left_column {
+    vertical-align: top;
+}
+
+#right_column {
+    vertical-align: top;
+}
+
+#sub_container1 {
+    margin: 0 0 0 10px;
+    padding: 0;
+}
+
+#left_column_container {
+    margin: 0;
+    padding: 0;
+    width: 194px;
+}
+
+#sub_container2 {
+    width: 520px;
+    margin: 0;
+    padding: 0 10px 0 0;
+    text-align: left;
+}
+
+#content_container {
+    overflow: hidden;
+    width: 99%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+/*--- header ---------------------------------------------------------------*/
+
+#header {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 0px 0px 0px 0;
+    width: 736px;
+    height: 292px;
+}
+
+/*--- key visual -----------------------------------------------------------*/
+
+#key_visual {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 736px;
+    height: 278px;
+}
+
+/*--- logo -----------------------------------------------------------------*/
+
+#logo {
+    width: 387px;
+    height: 70px;
+    position: absolute;
+    top: 125px;
+    left: 349px;
+}
+
+/*--- caption (as text or background image) --------------------------------*/
+
+#slogan {
+    margin: 0 0 15px 0;
+    padding: 0;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 520px;
+}
+
+/*--- main navigation ------------------------------------------------------*/
+
+#main_nav_container {
+    margin-left: 0px;
+    padding-left: 10px;
+}
+
+#main_nav_list {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#main_nav_list li {
+    margin: 3px 0 2px 0;
+    padding: 0;
+}
+
+/*--- main navigation items ------------------------------------------------*/
+
+#main_nav_list a {
+    display: block;
+    text-align: left;
+    line-height: 24px;
+    width: 172px;
+    padding: 0 25px 0 15px;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    width: 132px;
+}
+
+html>body #main_nav_list a {
+    width: 132px;
+}
+
+/*--- container for the subnavigation --------------------------------------*/
+
+.sub_nav_container {
+    margin: 0px 0px 0px 10px;
+    padding: 0;
+}
+
+/*--- subnavigation --------------------------------------------------------*/
+
+.sub_nav_list {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.sub_nav_list li {
+    padding: 0;
+}
+
+/*--- subnavigation items --------------------------------------------------*/
+
+.sub_nav_list a {
+    text-align: left;
+    line-height: 24px;
+    width: 172px;
+    padding: 0 25px 0 15px;
+    display: block;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    width: 132px;
+}
+
+html>body .sub_nav_list a {
+    width: 132px;
+}
+
+/*--- footer ---------------------------------------------------------------*/
+
+#footer {
+    margin: 0px;
+    padding: 0;
+    width: 735px;
+    height: 65px;
+    clear: both;
+}
+
+#footer_text {
+    padding: 10px 0 0 0;
+    margin: 0 30px 0 30px;
+    text-align: right;
+}
+
+/*----------------------------------------------------------------------------
+  default-styles for html-elements
+----------------------------------------------------------------------------*/
+
+/*--- paragraph ------------------------------------------------------------*/
+
+.content {
+    margin: 5px 0 20px 0;
+    padding: 0;
+    font-family: Verdana,Arial,Trebuchet MS,Tahoma,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.content p {
+    margin: 0;
+    padding: 0;
+}
+
+/*--- forms ----------------------------------------------------------------*/
+
+.content fieldset {
+    padding: 15px;
+    border: 0px;
+}
+
+.content textarea {
+    border-style: solid;
+    border-width: 1px;
+    font-family: Verdana,Arial,Trebuchet MS,Tahoma,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*--------------------------------------------------------------------------*/
+
+.content table {
+    font-family: Verdana,Arial,Trebuchet MS,Tahoma,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.content select {
+    font-family: Verdana,Arial,Trebuchet MS,Tahoma,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.content input {
+    font-family: Verdana,Arial,Trebuchet MS,Tahoma,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
