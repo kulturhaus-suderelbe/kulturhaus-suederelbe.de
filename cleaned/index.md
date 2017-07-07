@@ -22,7 +22,7 @@ Schatzmeister
 
 ------------------------------------------------------------------------
 
-![](/img/_wsb_154x81_BGZ_Logo_rgb_transparent_HG.jpg)
+![](/img/wsb_154x81_BGZ_Logo_rgb_transparent_HG.jpg)
 
 Das Kulturhaus Süderelbe befindet sich direkt am S-Bahnhof Neugraben im
 ersten Stockwerk des BGZ Süderelbe und ist über einen Fahrstuhl
@@ -59,9 +59,9 @@ Der Kunst- und Kulturverein "Kulturhaus Süderelbe e.V." bietet ein
 umfangreiches Programm in den Bereichen bildende Kunst, Musik, Theater,
 Bewegung, Literatur und Sprache.
 
-![](/img/_wsb_108x113_Foto+Aliou+Badji-Kachel.jpg)
-![](/img/_wsb_115x115_KHS1+172-A2.jpg)
-![](/img/_wsb_114x115_Kachel+$C3$96lmalerei.jpg)
+![](/img/wsb_108x113_Foto+Aliou+Badji-Kachel.jpg)
+![](/img/wsb_115x115_KHS1+172-A2.jpg)
+![](/img/wsb_114x115_Kachel+$C3$96lmalerei.jpg)
 
 ## Kulturhausarbeit
 
