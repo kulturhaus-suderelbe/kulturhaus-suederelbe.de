@@ -1,0 +1,19 @@
+title: Kulturhaus Süderelbe
+url: "http://localhost:4000"
+description: Kulturhaus Suederelbe e.V.
+keywords: Stadtteilkultur Hamburg, Kultur in Hamburg, Soziokultur Hamburg, BGZ Süderelbe, Holzschnitzen, Aquarell-Kurse, Acryl-Kurse, Tai Chi, Yoga, Energydance, Afrikanisches Trommeln, Gitarrenkurse, Klavier-Unterricht, Töpfern, Aktzeichnen, Kunstkurse, Bildungspaket, Energydance, Yoga, Malerei, Geigen-Unterricht, Kursprogramm, Stadtteilkulturzentren, Soziokultur-Zentren, Bildhauer, Kulturhaus Süderelbe im BGZ Süderelbe, Hamburger Bildungspaket, Kindergeburtstage
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+gems:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  auto_ids: false
