@@ -1,6 +1,6 @@
 # Wir über uns
 
-![](resources/KH_Luftballon_web.jpg)
+![](/img/KH_Luftballon_web.jpg)
 
 Das Kulturhaus Süderelbe wird betrieben von dem gemeinnützigen Verein
 "Kulturhaus Süderelbe e.V." Es wird über die Stadtteilkulturmittel der
@@ -22,7 +22,7 @@ Schatzmeister
 
 ------------------------------------------------------------------------
 
-![](resources/_wsb_154x81_BGZ_Logo_rgb_transparent_HG.jpg)
+![](/img/_wsb_154x81_BGZ_Logo_rgb_transparent_HG.jpg)
 
 Das Kulturhaus Süderelbe befindet sich direkt am S-Bahnhof Neugraben im
 ersten Stockwerk des BGZ Süderelbe und ist über einen Fahrstuhl
@@ -59,9 +59,9 @@ Der Kunst- und Kulturverein "Kulturhaus Süderelbe e.V." bietet ein
 umfangreiches Programm in den Bereichen bildende Kunst, Musik, Theater,
 Bewegung, Literatur und Sprache.
 
-![](resources/_wsb_108x113_Foto+Aliou+Badji-Kachel.jpg)
-![](resources/_wsb_115x115_KHS1+172-A2.jpg)
-![](resources/_wsb_114x115_Kachel+$C3$96lmalerei.jpg)
+![](/img/_wsb_108x113_Foto+Aliou+Badji-Kachel.jpg)
+![](/img/_wsb_115x115_KHS1+172-A2.jpg)
+![](/img/_wsb_114x115_Kachel+$C3$96lmalerei.jpg)
 
 ## Kulturhausarbeit
 
@@ -144,5 +144,5 @@ Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 im Verein können Sie unsere Arbeit unterstützen. Eine
 Spendenbescheinigung kann erstellt werden.
 
-[Hier finden Sie die Satzung](resources/Satzung_121115_Neu.pdf) [unseres
+[Hier finden Sie die Satzung](/data/Satzung_121115_Neu.pdf) [unseres
 Vereins](http://www.kulturhaus-suederelbe.de/xml/wfxdirect/res;jsessionid=644BE08AAFE31835E67C9D417FC705C0.TCpfix100a?name=Satzung_121115_Neu.pdf)

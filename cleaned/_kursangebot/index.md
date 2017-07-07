@@ -4,9 +4,9 @@
 
 1980 - 2017
 
-![](resources/_wsb_139x188_Web+15_1.jpg)
-![](resources/_wsb_139x196_KHS1+099-A2.jpg)
-![](resources/_wsb_137x194_Web+15_2.jpg)
+![](/img/_wsb_139x188_Web+15_1.jpg)
+![](/img/_wsb_139x196_KHS1+099-A2.jpg)
+![](/img/_wsb_137x194_Web+15_2.jpg)
 
 ## Semesterbeginn am 01. Februar und am 01. September
 
