@@ -11,7 +11,7 @@
 ## Semesterbeginn am 01. Februar und am 01. September
 
 Ein neues Semester mit zahlreichen Möglichkeiten, sich unter
-fachkundiger Anleitung kreativ zu betätigen, startet am 1. September´16.
+fachkundiger Anleitung kreativ zu betätigen, startet am 1. September 2016.
 Zu zivilen Preisen kann hier im Bereich bildende Kunst gemalt,
 gezeichnet, geschnitzt oder getöpfert werden. Im Musikbereich und im
 Bereich Bewegung findet ebenfalls wöchentlicher Unterricht statt
