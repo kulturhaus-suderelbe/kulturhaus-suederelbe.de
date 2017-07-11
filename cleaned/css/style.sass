@@ -1,0 +1,87 @@
+---
+---
+
+*
+  box-sizing: border-box
+
+$nav: 15em
+$body: 60em
+$yellow: #eed435
+$orange: #eb6724
+$grey: #666666
+$device-break: 50em
+
+img
+  width: 100%
+
+body
+  max-width: $body
+  margin: 0 auto
+
+.navheader
+  margin-bottom: 1em
+  display: table
+  border: 0
+  div
+    border-top: 0.7em solid $orange
+    display: table-cell
+    vertical-align: middle
+    &:first-child
+      @media screen and (max-width: $device-break)
+        display: none
+      background-color: $yellow
+      width: $nav
+      padding: 0 4em 0 4em
+    &:last-child
+      @media screen and (max-width: $device-break)
+        width: 100vw
+      padding: 0 1em 0 1em
+
+h1, ul
+  margin-top: 0
+
+h2
+  color: $orange
+  font-size: 1.25em
+
+h5
+  background-color: yellow
+  padding: 0.5em
+  font-size: 1em
+
+dt
+  margin: 0.5em
+
+dd
+  margin-left: 1em
+
+li
+  margin: 1em 0 1em 0
+
+a
+  color: $grey
+  text-decoration: none
+  font-weight: bold
+  &:visited
+    color: $grey
+  &:hover
+    color: $orange
+
+nav
+  @media screen and (min-width: $device-break)
+    float: left
+    width: $nav
+    padding-right: 1em
+  @media screen and (max-width: $device-break)
+    margin: 1em
+  ul
+    padding-left: 1.5em
+  li
+    list-style-image: url(/style/n1.gif)
+
+div.page
+  @media screen and (min-width: $device-break)
+    margin-left: $nav
+  @media screen and (max-width: $device-break)
+    margin: 1em
+
