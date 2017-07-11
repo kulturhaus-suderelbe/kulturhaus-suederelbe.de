@@ -26,7 +26,7 @@ Gelegenheiten. Die familiäre Atmosphäre lässt Ängste schnell
 verschwinden, denn Menschen jeden Alters werden hier so akzeptiert, wie
 sie sind.
 
-Kursdauer /Semester: 18 x 3 Zeitstunden, wenn nicht anders angegeben.
+Kursdauer / Semester: 18 x 3 Zeitstunden, wenn nicht anders angegeben.
 Alle Kurse exkl. Materialien. Alle Kurse sind sowohl für Anfänger als
 auch für Fortgeschrittene geeignet. Eine Probestunde kann vereinbart
 werden. Eine Ermäßigung der Gebühren ist nach Absprache möglich.

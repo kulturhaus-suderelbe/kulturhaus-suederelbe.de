@@ -49,10 +49,10 @@ Vielleicht haben auch Sie Freude an aktiver Vereinsarbeit. Lernen Sie
 das Kulturhaus-Team und die vielen Möglichkeiten kennen, die die
 ehrenamtliche Tätigkeit in einem Verein bietet!
 
-Kulturhaus Süderelbe e.V. | Am Johannisland 2 | 21147 Hamburg 
-Tel.: 040 - 796 72 22 
-Fax: 040 - 796 00 48 
-Email: <info@kulturhaus-suederelbe.de> 
+Kulturhaus Süderelbe e.V. | Am Johannisland 2 | 21147 Hamburg  
+Tel.: 040 - 796 72 22  
+Fax: 040 - 796 00 48  
+Email: <info@kulturhaus-suederelbe.de>  
 Web: [kulturhaus-suederelbe.de](http://www.kulturhaus-suederelbe.de)
 
 Der Kunst- und Kulturverein "Kulturhaus Süderelbe e.V." bietet ein
@@ -109,7 +109,7 @@ Gemischter Chor Süderelbe "Die Evergreens"
 
 Bücherhalle Neugraben
 :   040 - 7017622
-:   [www.buecherhallen.de](http://www.buecherhallen.de)/neugraben/
+:   [www.buecherhallen.de/neugraben/](http://www.buecherhallen.de/neugraben/)
 
 Kulturkreis Süderelbe e.V.
 :   040 - 70112001
