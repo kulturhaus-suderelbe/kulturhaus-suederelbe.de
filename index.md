@@ -11,10 +11,10 @@ Wer unsere Arbeit unterstützen möchte, kann mit dem jährlichen Beitrag
 von 24,- € Mitglied werden. In der Mitgliederversammlung unseres Vereins
 am 12. November 2015 wurde der Vereinsvorstand wie folgt neu gewählt:
 
-1. Vorstand
+1\. Vorstand
 :   Stephan Kaiser
 
-2. Vorstand
+2\. Vorstand
 :   Hannelore Bobeck-Niculescu
 
 Schatzmeister
