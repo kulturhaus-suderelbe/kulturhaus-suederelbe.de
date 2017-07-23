@@ -1,7 +1,0 @@
-<footer>
-
----
-
-[Impressum](/impressum)
-
-</footer>
