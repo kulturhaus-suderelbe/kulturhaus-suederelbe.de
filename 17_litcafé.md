@@ -15,11 +15,13 @@ gegeben.
 (Min.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 
-## Am Sonntag, den 6. August 2017 um 16 Uhr
+## Am Sonntag, den 3. September 2017 um 16 Uhr
 
-liest Dieter Wehrbrink eine Auswahl der legendärsten Rezitationen von Klaus Kinski
+liest Dieter Wehrbrink eine Auswahl der schönsten Märchen
 
-![](/img/jkhbw2.jpg)
+**Märchenreise**
+
+![](/img/.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
