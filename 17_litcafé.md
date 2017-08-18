@@ -1,4 +1,4 @@
-# Literaturcafe im Striepensaal
+# Literaturcafé im Striepensaal
 
 **Immer am ersten Sonntag im Monat  
 liest Dieter Wehrbrink aus Werken der Literatur  
