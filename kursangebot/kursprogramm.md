@@ -169,8 +169,19 @@ Termine
 Kursleitung
 :   Helga Hentschel
 
+# Dienstag
+
+## Maltechniken
+
+Aquarell, Acryl, Kreiden... Gabriele Wendland, freiberufliche Künstlerin aus
+Hamburg, ist bekannt durch viele Ausstellungen und u.a. ihre Arbeit an der
+Kunsthalle Hamburg. Sie passt die Kursinhalte ihren KursteilnehmerInnen an
+und betreut sie individuell.
+Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
+jeder seinen Platz!
+
 Beginn
-:   Dienstag, 7.2.17, von 10-13 Uhr
+:   Dienstag, 4.9.17, von 10-13 Uhr
 
 Kursleitung
 :   Gabriele Wendland  
