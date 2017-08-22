@@ -13,9 +13,8 @@ $device-break: 50em
 
 img
   max-width: 100%
-  display: inline-block
-  vertical-align: middle
-  padding: 1em
+  max-height: 50vh
+  margin: 0 auto
 
 body
   font-family: Tahoma, sans-serif
@@ -55,8 +54,9 @@ h1
   padding-top: 1em
   padding-left: 2em
   margin-left: -2em
-  padding-right: 2em
-  margin-right: -2em
+  @media screen and (max-width: $device-break)
+    padding-right: 2em
+    margin-right: -2em
   border-top: 1em solid $yellow
   &:first-child
     margin-top: 0
