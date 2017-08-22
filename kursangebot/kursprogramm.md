@@ -18,9 +18,9 @@ werden.
 Mehr Infos finden Sie hier:
 [www.hamburg.de/bildungspaket/](http://www.hamburg.de/bildungspaket/)
 
-##### Montag
+# Montag
 
-#### Ölmalerei
+## Ölmalerei
 
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
 unabhängig von Vorkenntnissen und sonstigen Voraussetzungen - das
@@ -47,7 +47,7 @@ Kursleitung
 Kursgebühr
 :   120,- € / Semester
 
-#### Afrikanisches Trommeln
+## Afrikanisches Trommeln
 
 Aliou Badji ist Trommler, Choreograf und Tänzer. Mit dem senegalesischen
 Nationalballett tourte er um die ganze Welt, bis er sich in Hamburg
@@ -70,9 +70,9 @@ Kursleitung
 Kursgebühr
 :   130,- € für 15 Male
 
-##### Montag / Donnerstag
+# Montag / Donnerstag
 
-#### Gitarrenunterricht
+## Gitarrenunterricht
 
 Peter Karliczek unterrichtet seit vielen Jahren E-Bass, akustische und
 E-Gitarre im Kulturhaus. Er arbeitet nach Tabulatur und frei.
@@ -113,7 +113,7 @@ Kursgebühr
 Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
 möglich.
 
-#### Saxophon, Klarinette, Blockflöte, Klavier
+## Saxophon, Klarinette, Blockflöte, Klavier
 
 Dimitar Georgiev, hervorragend ausgebildeter Musiker und Pädagoge aus
 Bulgarien mit dem Spezialgebiet Saxophon und Klarinette, aber auch
@@ -134,9 +134,9 @@ Kursleitung
 Kursgebühr
 :   60,- € monatlich für 18 Male 1/2 Stunde Einzelunterricht / Semester
 
-##### Montag / Freitag
+# Montag / Freitag
 
-#### Keramik (Aufbautechnik)
+## Keramik (Aufbautechnik)
 
 "Figur, Gefäß, Relief, damit sind alle Themenbereiche erfasst", sagt
 Fachfrau Dörte Ellerbrock, die, egal welche ausgefallenen Themen die
@@ -179,7 +179,7 @@ Kursleitung
 Kursgebühr
 :   120,- € / Semester
 
-#### Töpferschule für Kinder
+## Töpferschule für Kinder
 
 Unter der fachkundigen Anleitung von Künstlerin Teresa Werdier können
 Kinder kneten, formen und sich durch das urtümliche Material Ton in
@@ -201,7 +201,7 @@ Kursgebühr
 
 Abrechnung der Kursgebühr über das "Bildungspaket" ist möglich.
 
-#### Figürliches Zeichnen/Akt
+## Figürliches Zeichnen/Akt
 
 Mit wechselnden Modellen (weiblich/männlich) wird hier das Auge
 trainiert, die menschlichen Formen in all ihrer Vielfalt und
@@ -227,9 +227,9 @@ Termine
 Kursleitung
 :   Elisabeth Trudzinski
 
-##### Dienstag / Mittwoch
+# Dienstag / Mittwoch
 
-#### Klavier / Gesang
+## Klavier / Gesang
 
 Bettina Sehlbach, Pädagogin für Klavier und Gesang, unterrichtet an
 mehreren Orten in Hamburg und Umgebung.
@@ -252,9 +252,9 @@ Kursgebühr
 
 Für Kinder ist die Abrechnung über das "Bildungspaket" möglich.
 
-##### Mittwoch
+# Mittwoch
 
-#### Kindermalschule
+## Kindermalschule
 
 Gabriele Wendland bietet in der Kindermalschule Kindern von 5-10 Jahren
 viel Spaß mit dem Medium Kunst.
@@ -276,7 +276,7 @@ Kursgebühr
 
 Die Abrechnung über das Bildungspaket ist möglich.
 
-#### Teatimetalk
+## Teatimetalk
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie
 Kursanmeldungen finden Sie unter
@@ -289,9 +289,9 @@ Termine
 Kursleitung
 :   Henry Holland
 
-##### Mittwoch / Donnerstag
+# Mittwoch / Donnerstag
 
-#### Holzbildhauerei
+## Holzbildhauerei
 
 Zwei Künstler mit Spezialgebiet Holzbildhauerei unterrichten regelmäßig
 im Kulturhaus: Christian Richert und Yves Rasch. Beide fördern ihre
@@ -327,9 +327,9 @@ Kursleitung
 Kursgebühren
 :   145,- € für 15-18 Male je nach Gruppengröße
 
-##### Mittwoch / Freitag
+# Mittwoch / Freitag
 
-#### Aquarellmalerei
+## Aquarellmalerei
 
 Sehen lernen und das Gesehene in ein Bild umsetzen möchten viele -
 alles, was dazugehört, ist Geduld mit sich selbst und fachliche
@@ -356,9 +356,9 @@ Kursleitung
 Kursgebühr
 :   120,- €
 
-##### Donnerstag
+# Donnerstag
 
-#### Stillleben, Zeichnen und mehr
+## Stillleben, Zeichnen und mehr
 
 Es sind nicht nur Stillleben, die in diesem Kurs entstehen, sondern auch
 Porträts, Landschaften oder, wenn das Auge ermüdet ist, auch mal
@@ -378,7 +378,7 @@ Kursleitung
 Kursgebühr
 :   120,- €
 
-#### Geige / Gesang
+## Geige / Gesang
 
 Dietwalt Mauruschat, freier Musiker und Spezialist für Violine, Viola
 und Gesang, ist viel auf Konzert- und Opernbühnen unterwegs. Er
@@ -400,7 +400,7 @@ Kursgebühr
 Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
 möglich.
 
-#### Energy Dance / Yoga
+## Energy Dance / Yoga
 
 Energy Dance ist Bewegungstraining für alle, die Lust auf Bewegung und
 Rhythmus haben. Vielfältige dynamische Bewegungen werden zu fließenden
@@ -424,7 +424,7 @@ Kursleitung
 Kursgebühr
 :   120,- €
 
-#### Acrylmalerei
+## Acrylmalerei
 
 Die Bandbreite des Kurses schließt sowohl naturalistisches als auch
 abstraktes Arbeiten mit ein, ebenso Techniken von Nass-in-Nass (wie beim
@@ -445,7 +445,7 @@ Kursleitung
 Kursgebühr
 :   120,- €
 
-#### Tanzpiraten
+## Tanzpiraten
 
 Wiebke Heinrich, Tanzpädagogin mit viel Erfahrung mit Kids - auch in
 Schulen - setzt den Bewegungsdrang der Kinder in Rhythmusgefühl und
@@ -470,9 +470,9 @@ Kursgebühr
 
 Abrechnung über das Bildungspaket möglich!
 
-##### Freitag
+# Freitag
 
-#### Feldenkrais / VHS-Kurs
+## Feldenkrais / VHS-Kurs
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie
 Anmeldungen unter [www.vhs-hamburg.de](http://www.vhs-hamburg.de) oder
@@ -485,7 +485,7 @@ Kursleitung
 :   Anne Wechmann  
     [www.anne-wechmann.de](http://www.anne-wechmann.de)
 
-#### Freie Ateliergemeinschaft L.A.R.S.
+## Freie Ateliergemeinschaft L.A.R.S.
 
 Informationen bitte direkt über Susanne Brussolo Telefon 040 701 50 30
 oder mobil 0173 613 11 77.
