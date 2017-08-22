@@ -1,4 +1,5 @@
 # Ausstellungen
+
 ## Nächste Ausstellung
 Angelika Holzmann, Kursleiterin für Aquarellmalerei, stellt ihre Bilder vom 11.9.-13.10.17 aus.
 Vernissage ist am Freitag, den 8.9.17, ab 19 Uhr
