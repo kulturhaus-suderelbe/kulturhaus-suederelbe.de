@@ -144,5 +144,5 @@ Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 im Verein können Sie unsere Arbeit unterstützen. Eine
 Spendenbescheinigung kann erstellt werden.
 
-[Hier finden Sie die Satzung](/data/Satzung_121115_Neu.pdf) [unseres
+[Hier finden Sie die Satzung](/downloads/Satzung_121115_Neu.pdf) [unseres
 Vereins](http://www.kulturhaus-suederelbe.de/xml/wfxdirect/res;jsessionid=644BE08AAFE31835E67C9D417FC705C0.TCpfix100a?name=Satzung_121115_Neu.pdf)
