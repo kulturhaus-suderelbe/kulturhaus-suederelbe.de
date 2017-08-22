@@ -1,4 +1,4 @@
-﻿# Kursprogramm Wintersemester 2016/2017
+# Kursprogramm Wintersemester 2016/2017
 
 ## Semesterbeginn am 1. September 2017
 
@@ -91,7 +91,7 @@ E-Bass
 :   Einzelunterricht eine halbe Stunde. Bevorzugt Blues, Funk und
     Groove.
 
-![](/img/KHS3%20078.jpg)
+![](/img/KHS3-078.jpg)
 
 Beginn
 :   Donnerstag 2.2.17 von 14.30-22.00 Uhr
@@ -384,7 +384,7 @@ Dietwalt Mauruschat, freier Musiker und Spezialist für Violine, Viola
 und Gesang, ist viel auf Konzert- und Opernbühnen unterwegs. Er
 unterrichtet außer im Kulturhaus an vielen Orten Hamburgs.
 
-![](/img/KHS4%20001.JPG)
+![](/img/KHS4-001.jpg)
 
 Beginn
 :   Donnerstag, 2.9.17; Uhrzeiten nach Absprache
