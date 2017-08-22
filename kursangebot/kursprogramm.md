@@ -30,7 +30,7 @@ und das gemeinsame Arbeiten unter fachgerechter Anleitung die
 Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, "nur" die
 Vermittlung von Techniken in qualifizierter Form.
 
-![](/img/sommerfest-2012-056.jpg)
+![](/img/sommerfest-2012-56.jpg)
 
 Beginn
 :   Montag, 4.9.17, von 10-13 Uhr
