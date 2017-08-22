@@ -32,4 +32,4 @@ auch für Fortgeschrittene geeignet. Eine Probestunde kann vereinbart
 werden. Eine Ermäßigung der Gebühren ist nach Absprache möglich.
 
 **Das aktuelle Programmangebot finden Sie links unter [Kursprogramm
-2016/17](/kursangebot/39.html)**
+2016/17](/kursangebot/kursprogramm.html)**

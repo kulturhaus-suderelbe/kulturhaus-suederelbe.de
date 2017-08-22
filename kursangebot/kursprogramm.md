@@ -91,7 +91,7 @@ E-Bass
 :   Einzelunterricht eine halbe Stunde. Bevorzugt Blues, Funk und
     Groove.
 
-![](/img/khs3%20078.jpg)
+![](/img/KHS3%20078.jpg)
 
 Beginn
 :   Donnerstag 2.2.17 von 14.30-22.00 Uhr

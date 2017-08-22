@@ -128,7 +128,7 @@ erarbeiten wir Angebote zu unseren Themen passend für Ihre Gruppen.
 Im Striepensaal bietet das Kulturhaus jeden 1. Sonntag im Monat von
 16-18 Uhr das Literaturcafe mit Dieter Wehrbrink kostenfrei an.
 
-Weitere Informationen siehe [Literaturcafe im Striepensaal](/20.html)
+Weitere Informationen siehe [Literaturcafe im Striepensaal](/literaturcafe.html)
 oder unter Tel. 040 702 55 06.
 
 ## Kulturtage Süderelbe 2017
@@ -137,7 +137,7 @@ In bewährter Weise sollen die "Kulturtage Süderelbe" sowohl eine
 Plattform für erfahrene lokale Kulturveranstalter sein als auch
 Amateuren einen schützenden Rahmen bieten, um sich in der Öffentlichkeit
 mit einem Programmbeitrag zu präsentieren. Weitere Informationen siehe
-[Kulturtage Süderelbe 2017](/17.html).
+[Kulturtage Süderelbe 2017](/kulturtage.html).
 
 Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 über das Bezirksamt Harburg. Mit einer Spende oder einer Mitgliedschaft

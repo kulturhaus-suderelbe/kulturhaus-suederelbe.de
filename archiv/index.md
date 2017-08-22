@@ -1,3 +1,7 @@
+---
+permalink: /archiv/
+---
+
 # Archiv
 
 ## Kulturhaus Süderelbe e.V. am Ehestorfer Heuweg 1980-2011
