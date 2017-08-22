@@ -1,4 +1,4 @@
-# Kursprogramm Wintersemester 2016/2017
+﻿# Kursprogramm Wintersemester 2016/2017
 
 ## Semesterbeginn am 1. September 2017
 
@@ -30,16 +30,16 @@ und das gemeinsame Arbeiten unter fachgerechter Anleitung die
 Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, "nur" die
 Vermittlung von Techniken in qualifizierter Form.
 
-![](/img/Sommerfest 2012%20056.jpg)
+![](/img/sommerfest-2012-056.jpg)
 
 Beginn
-:   Montag, 6.2.17, von 10-13 Uhr
+:   Montag, 4.9.17, von 10-13 Uhr
 
 Kursleitung
 :   Margrit Werner
 
 Beginn
-:   Montag, 6.2.17, von 18.30-21.30 Uhr
+:   Montag, 4.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Gabriele Wendland
