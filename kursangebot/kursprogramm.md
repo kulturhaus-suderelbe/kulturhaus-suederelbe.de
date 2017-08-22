@@ -30,7 +30,7 @@ und das gemeinsame Arbeiten unter fachgerechter Anleitung die
 Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, "nur" die
 Vermittlung von Techniken in qualifizierter Form.
 
-![](/img/wsb_141x143_Kachel+$C3$96lmalerei.jpg)
+![](/img/Sommerfest 2012%20056.jpg)
 
 Beginn
 :   Montag, 6.2.17, von 10-13 Uhr
