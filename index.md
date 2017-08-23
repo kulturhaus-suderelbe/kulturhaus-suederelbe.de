@@ -3,7 +3,7 @@
 ![](/img/KH_Luftballon_web.jpg)
 
 Das Kulturhaus Süderelbe wird betrieben von dem gemeinnützigen Verein
-"Kulturhaus Süderelbe e.V." Es wird über die Stadtteilkulturmittel der
+„Kulturhaus Süderelbe e.V.“ Es wird über die Stadtteilkulturmittel der
 Kulturbehörde Hamburg bzw. das Bezirksamt Harburg zum großen Teil
 finanziert; Projektmittel ergänzen die Finanzierung.
 
@@ -43,7 +43,7 @@ gesellschaftliche Entwicklung mit anderen Prioritäten geht, zum Teil
 unbemerkt, mehr und mehr unserer Fähigkeit zu Kreativität verloren.
 
 Um Kultur für jeden zugänglich zu machen und selbst zu gestalten, ist
-der gemeinnützige Verein "Kulturhaus Süderelbe e.V." entstanden.
+der gemeinnützige Verein „Kulturhaus Süderelbe e.V.“ entstanden.
 
 Vielleicht haben auch Sie Freude an aktiver Vereinsarbeit. Lernen Sie
 das Kulturhaus-Team und die vielen Möglichkeiten kennen, die die
@@ -55,7 +55,7 @@ Fax: 040 - 796 00 48
 Email: <info@kulturhaus-suederelbe.de>  
 Web: [kulturhaus-suederelbe.de](http://www.kulturhaus-suederelbe.de)
 
-Der Kunst- und Kulturverein "Kulturhaus Süderelbe e.V." bietet ein
+Der Kunst- und Kulturverein „Kulturhaus Süderelbe e.V.“ bietet ein
 umfangreiches Programm in den Bereichen bildende Kunst, Musik, Theater,
 Bewegung, Literatur und Sprache.
 
@@ -91,7 +91,7 @@ Vereinigung Süderelbe e.V.
 :   040 - 70101728
 :   [www.vereinigung-suederelbe.de](http://www.vereinigung-suederelbe.de)
 
-MGV "Sängerlust Scheideholz" v. 1919 e.V.
+MGV „Sängerlust Scheideholz“ v. 1919 e.V.
 :   040 - 7016387
 :   [www.chorverband-hh.de](http://www.chorverband-hh.de)
 
@@ -99,11 +99,11 @@ Ring für Heimattanz e.V.
 :   040 - 7016515
 :   [www.heimattanz.de](http://www.heimattanz.de)
 
-Verein "Plattdüütsch leevt"
+Verein „Plattdüütsch leevt“
 :   040 - 79751573
 :   [www.plattdueuetsch-leevt.de](http://www.plattdueuetsch-leevt.de)
 
-Gemischter Chor Süderelbe "Die Evergreens"
+Gemischter Chor Süderelbe „Die Evergreens“
 :   040 - 7015544
 :   [www.chorverband-hh.de](http://www.chorverband-hh.de)
 
@@ -133,7 +133,7 @@ oder unter Tel. 040 702 55 06.
 
 ## Kulturtage Süderelbe 2017
 
-In bewährter Weise sollen die "Kulturtage Süderelbe" sowohl eine
+In bewährter Weise sollen die „Kulturtage Süderelbe“ sowohl eine
 Plattform für erfahrene lokale Kulturveranstalter sein als auch
 Amateuren einen schützenden Rahmen bieten, um sich in der Öffentlichkeit
 mit einem Programmbeitrag zu präsentieren. Weitere Informationen siehe

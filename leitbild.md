@@ -7,7 +7,7 @@ www.kulturhaus-suederelbe.de
 
 ## Den Künstler in Menschen entdecken
 
-Der Verein "Kulturhaus Süderelbe e.V." und seine Mitarbeiter sind dem
+Der Verein „Kulturhaus Süderelbe e.V.“ und seine Mitarbeiter sind dem
 Ziel verpflichtet, jedem Menschen die Möglichkeit zu geben, seine
 kreativen Potentiale zu entdecken, zu entwickeln und zu fördern.
 
@@ -48,7 +48,7 @@ Das Kulturhaus Süderelbe will künstlerisch-kreative Projekte im
 öffentlichen Raum anstoßen und durchführen. Wir wollen Menschen aus dem
 Stadtteil für künstlerische Projekte interessieren, sie zur Mitarbeit
 motivieren und dadurch die Identifikation mit dem Stadtteil stärken. Die
-Bandbreite reicht von Kulturfesten "von Bürgern für Bürger" bis zur
+Bandbreite reicht von Kulturfesten „von Bürgern für Bürger“ bis zur
 künstlerischen Mitarbeit im Rahmen stadtplanerischer Gestaltung oder
 offenen Angeboten für einzelne Bevölkerungs- und Interessengruppen. Hier
 setzt das Kulturhaus auch auf eine intensive Zusammenarbeit mit anderen

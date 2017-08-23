@@ -10,9 +10,9 @@ Unser Programmflyer hier zum Download: [Kursprogramm
 Kursdauer / Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
 einzelnen Kurse nach Absprache entweder die Kursdauer gekürzt oder die
-Kursgebühr erhöht wird (siehe "Teilnahmebedingungen").
+Kursgebühr erhöht wird (siehe „Teilnahmebedingungen“).
 
-Kursgebühren für Kinder können über das "Bildungspaket" abgerechnet
+Kursgebühren für Kinder können über das „Bildungspaket“ abgerechnet
 werden.
 
 Mehr Infos finden Sie hier:
@@ -27,7 +27,7 @@ unabhängig von Vorkenntnissen und sonstigen Voraussetzungen - das
 ermöglichen die beiden Fachfrauen für Ölmalerei, Margrit Werner und
 Gabriele Wendland. Dabei spielt die genseitige Anregung in der Gruppe
 und das gemeinsame Arbeiten unter fachgerechter Anleitung die
-Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, "nur" die
+Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, „nur“ die
 Vermittlung von Techniken in qualifizierter Form.
 
 ![](/img/sommerfest-2012-56.jpg)
@@ -51,7 +51,7 @@ Kursgebühr
 
 Aliou Badji ist Trommler, Choreograf und Tänzer. Mit dem senegalesischen
 Nationalballett tourte er um die ganze Welt, bis er sich in Hamburg
-niederließ. Dort gründete er die Musik- und Tanzformation "Diamoral" und
+niederließ. Dort gründete er die Musik- und Tanzformation „Diamoral“ und
 unterrichtet an zahlreichen Schulen.
 
 Trommeln bitte mitbringen - diese können auch über die Trommelschule
@@ -110,7 +110,7 @@ Kursgebühr
     Einzelunterricht
     :   300,- € / Semester, 250,- € / Semester für Kinder
 
-Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
+Die Abrechnung der Kursgebühr für Kinder ist über das „Bildungspaket“
 möglich.
 
 ## Saxophon, Klarinette, Blockflöte, Klavier
@@ -138,7 +138,7 @@ Kursgebühr
 
 ## Keramik (Aufbautechnik)
 
-"Figur, Gefäß, Relief, damit sind alle Themenbereiche erfasst", sagt
+„Figur, Gefäß, Relief, damit sind alle Themenbereiche erfasst“, sagt
 Fachfrau Dörte Ellerbrock, die, egal welche ausgefallenen Themen die
 KursteilnehmerInnen an sie herantragen, gelassen darauf reagiert. Außer
 traditionellen Gefäßen entstehen Gartenkeramiken und große Mosaike für
@@ -210,7 +210,7 @@ Kursleitung
 Kursgebühr
 :   80,- € für 15 Male exkl. Material
 
-Abrechnung der Kursgebühr über das "Bildungspaket" ist möglich.
+Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 ## Figürliches Zeichnen/Akt
 
@@ -261,7 +261,7 @@ Kursleitung
 Kursgebühr
 :   60,- € monatlich für 1/2 Std. Einzelunterricht / 18 Male (5 Monate)
 
-Für Kinder ist die Abrechnung über das "Bildungspaket" möglich.
+Für Kinder ist die Abrechnung über das „Bildungspaket“ möglich.
 
 # Mittwoch
 
@@ -408,7 +408,7 @@ Kursgebühr
 :   70,- € monatlich 1/2 Stunde Einzelunterricht / Semester (5 Monate,
     18 Male)
 
-Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
+Die Abrechnung der Kursgebühr für Kinder ist über das „Bildungspaket“
 möglich.
 
 ## Energy Dance / Yoga

@@ -6,12 +6,12 @@ von 16 bis ca. 18 Uhr**
 
 **im Striepensaal**  
 Striepenweg 40 21147 Hamburg  
-(S3, Haltestelle "Neuwiedenthal", Ausgang Nord)
+(S3, Haltestelle „Neuwiedenthal“, Ausgang Nord)
 
 Die Themen werden in der Presse und auf unserer Homepage bekannt
 gegeben.
 
-[hamburg1: TV-Sendung am 03. Mai 16 "Literaturcafe im Striepensaal"
+[hamburg1: TV-Sendung am 03. Mai 16 „Literaturcafe im Striepensaal“
 (Min.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 

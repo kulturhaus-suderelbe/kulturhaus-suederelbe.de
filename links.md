@@ -14,9 +14,9 @@
 -   [Eddy Winkelmann](http://www.eddywinkelmann.de)
 -   [SÜDKULTUR](http://www.sued-kultur.de/)
 -   [Ring für Heimattanz e.V.](http://www.heimattanz.de/)
--   [MGV "Sängerlust Scheideholz" v.
+-   [MGV „Sängerlust Scheideholz“ v.
     1919](http://www.chorverband-hh.de/)
 -   [Damenchor Hamburg-Neugraben von
     1951](http://www.chorverband-hh.de/)
--   [Verein "Plattdüütsch leevt"](http://www.plattdueuetsch-leevt.de/)
+-   [Verein „Plattdüütsch leevt“](http://www.plattdueuetsch-leevt.de/)
 
