@@ -2,12 +2,12 @@
 
 ## Semesterbeginn am 1. September 2017
 
-![](/img/wsb_518x212_Programm_2016_Deckblatt.jpg)
+![](/img/flyer17-18.jpg)
 
 Unser Programmflyer hier zum Download: [Kursprogramm
-2016/2017](/downloads/Programm_2016.pdf)
+2017/2018](/downloads/Programm_2017-2018.pdf)
 
-Kursdauer / Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
+Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
 einzelnen Kurse nach Absprache entweder die Kursdauer gekürzt oder die
 Kursgebühr erhöht wird (siehe "Teilnahmebedingungen").
@@ -25,7 +25,7 @@ Mehr Infos finden Sie hier:
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
 unabhängig von Vorkenntnissen und sonstigen Voraussetzungen - das
 ermöglichen die beiden Fachfrauen für Ölmalerei, Margrit Werner und
-Gabriele Wendland. Dabei spielt die genseitige Anregung in der Gruppe
+Gabriele Wendland. Dabei spielt die gegenseitige Anregung in der Gruppe
 und das gemeinsame Arbeiten unter fachgerechter Anleitung die
 Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, "nur" die
 Vermittlung von Techniken in qualifizierter Form.
@@ -38,8 +38,7 @@ Beginn
 Kursleitung
 :   Margrit Werner
 
-Beginn
-:   Montag, 4.9.17, von 18.30-21.30 Uhr
+:	Montag, 4.9.17, von 18.30-21.30 Uhr 
 
 Kursleitung
 :   Gabriele Wendland
@@ -94,24 +93,22 @@ E-Bass
 ![](/img/KHS3-078.jpg)
 
 Beginn
-:   Donnerstag 2.2.17 von 14.30-22.00 Uhr
-:   Montag, 6.2.17 von 14.30-22.00 Uhr
+:   Donnerstag 7.9.17 von 14.30-22.00 Uhr
+:   Montag, 4.9.17 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
 
 Kursgebühr
 
-:   
-
-    Gruppenunterricht
+:   Gruppenunterricht
     :   140,- € / Semester, 115,- € / Semester für Kinder
 
     Einzelunterricht
     :   300,- € / Semester, 250,- € / Semester für Kinder
 
 Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
-möglich.
+möglich, genau wie die monatliche Bezahlung von € 50,- bzw. € 60,-.
 
 ## Saxophon, Klarinette, Blockflöte, Klavier
 
@@ -126,7 +123,7 @@ abgestimmt.
 ![](/img/wsb_130x150_Dimitar+Georgiev+-+Saxophon+$282014.01$292.jpg)
 
 Beginn
-:   Montag, 6.2.17 von 14-20 Uhr
+:   Montag, 4.9.17 von 14-20 Uhr
 
 Kursleitung
 :   Dimitar Georgiev
@@ -148,8 +145,8 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 3.2.17, von 17-20 Uhr
-:   Montag, 6.2.17, von 15-18 Uhr
+:   Freitag, 1.9.17, von 17-20 Uhr
+:   Montag, 4.9.17, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -157,7 +154,7 @@ Kursleitung
 Kursgebühr
 :   120,- € / Semester
 
-Kundalini-Yoga / VHS-Kurs
+## Kundalini-Yoga / VHS-Kurs
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie die
 Anmeldung unter Telefon 040 771 10 303 bzw.
@@ -167,17 +164,11 @@ Termine
 :   Montags von 17.00-18.30 Uhr und 18.30-20.00 Uhr
 
 Kursleitung
-:   Helga Hentschel
+:   Helga Hentschel 
 
-Beginn
-:   Dienstag, 7.2.17, von 10-13 Uhr
 
-Kursleitung
-:   Gabriele Wendland  
-    [www.gabriele-wendland.de](http://www.gabriele-wendland.de)
 
-Kursgebühr
-:   120,- € / Semester
+
 
 ## Töpferschule für Kinder
 
@@ -191,7 +182,7 @@ Oberflächengestaltung zu erlernen.
 ![](/img/wsb_144x160_KursPlakat+017.jpg)
 
 Beginn
-:   Dienstag, 7.2.17, von 16.30-18.00 Uhr
+:   Dienstag, 5.9.17, von 16.30-18.00 Uhr
 
 Kursleitung
 :   Teresa Werdier
@@ -213,7 +204,7 @@ Aktzeichnen ist die Grundlage für jede Art der figürlichen Darstellung!
 ![](/img/ruecken.jpg)
 
 Beginn
-:   Dienstag, 7.2.17, von 18.30-21.30 Uhr
+:   Dienstag, 5.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -221,11 +212,18 @@ Kursleitung
 :   Kursgebühr
 
 160,- € inkl. Modellkosten  
-Termine
-:   Dienstags von 20.00-21.30 Uhr
 
-Kursleitung
-:   Elisabeth Trudzinski
+## Yoga 
+
+Informationen über Kursinhalte, Kurszeiten und Gebühren sowie die 
+Anmeldung unter Telefon 040 765 62 92 
+
+:   Dienstags von 20-21.30 Uhr
+
+Kursleitung 
+:	Elisabeth Trudzinski
+
+
 
 # Dienstag / Mittwoch
 
@@ -240,8 +238,8 @@ TeilnehmerInnen abgestimmt.
 ![](/img/wsb_145x143_Kachel+Musik+5x5.jpg)
 
 Beginn
-:   Mittwoch, 1.2.17
-:   Dienstag, 7.2.17
+:   Mittwoch, 6.9.17
+:   Dienstag, 5.9.17
 
 Kursleitung
 :   Bettina Sehlbach  
@@ -304,21 +302,21 @@ nachfragen.
 ![](/img/wsb_151x154_KHS8+042-gesch$C3$A4rft+etc.JPG)
 
 Beginn
-:   Mittwoch, 1.2.17, von 17-20 Uhr
+:   Mittwoch, 6.9.17, von 17-20 Uhr
 
 Kursleitung
 :   Christian Richert  
     [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
 
 Beginn
-:   Donnerstag, 2.2.17, von 9-12 Uhr
+:   Donnerstag, 7.9.17, von 9-12 Uhr
 
 Kursleitung
 :   Yves Rasch  
     [www.schwuenge.de](http://www.schwuenge.de)
 
 Beginn
-:   Donnerstag, 2.2.17, von 15-18 Uhr
+:   Donnerstag, 7.9.17, von 15-18 Uhr
 
 Kursleitung
 :   Christian Richert  
@@ -334,21 +332,21 @@ Kursgebühren
 Sehen lernen und das Gesehene in ein Bild umsetzen möchten viele -
 alles, was dazugehört, ist Geduld mit sich selbst und fachliche
 Unterstützung, um spielerisch mit Farben umgehen zu lernen, sie gezielt
-einzusetzen und damit einen eigenen Stil zu entwickeln. Alles das findet
+einzusetzen und damit einen eigenen Stil zu entwickeln. All das findet
 man in den Aquarellkursen, die u.a. Themen wie Landschaft, Stillleben
 oder Porträt behandeln.
 
 ![](/img/wsb_149x155_WEBAquarell2.jpg)
 
 Beginn
-:   Mittwoch, 1.2.17, von 18.30-21.30 Uhr
+:   Mittwoch, 6.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Elke Nack-Karstens  
     [www.elkenack-karstens.de](http://www.elkenack-karstens.de)
 
 Beginn
-:   Freitag, 3.2.17, von 10-13 Uhr
+:   Freitag, 1.9.17, von 10-13 Uhr
 
 Kursleitung
 :   Angelika Holzmann
@@ -370,7 +368,7 @@ Superteam bilden!
 ![](/img/wsb_151x125_Fr$C3$BChlingsfest_2007+023.jpg)
 
 Beginn
-:   Donnerstag, 2.2.17, von 15-18 Uhr
+:   Donnerstag, 7.9.17, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -402,7 +400,7 @@ möglich.
 
 ## Energy Dance / Yoga
 
-Energy Dance ist Bewegungstraining für alle, die Lust auf Bewegung und
+Energy Dance ist Training für alle, die Lust auf Bewegung und
 Rhythmus haben. Vielfältige dynamische Bewegungen werden zu fließenden
 Abläufen verbunden, ganz ohne Choreografie. Jeder kann mitmachen!
 
@@ -416,7 +414,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 2.2.17, von 19.30-21.30 Uhr
+:   Donnerstag, 7.9.17, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
@@ -436,7 +434,7 @@ Heimat Bulgarien Auszeichnungen für seine Arbeiten erhalten hat.
 ![](/img/wsb_270x158_DSCN0025.JPG)
 
 Beginn
-:   Donnerstag, 2.2.17, von 18.30-21.30 Uhr
+:   Donnerstag, 7.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Branimir Georgiev  
@@ -460,7 +458,7 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 2.2.17 von 16.30-18 Uhr
+:   Donnerstag, 7.9.17 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
