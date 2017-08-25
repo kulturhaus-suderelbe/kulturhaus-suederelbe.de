@@ -6,7 +6,7 @@ Seit sieben Jahren führt unser Kulturhaus Süderelbe als Koordinator und
 Organisator die vielen kulturellen Einzelveranstaltungen im Süderelberaum
 im Rahmen der Kulturtage zu einem beeindruckenden Ganzen zusammen.
 
-Die "Kulturtage Süderelbe 2017“ finden  
+Die „Kulturtage Süderelbe 2017“ finden  
 **von Fr, den 3. Nov. bis So, den 19. Nov. 17**  
 statt, diesmal eine Dauer von rund zwei Wochen.
 

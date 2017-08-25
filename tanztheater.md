@@ -1,14 +1,14 @@
-# Multikulturelles Tanztheater "Weltenspringer" für Kids
+# Multikulturelles Tanztheater „Weltenspringer“ für Kids
 
 In Zusammenarbeit mit Schulen und Kinder- und Jugendhilfeeinrichtungen
 begann eine Tanzcompagnie unter der Leitung von Wiebke Heinrich 2013,
 Kinder aus dem Raum Süderelbe in Kursen zu trainieren.
 
 Das war das erste Tanztheaterprojekt des Kulturhauses. Seit 2014 fördert
-"Chance Tanz", ein Projekt des Ministeriums für Bildung und Forschung,
+„Chance Tanz“, ein Projekt des Ministeriums für Bildung und Forschung,
 das inzwischen fünfte multikulturelle Tanztheater.
 
-Verantwortlich für die Umsetzung des Stückes **"Weltenspringer"** sind
+Verantwortlich für die Umsetzung des Stückes **„Weltenspringer“** sind
 die Tänzer Wiebke Heinrich und Kalidou Ba und Saskia Gottstein für
 Kostüm- und Bühnenbild.
 

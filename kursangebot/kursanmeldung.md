@@ -19,8 +19,8 @@ Download](/downloads/Kursanm_14.pdf)
 4.  Die Zahlung der Kursgebühr wird mit der Anmeldung im Voraus fällig.
     Rücktritt bis 14 Tage vor Kursbeginn ist kostenfrei, danach werden
     50% der Kursgebühr in Rechnung gestellt bzw. einbehalten. Abrechnung
-    der Kursgebühr für die Kinderangebote über das "Hamburger
-    Bildungspaket" ist möglich. Ermäßigung der Kursgebür für
+    der Kursgebühr für die Kinderangebote über das „Hamburger
+    Bildungspaket“ ist möglich. Ermäßigung der Kursgebür für
     Hartz-V-Empfänger/in ist möglich. Einzelheiten bitte im Büro des
     Kulturhauses erfragen.
 5.  Bei zu niedriger Teilnehmerzahl der einzelnen Kurse müssen, nach

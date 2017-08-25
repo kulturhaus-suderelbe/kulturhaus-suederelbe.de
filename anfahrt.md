@@ -11,7 +11,7 @@ gut zu erreichen.
 
 ![](/img/wsb_501x379_Wegeleit+Am+Johannisl++KH.jpg)
 
-Falls die Straße "Am Johannisland" bei Google-Maps noch nicht zu finden
-sein sollte: "Ackerweg 21147 Hamburg" eingeben.
+Falls die Straße „Am Johannisland“ bei Google-Maps noch nicht zu finden
+sein sollte: „Ackerweg 21147 Hamburg“ eingeben.
 
 ![](/img/wsb_347x331_AnfSkizze.jpg)

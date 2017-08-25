@@ -14,8 +14,8 @@ Einrichtungen in der Region.
     Johannisland](http://www.schule-quellmoor.hamburg.de/index.php/)
 -   [Kita Am
     Johannisland](http://www.kitas-hamburg.de/kitas/kitazeigen.php?KITAID=130)
--   [Pestalozzi-Stiftung "Jugendfreitzeitlounge
-    Neugraben"](http://www.pestalozzi-hamburg.de/freizeitlounge_ng.html)
+-   [Pestalozzi-Stiftung „Jugendfreitzeitlounge
+    Neugraben“](http://www.pestalozzi-hamburg.de/freizeitlounge_ng.html)
 -   [Ev. Beratungstelle
     Süderelbe](http://www.beratungsstelle-suederelbe.de)
 -   [VT Aurubis](http://vt-aurubis-hamburg.de)
