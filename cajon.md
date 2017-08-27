@@ -1,11 +1,10 @@
-# Cajon Bau&Spiel-Workshop am 12. Nov. 2017
+# Cajon Bau&Spiel-Workshop
 
-![](/img/wsb_282x267_Kachel+Sanna-20091022-578x-$C2$AEPollert-5x5.jpg)
+![](/img/Rottger_Hallmann_rdz.jpg)
 
-**Am Sonntag, den 12.11.2017** findet wieder ein Cajon-Workshop mit
-Cajonbau und Cajonspielen statt.
+## Am Sonntag, den 12.11.2017
 
-Von 10.00-12.00 Uhr kann ein Cajon unter der Leitung von Sanna Hallmann
+**Von 10.00-12.00 Uhr** kann ein Cajon unter der Leitung von Sanna Hallmann
 gebaut werden; besondere Vorkenntnisse sind dabei nicht erforderlich.
 
 **Von 12.30 bis 16.00 Uhr** vermittelt Martin Röttger AnfängerInnen und

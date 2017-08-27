@@ -10,6 +10,7 @@ navigation:
   - literaturcafe
   - suederelbe-archiv
   - theater
+  - cajon
   - puppentheater
   - kindergeburtstage
   - fortbildung
