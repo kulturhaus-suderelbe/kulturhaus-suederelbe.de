@@ -17,18 +17,15 @@ gegeben.
 
 ## Am Sonntag, den 3. September 2017 um 16 Uhr
 
-liest Dieter Wehrbrink eine Auswahl der schönsten Märchen
+liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck eine Auswahl der schönsten **Märchen aus aller Welt**.
 
-**Märchenreise**
-
-![](/img/.jpg)
+![](/img/dieter_maerchen.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
-## Kontakt
-
-Dieter Wehrbrink, Telefon 040 702 55 06  
-Kulturhaus Süderelbe, Telefon 040 796 72 22
+Kontakt
+:   Dieter Wehrbrink, Telefon 040 702 55 06  
+    Kulturhaus Süderelbe, Telefon 040 796 72 22
 
 ![](/img/wsb_217x24_Logo_Striepensaal+geschnitten.JPG)
 ![](/img/wsb_280x141_Striepensaal+WEB.jpg)
