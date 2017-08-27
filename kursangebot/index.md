@@ -7,9 +7,7 @@ navigation:
 
 # Kursangebot
 
-37 Jahre Kulturhaus Süderelbe e.V.
-
-1980 - 2017
+## 1980 - 2017: 37 Jahre Kulturhaus Süderelbe e.V.
 
 ![](/img/wsb_139x188_Web+15_1.jpg)
 ![](/img/wsb_139x196_KHS1+099-A2.jpg)
@@ -18,7 +16,7 @@ navigation:
 ## Semesterbeginn am 01. Februar und am 01. September
 
 Ein neues Semester mit zahlreichen Möglichkeiten, sich unter
-fachkundiger Anleitung kreativ zu betätigen, startet am 1. September 2016.
+fachkundiger Anleitung kreativ zu betätigen, startet am 1. September 2017.
 Zu zivilen Preisen kann hier im Bereich bildende Kunst gemalt,
 gezeichnet, geschnitzt oder getöpfert werden. Im Musikbereich und im
 Bereich Bewegung findet ebenfalls wöchentlicher Unterricht statt
@@ -39,4 +37,4 @@ auch für Fortgeschrittene geeignet. Eine Probestunde kann vereinbart
 werden. Eine Ermäßigung der Gebühren ist nach Absprache möglich.
 
 **Das aktuelle Programmangebot finden Sie links unter [Kursprogramm
-2016/17](/kursangebot/kursprogramm.html)**
+2017/18](/kursangebot/kursprogramm.html)**

@@ -1,10 +1,5 @@
 # Leitbild
 
-Kulturhaus Süderelbe e.V. | Am Johannisland 2 | 21147 Hamburg  
-Tel.: 7967222 | Fax: 7960048  
-E-Mail: info@kulturhaus-suederelbe.de | Web:
-www.kulturhaus-suederelbe.de
-
 ## Den Künstler in Menschen entdecken
 
 Der Verein „Kulturhaus Süderelbe e.V.“ und seine Mitarbeiter sind dem

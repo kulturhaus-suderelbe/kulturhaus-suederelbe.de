@@ -1,6 +1,6 @@
 # Kulturhaus Süderelbe im BGZ Süderelbe
 
-![](/img/wsb_255x132_BGZ+LoGO+WEB.jpg)
+[![BGZ Süderelbe](/img/wsb_255x132_BGZ+LoGO+WEB.jpg)](http://www.bgz-suederelbe.de)
 [www.bgz-suederelbe.de](http://www.bgz-suederelbe.de)
 
 Wir freuen uns über die Zusammenarbeit, gegenseitige Unterstützung und

@@ -1,4 +1,4 @@
-# Kursprogramm Wintersemester 2016/2017
+# Kursprogramm Wintersemester 2017/2018
 
 ## Semesterbeginn am 1. September 2017
 
@@ -55,7 +55,7 @@ niederließ. Dort gründete er die Musik- und Tanzformation „Diamoral“ und
 unterrichtet an zahlreichen Schulen.
 
 Trommeln bitte mitbringen - diese können auch über die Trommelschule
-NeuWulmstorf geliehen werden. Neue TeilnehmerInnen sind herzlich
+Neu Wulmstorf geliehen werden. Neue TeilnehmerInnen sind herzlich
 willkommen; eine Probestunde ist möglich.
 
 ![](/img/wsb_130x135_Foto+Aliou+Badji-Kachel.jpg)
@@ -94,8 +94,8 @@ E-Bass
 ![](/img/KHS3-078.jpg)
 
 Beginn
-:   Donnerstag 2.2.17 von 14.30-22.00 Uhr
-:   Montag, 6.2.17 von 14.30-22.00 Uhr
+:   Montag 4.9.17 von 14.30-22.00 Uhr
+:   Donnerstag, 7.9.17 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
@@ -126,7 +126,7 @@ abgestimmt.
 ![](/img/wsb_130x150_Dimitar+Georgiev+-+Saxophon+$282014.01$292.jpg)
 
 Beginn
-:   Montag, 6.2.17 von 14-20 Uhr
+:   Montag, 4.9.17 von 14-20 Uhr
 
 Kursleitung
 :   Dimitar Georgiev
@@ -148,8 +148,9 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 3.2.17, von 17-20 Uhr
-:   Montag, 6.2.17, von 15-18 Uhr
+:   Freitag, 1.9.17, von 15-18 Uhr
+:   Montag, 4.9.17, von 17-20 Uhr
+
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -157,7 +158,8 @@ Kursleitung
 Kursgebühr
 :   120,- € / Semester
 
-Kundalini-Yoga / VHS-Kurs
+
+## Kundalini-Yoga / VHS-Kurs
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie die
 Anmeldung unter Telefon 040 771 10 303 bzw.
@@ -202,7 +204,7 @@ Oberflächengestaltung zu erlernen.
 ![](/img/wsb_144x160_KursPlakat+017.jpg)
 
 Beginn
-:   Dienstag, 7.2.17, von 16.30-18.00 Uhr
+:   Dienstag, 5.9.17, von 16.30-18.00 Uhr
 
 Kursleitung
 :   Teresa Werdier
@@ -224,14 +226,18 @@ Aktzeichnen ist die Grundlage für jede Art der figürlichen Darstellung!
 ![](/img/ruecken.jpg)
 
 Beginn
-:   Dienstag, 7.2.17, von 18.30-21.30 Uhr
+:   Dienstag, 5.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
-:   
-:   Kursgebühr
 
-160,- € inkl. Modellkosten  
+Kursgebühr
+:   160,- € inkl. Modellkosten
+
+## Yoga
+
+Informationen über Kursinhalte, Kurszeiten und Kosten sowie Kursanmeldung bitte direkt unter Telefon: 040 765 62 92, E-Mail: [etrudzinski@web.de](mailto:etrudzinski@web.de)
+
 Termine
 :   Dienstags von 20.00-21.30 Uhr
 
@@ -251,8 +257,8 @@ TeilnehmerInnen abgestimmt.
 ![](/img/wsb_145x143_Kachel+Musik+5x5.jpg)
 
 Beginn
-:   Mittwoch, 1.2.17
-:   Dienstag, 7.2.17
+:   Dienstag, 5.9.17
+:   Mittwoch, 6.9.17
 
 Kursleitung
 :   Bettina Sehlbach  
@@ -315,21 +321,21 @@ nachfragen.
 ![](/img/wsb_151x154_KHS8+042-gesch$C3$A4rft+etc.JPG)
 
 Beginn
-:   Mittwoch, 1.2.17, von 17-20 Uhr
+:   Mittwoch, 6.9.17, von 17-20 Uhr
 
 Kursleitung
 :   Christian Richert  
     [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
 
 Beginn
-:   Donnerstag, 2.2.17, von 9-12 Uhr
+:   Donnerstag, 7.9.17, von 9-12 Uhr
 
 Kursleitung
 :   Yves Rasch  
     [www.schwuenge.de](http://www.schwuenge.de)
 
 Beginn
-:   Donnerstag, 2.2.17, von 15-18 Uhr
+:   Donnerstag, 7.9.17, von 15-18 Uhr
 
 Kursleitung
 :   Christian Richert  
@@ -352,14 +358,14 @@ oder Porträt behandeln.
 ![](/img/wsb_149x155_WEBAquarell2.jpg)
 
 Beginn
-:   Mittwoch, 1.2.17, von 18.30-21.30 Uhr
+:   Mittwoch, 6.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Elke Nack-Karstens  
     [www.elkenack-karstens.de](http://www.elkenack-karstens.de)
 
 Beginn
-:   Freitag, 3.2.17, von 10-13 Uhr
+:   Freitag, 1.9.17, von 10-13 Uhr
 
 Kursleitung
 :   Angelika Holzmann
@@ -381,7 +387,7 @@ Superteam bilden!
 ![](/img/wsb_151x125_Fr$C3$BChlingsfest_2007+023.jpg)
 
 Beginn
-:   Donnerstag, 2.2.17, von 15-18 Uhr
+:   Donnerstag, 7.9.17, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -398,7 +404,7 @@ unterrichtet außer im Kulturhaus an vielen Orten Hamburgs.
 ![](/img/KHS4-001.jpg)
 
 Beginn
-:   Donnerstag, 2.9.17; Uhrzeiten nach Absprache
+:   Donnerstag, 7.9.17; Uhrzeiten nach Absprache
 
 Kursleitung
 :   Dietwalt Mauruschat  
@@ -427,7 +433,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 2.2.17, von 19.30-21.30 Uhr
+:   Donnerstag, 7.9.17, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
@@ -447,7 +453,7 @@ Heimat Bulgarien Auszeichnungen für seine Arbeiten erhalten hat.
 ![](/img/wsb_270x158_DSCN0025.JPG)
 
 Beginn
-:   Donnerstag, 2.2.17, von 18.30-21.30 Uhr
+:   Donnerstag, 7.9.17, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Branimir Georgiev  
@@ -471,7 +477,7 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 2.2.17 von 16.30-18 Uhr
+:   Donnerstag, 7.9.17 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
