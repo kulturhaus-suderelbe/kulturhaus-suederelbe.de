@@ -2,12 +2,12 @@
 
 ## Semesterbeginn am 1. September 2017
 
-![](/img/wsb_518x212_Programm_2016_Deckblatt.jpg)
+![](/img/flyer17-18.jpg)
 
 Unser Programmflyer hier zum Download: [Kursprogramm
-2016/2017](/downloads/Programm_2016.pdf)
+2017/2018](/downloads/Programm_2017-2018.pdf)
 
-Kursdauer / Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
+Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
 einzelnen Kurse nach Absprache entweder die Kursdauer gekürzt oder die
 Kursgebühr erhöht wird (siehe „Teilnahmebedingungen“).
@@ -25,7 +25,7 @@ Mehr Infos finden Sie hier:
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
 unabhängig von Vorkenntnissen und sonstigen Voraussetzungen - das
 ermöglichen die beiden Fachfrauen für Ölmalerei, Margrit Werner und
-Gabriele Wendland. Dabei spielt die genseitige Anregung in der Gruppe
+Gabriele Wendland. Dabei spielt die gegenseitige Anregung in der Gruppe
 und das gemeinsame Arbeiten unter fachgerechter Anleitung die
 Hauptrolle. Es gibt keine Erwartungen und keinen Zwang, „nur“ die
 Vermittlung von Techniken in qualifizierter Form.
@@ -110,8 +110,9 @@ Kursgebühr
     Einzelunterricht
     :   300,- € / Semester, 250,- € / Semester für Kinder
 
-Die Abrechnung der Kursgebühr für Kinder ist über das „Bildungspaket“
-möglich.
+Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
+möglich, genau wie die monatliche Bezahlung von € 50,- bzw. € 60,-.
+
 
 ## Saxophon, Klarinette, Blockflöte, Klavier
 
@@ -351,7 +352,7 @@ Kursgebühren
 Sehen lernen und das Gesehene in ein Bild umsetzen möchten viele -
 alles, was dazugehört, ist Geduld mit sich selbst und fachliche
 Unterstützung, um spielerisch mit Farben umgehen zu lernen, sie gezielt
-einzusetzen und damit einen eigenen Stil zu entwickeln. Alles das findet
+einzusetzen und damit einen eigenen Stil zu entwickeln. All das findet
 man in den Aquarellkursen, die u.a. Themen wie Landschaft, Stillleben
 oder Porträt behandeln.
 
@@ -419,7 +420,7 @@ möglich.
 
 ## Energy Dance / Yoga
 
-Energy Dance ist Bewegungstraining für alle, die Lust auf Bewegung und
+Energy Dance ist Training für alle, die Lust auf Bewegung und
 Rhythmus haben. Vielfältige dynamische Bewegungen werden zu fließenden
 Abläufen verbunden, ganz ohne Choreografie. Jeder kann mitmachen!
 
