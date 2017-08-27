@@ -9,6 +9,7 @@ navigation:
   - kulturtage
   - literaturcafe
   - suederelbe-archiv
+  - theater
   - puppentheater
   - kindergeburtstage
   - fortbildung

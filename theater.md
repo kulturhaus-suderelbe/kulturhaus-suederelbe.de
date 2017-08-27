@@ -1,10 +1,10 @@
-# Theater Mär: „Obstgärtchen“ am 24. Okt. 17
+# Theater Mär: „Obstgärtchen“ am 24. Okt. 2017
 
-## Am Dienstag, 24. Oktober 17 um 11.00 Uhr
+## Am Dienstag, 24. Oktober 2017 um 11.00 Uhr
 
 ![](/img/wsb_441x564_Plakat_web.jpg)
 
-### Theater für Kinder ab 3  Jahren nach einem Brettspiel von HABA
+### Theater für Kinder ab 3 Jahren nach einem Brettspiel von HABA
 
 Mit Musik und Theaterspiel, mit gemeinsamen Entscheidungen und Fantasie ist das
 beliebte HABA-Brettspiel durch Theater Mär für die Bühne umgesetzt. Der Gärtner
