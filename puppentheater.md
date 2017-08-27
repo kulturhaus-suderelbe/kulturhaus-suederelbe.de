@@ -14,8 +14,7 @@ und Humor bezieht Maya Raue die Kinder mit in die Geschichte ein.
 Lebendiges Puppentheater zum Anfassen, denn am Schluss dürfen die Kinder
 noch ausgiebig mit einer der Figuren quatschen und Faxen machen. Karten
 können über das Puppentheater Kollin Kläff per Mail oder telefonisch
-reserviert werden:  
-040-18204876, <puppentheater@kollin-klaeff.de>
+reserviert werden: 040-18204876, <puppentheater@kollin-klaeff.de>
 
 Für Menschen von 2 bis 99 Jahren.  
 **Eintritt: 6 €** (inkl. eine Süßigkeit oder ein Getränk)  

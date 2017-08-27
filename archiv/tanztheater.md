@@ -20,18 +20,15 @@ aufwachsen.
 
 Kontakt: Wiebke Heinrich, <juneejah@gmail.com>
 
-## Aufführung der Weltenspringer
+## Vergangene Aufführungen
+
+### Im Rieckhof
 
 am 25. Juni 2017 um 16 Uhr  
-im Rieckhof  
 Rieckhofstr. 12  
 21073 Hamburg
 
-**Eintritt frei!**
-
 ![](/img/wsb_487x345_Flyer_250617.jpg)
-
-## Vergangene Aufführungen
 
 ### Im Theater Zeppelin am 21. Mai 2017
 
