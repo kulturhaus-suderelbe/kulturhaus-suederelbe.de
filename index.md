@@ -8,7 +8,9 @@ Kulturbehörde Hamburg bzw. das Bezirksamt Harburg zum großen Teil
 finanziert; Projektmittel ergänzen die Finanzierung.
 
 Wer unsere Arbeit unterstützen möchte, kann mit dem jährlichen Beitrag
-von 24,- € Mitglied werden. In der Mitgliederversammlung unseres Vereins
+von 24,- € Mitglied werden.
+
+In der Mitgliederversammlung unseres Vereins
 am 12. November 2015 wurde der Vereinsvorstand wie folgt neu gewählt:
 
 1\. Vorstand
@@ -20,19 +22,9 @@ am 12. November 2015 wurde der Vereinsvorstand wie folgt neu gewählt:
 Schatzmeister
 :   Winfried Wöhlke
 
-------------------------------------------------------------------------
 
-![](/img/wsb_154x81_BGZ_Logo_rgb_transparent_HG.jpg)
-
-Das Kulturhaus Süderelbe befindet sich direkt am S-Bahnhof Neugraben im
-ersten Stockwerk des BGZ Süderelbe und ist über einen Fahrstuhl
-barrierefrei zu erreichen.
-
-------------------------------------------------------------------------
-
+# 37 Jahre Kunst- und Kulturhaus Süderelbe e.V.
 ## 1980 - 2017
-
-### 37 Jahre Kunst- und Kulturhaus Süderelbe e.V.
 
 #### Kultur vor Ort
 
@@ -144,5 +136,4 @@ Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 im Verein können Sie unsere Arbeit unterstützen. Eine
 Spendenbescheinigung kann erstellt werden.
 
-[Hier finden Sie die Satzung](/downloads/Satzung_121115_Neu.pdf) [unseres
-Vereins](http://www.kulturhaus-suederelbe.de/xml/wfxdirect/res;jsessionid=644BE08AAFE31835E67C9D417FC705C0.TCpfix100a?name=Satzung_121115_Neu.pdf)
+[Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
