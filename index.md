@@ -1,3 +1,26 @@
+---
+navigation:
+  - index
+  - leitbild
+  - anfahrt
+  - bgz
+  - kursangebot
+  - ausstellungen
+  - kulturtage
+  - literaturcafe
+  - suederelbe-archiv
+  - puppentheater
+  - kindergeburtstage
+  - fortbildung
+  - gefluechtete
+  - tanztheater
+  - sommerfest
+  - therapie
+  - links
+  - kontakt
+  - archiv
+---
+
 # Wir über uns
 
 ![](/img/KH_Luftballon_web.jpg)

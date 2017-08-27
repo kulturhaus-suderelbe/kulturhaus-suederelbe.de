@@ -1,0 +1,48 @@
+{%- for p in site.pages -%}
+
+{%- if p.name == 'index.md' and p.dir == include.dir -%}
+
+{%- if p.navigation -%}
+{%- assign navigation = p.navigation -%}
+{%- else -%}
+
+{%- assign navigation = "" | split: "/" -%}
+
+{%- for q in site.pages -%}
+{%- if q.dir == p.dir and q.name != 'index.md' -%}
+{%- assign name = q.name | remove: ".md" -%}
+{%- assign navigation = navigation | push: name -%}
+{%- endif -%}
+{%- endfor -%}
+
+{%- assign navigation = navigation | sort -%}
+
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
+
+<ul>
+{%- for n in navigation -%}
+{%- assign name = n | append: ".md" -%}
+
+{%- for p in site.pages -%}
+{%- assign dir = p.dir | remove: '/' -%}
+
+{%- if p.name == 'index.md' and dir == n and dir != include.dir %}
+<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+
+{%- if p.url == page.url or p.dir == page.dir and page.dir != '/' %}
+{% include navigation.html dir=p.dir %}
+{% endif -%}
+
+{%- endif -%}
+
+
+{%- if p.dir == include.dir and p.name == name %}
+<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+{%- endif -%}
+
+
+{%- endfor -%}
+{%- endfor %}
+</ul>

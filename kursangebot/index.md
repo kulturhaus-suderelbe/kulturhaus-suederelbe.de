@@ -1,3 +1,10 @@
+---
+navigation:
+  - kursprogramm
+  - kursanmeldung
+  - kinderkurse
+---
+
 # Kursangebot
 
 37 Jahre Kulturhaus Süderelbe e.V.
