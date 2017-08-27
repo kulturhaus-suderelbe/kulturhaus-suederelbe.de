@@ -10,11 +10,15 @@ $yellow: #eed435
 $red: rgb(205,23,25)
 $grey: #666666
 $device-break: 50em
+$two: 2em
+$one: 1em
+$half: 0.5em
+$h1-size: 1.5em
 
 img
   max-width: 100%
   max-height: 50vh
-  padding: 0.5em 1em 0.5em 0
+  padding: $half $one $half 0
   vertical-align: middle
 
 body
@@ -23,7 +27,10 @@ body
   margin: 0 auto
   background-color: $yellow
   @media screen and (min-width: $device-break)
-    padding-right: 2em
+    padding-right: $two // make sure colored border is always visible
+
+p
+  margin: $one 0 $one 0
 
 .navheader
   display: table
@@ -40,7 +47,7 @@ body
     &:last-child
       @media screen and (max-width: $device-break)
         width: 100vw
-      padding: 0 2em 0 2em
+      padding: 0 $two 0 $two
       background-color: white
 
 ul
@@ -51,32 +58,38 @@ h2
   margin-top: 0
 
 h1
-  font-size: 1.5em
-  padding-top: 1em
-  padding-left: 2em
-  margin-left: -2em
+  font-size: $h1-size
+  padding-top: $one
+  margin-top: $one
+  padding-left: $two
+  margin-left: -$two
+  // `em` is relative to the font size
+  @media screen and (min-width: $device-break)
+    padding-right: 1em * $two/$h1-size
+    margin-right: -1em * $two/$h1-size
   @media screen and (max-width: $device-break)
-    padding-right: 2em
-    margin-right: -2em
-  border-top: 1em solid $yellow
+    padding-right: 1em * $one/$h1-size
+    margin-right: -1em * $one/$h1-size
+  border-top: $one solid $yellow
   &:first-child
+    padding-top: 0
     margin-top: 0
     border: none
 
 h5
   background-color: $yellow
-  padding: 0.5em
-  font-size: 1em
+  padding: $half
+  font-size: $one
 
 dt
-  margin: 0.5em 0 0 0
+  margin: $half 0 0 0
   font-weight: bold
 
 dd
-  margin-left: 1em
+  margin-left: $one
 
 li
-  margin: 1em 0 1em 0
+  margin: $one 0 $one 0
 
 a
   color: $grey
@@ -98,24 +111,23 @@ nav
   @media screen and (min-width: $device-break)
     float: left
     width: $nav
-    padding-right: 2em
-    padding-top: 4.5em // should start below first heading
+    padding-right: $two
+    padding-top: $two + $h1-size + $one + $half  // should start below first heading
     background-color: $yellow
   @media screen and (max-width: $device-break)
-    margin: 1em
-    padding-right: 1em
+    margin: $one
+    padding-right: $one
   ul
-    padding-left: 2em
+    padding-left: $two
   li
     list-style-type: none
-    margin-bottom: 1.5em
+    margin: 0 0 1.5em 0
 
 div.page
   background-color: white
   @media screen and (min-width: $device-break)
     margin-left: $nav
-    padding: 2em
-    padding-top: 1em
+    padding: $two
   @media screen and (max-width: $device-break)
-    padding: 1em
+    padding: $one
 
