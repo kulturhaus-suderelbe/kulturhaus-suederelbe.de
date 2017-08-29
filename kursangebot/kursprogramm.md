@@ -434,7 +434,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 7.9.17, von 19.30-21.30 Uhr
+:   Donnerstag, 14.9.17, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
