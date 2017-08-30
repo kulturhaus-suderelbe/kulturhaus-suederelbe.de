@@ -10,6 +10,11 @@
 
 {%- for q in site.pages -%}
 {%- assign name = q.name | remove: ".md" -%}
+
+{%- if include.dir == '/' and q.dir == '/' and q.name == 'index.md' -%}
+{%- assign navigation = navigation | push: name -%}
+{%- endif -%}
+
 {%- if q.dir == p.dir and q.name != 'index.md' -%}
 {%- assign navigation = navigation | push: name -%}
 {%- endif -%}
@@ -28,8 +33,6 @@
 {%- endif -%}
 
 {%- endfor -%}
-
-{%- assign navigation = navigation | sort -%}
 
 {%- endif -%}
 {%- endif -%}
