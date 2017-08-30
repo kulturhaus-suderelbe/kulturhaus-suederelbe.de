@@ -9,10 +9,24 @@
 {%- assign navigation = "" | split: "/" -%}
 
 {%- for q in site.pages -%}
-{%- if q.dir == p.dir and q.name != 'index.md' -%}
 {%- assign name = q.name | remove: ".md" -%}
+{%- if q.dir == p.dir and q.name != 'index.md' -%}
 {%- assign navigation = navigation | push: name -%}
 {%- endif -%}
+
+{%- if q.dir != p.dir and q.name == 'index.md' -%}
+{%- assign qdir = q.dir | split: '/' -%}
+{%- assign pdir = p.dir | split: '/' -%}
+{%- assign qdir_name = qdir.last | join: '' -%}
+{%- assign qdir_dir = qdir[-2] | join: '' -%}
+{%- assign pdir_dir = pdir.last | join: '' -%}
+
+{%- if qdir_dir == pdir_dir -%}
+{%- assign navigation = navigation | push: qdir_name -%}
+{%- endif -%}
+
+{%- endif -%}
+
 {%- endfor -%}
 
 {%- assign navigation = navigation | sort -%}
@@ -26,17 +40,21 @@
 {%- assign name = n | append: ".md" -%}
 
 {%- for p in site.pages -%}
-{%- assign dir = p.dir | remove: '/' -%}
+{%- assign dir = p.dir | split: '/' | last -%}
 
 {%- if p.name == 'index.md' and dir == n and dir != include.dir %}
 <li><a href="{{ p.url }}">{{ p.title }}</a></li>
 
-{%- if p.url == page.url or p.dir == page.dir and page.dir != '/' %}
-{% include navigation.html dir=p.dir %}
-{% endif -%}
-
+{%- if p.url == page.url or p.dir == page.dir and page.dir != include.dir %}
+{%- include navigation.html dir=p.dir -%}
 {%- endif -%}
 
+{%- assign dirname = page.dir | split: '/' | pop | join: '/' | append: '/' -%}
+{%- if p.dir == dirname %}
+{%- include navigation.html dir=p.dir -%}
+{%- endif -%}
+
+{%- endif -%}
 
 {%- if p.dir == include.dir and p.name == name %}
 <li><a href="{{ p.url }}">{{ p.title }}</a></li>
