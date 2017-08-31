@@ -45,8 +45,14 @@
 {%- for p in site.pages -%}
 {%- assign dir = p.dir | split: '/' | last -%}
 
+{%- if p.url == page.url -%}
+{%- assign class = 'class="current" ' -%}
+{%- else -%}
+{%- assign class = '' -%}
+{%- endif -%}
+
 {%- if p.name == 'index.md' and dir == n and dir != include.dir %}
-<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+<li><a {{class}}href="{{ p.url }}">{{ p.title }}</a></li>
 
 {%- if p.url == page.url or p.dir == page.dir and page.dir != include.dir %}
 {%- include navigation.html dir=p.dir -%}
@@ -60,7 +66,7 @@
 {%- endif -%}
 
 {%- if p.dir == include.dir and p.name == name %}
-<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+<li><a {{class}}href="{{ p.url }}">{{ p.title }}</a></li>
 {%- endif -%}
 
 
