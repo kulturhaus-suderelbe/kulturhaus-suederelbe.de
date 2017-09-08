@@ -1,6 +1,8 @@
 # Johannes Kirchberg: MEINE SEELE IST NOCH UNTERWEGS am 10. Nov. 17
 
-## am 10. Nov. 2017
+## um 19.30 Uhr 
+
+## Ein WOLFGANG BORCHERT Programm 
 
 ![](/img/Kirchberg-Meine-Seele-Plakatmotiv.jpg)
 
