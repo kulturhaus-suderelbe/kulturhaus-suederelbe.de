@@ -18,7 +18,6 @@ navigation:
   - gefluechtete
   - tanztheater
   - sommerfest
-  - therapie
   - links
   - kontakt
   - archiv
