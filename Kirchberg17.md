@@ -20,7 +20,7 @@ des scheinbar Banalen.
 Der distanzlose Verfasser zeitloser Lyrik bekommt durch Johannes Kirchberg eine Stimme.
 ‚Meine Seele ist noch unterwegs‘ ist eine Verbeugung vor dem Dichter.
 
-[www.johannes-kirchberg.de](http://www.johannes-kirchberg.de/wie-frueher-nur-besser/)
+[www.johannes-kirchberg.de](http://www.johannes-kirchberg.de/meine-seele-ist-noch-unterwegs/)
 
 **Kulturhaus Süderelbe e.V.**  
 Am Johannisland 2  
@@ -30,7 +30,7 @@ Email: info@kulturhaus-suederelbe.de
 
 **Eintritt: 12 €**  
 Im Vorverkauf sind Karten im Kulturhaus Süderelbe, im FitHus (BGZ) und
-an der Theaterkasse Kähler(EKZ Neugraben)erhältlich.  
+an der Theaterkasse Kähler (EKZ Neugraben) erhältlich.  
 Abendkasse: 14 €
 
 
