@@ -4,10 +4,10 @@
 
 ## Am Sonntag, den 12.11.2017
 
-**Von 10.00-12.00 Uhr** kann ein Cajon unter der Leitung von Sanna Hallmann
+**Von 10.00-13.00 Uhr** kann ein Cajon unter der Leitung von Sanna Hallmann
 gebaut werden; besondere Vorkenntnisse sind dabei nicht erforderlich.
 
-**Von 12.30 bis 16.00 Uhr** vermittelt Martin Röttger AnfängerInnen und
+**Von 14.00-16.00 Uhr** vermittelt Martin Röttger AnfängerInnen und
 TeilnehmerInnen mit Vorkenntnissen im Spiel-Workshop Schlagtechniken,
 Schlagzeug-Sound und die Nutzung des Cajon als rhythmische Basis für
 andere Instrumente. Es werden auf Wunsch auch die Themen
