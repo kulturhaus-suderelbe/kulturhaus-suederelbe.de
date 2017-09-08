@@ -11,6 +11,7 @@ navigation:
   - suederelbe-archiv
   - theater
   - cajon
+  - kirchberg17
   - puppentheater
   - kindergeburtstage
   - fortbildung
