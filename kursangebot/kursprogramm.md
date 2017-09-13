@@ -478,7 +478,7 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 14.9.17 von 16.30-18 Uhr
+:   Donnerstag, 21.9.17 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
