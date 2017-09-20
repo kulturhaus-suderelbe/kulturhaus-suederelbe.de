@@ -15,11 +15,11 @@ gegeben.
 (Min.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 
-## Am Sonntag, den 3. September 2017 um 16 Uhr
+## Am Sonntag, den 1. Oktober 2017 ab 16 Uhr
 
-liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck eine Auswahl der schönsten **Märchen aus aller Welt**.
+liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck "Das Tagebuch von Adam und Eva", eine humorvolle Geschichte von Mark Twain.
 
-![](/img/dieter_maerchen.jpg)
+![](/img/index.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
