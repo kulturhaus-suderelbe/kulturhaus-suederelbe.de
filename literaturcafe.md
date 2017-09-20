@@ -19,7 +19,7 @@ gegeben.
 
 liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck "Das Tagebuch von Adam und Eva", eine humorvolle Geschichte von Mark Twain.
 
-![](/img/index.jpg)
+![](/img/dieter_adam_eva.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
