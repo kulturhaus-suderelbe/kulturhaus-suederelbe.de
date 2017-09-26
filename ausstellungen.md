@@ -10,7 +10,16 @@ Angelika Holzmann, Kursleiterin für Aquarellmalerei, stellt ihre Bilder vom 11.
 
 Bei der Vernissage führt die Künstlerin erläuternd durch die Ausstellung.
 
-# Vergangene Ausstellungen
+#Zukünftige Aussstellungen 
+
+Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
+Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
+Während der Kulturtage Süderelbe stellen sowohl die Künstlerin selbst als auch ihre Schülerinnen und Schüler im Kulturhaus aus. 
+Es sind vor allem Kinder und Jugendliche aus den Kreisen der Geflüchteten, die ihre Bilder zur Verfügung stellen. 
+Die Ausstellung läuft vom Dienstag, den 14.11.17, bis zum 30.11.17; die Vernissage ist am Montag, den 13.11.17 um 17 Uhr.
+Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
+ 
+## Vergangene Ausstellungen
 
 ## Dimitar Georgiev: „Mensch und Umgebungen“
 
