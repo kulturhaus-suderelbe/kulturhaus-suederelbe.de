@@ -10,7 +10,7 @@ Angelika Holzmann, Kursleiterin für Aquarellmalerei, stellt ihre Bilder vom 11.
 
 Bei der Vernissage führt die Künstlerin erläuternd durch die Ausstellung.
 
-##Zukünftige Aussstellungen 
+#Zukünftige Aussstellungen 
 
 Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
 Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
