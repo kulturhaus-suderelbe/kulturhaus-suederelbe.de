@@ -23,20 +23,34 @@ Dauer ca. 40 Min.
 Voranmeldung für Gruppen erforderlich
 
 ## Termine
-15.Okt. 2017 um 11 Uhr  Kollin und der gestohlene Zauberstab
-			 um 15 Uhr  Kollin und der freche Drache Blitz
-05.Nov. 2017 um 11 Uhr  Kollin und der Superkleber
-			 um 15 Uhr  Kollin und der dufte König
-03.Dez. 2017 um 11 Uhr  Kollin und der Weihnachtsmann
-			 um 15 Uhr  Kollin und der Superkleber
-07.Jan. 2018 um 11 Uhr  Kollin und die Glitzerschnecke
-			 um 15 Uhr  Kollin und der Zauberstab
-04.Feb. 2018 um 11 Uhr  Kollin und der freche Drache
-			 um 15 Uhr  Kollin auf dem Bauernhof
-04.Mrz. 2018 um 11 Uhr  Kollin und der kleine Pirat
-			 um 15 Uhr  Kollin und die Glitzerschnecke
-08.Apr. 2018 um 11 Uhr  Kollin auf dem Bauernhof
-			 um 15 Uhr  Kollin und der kleine Pirat
+
+15. Okt. 2017
+:   um 11 Uhr „Kollin und der gestohlene Zauberstab“
+:   um 15 Uhr „Kollin und der freche Drache Blitz“
+
+05. Nov. 2017
+:   um 11 Uhr „Kollin und der Superkleber“
+:   um 15 Uhr „Kollin und der dufte König“
+
+03. Dez. 2017
+:   um 11 Uhr „Kollin und der Weihnachtsmann“
+:   um 15 Uhr „Kollin und der Superkleber“
+
+07. Jan. 2018
+:   um 11 Uhr „Kollin und die Glitzerschnecke“
+:   um 15 Uhr „Kollin und der Zauberstab“
+
+04. Feb. 2018
+:   um 11 Uhr „Kollin und der freche Drache“
+:   um 15 Uhr „Kollin auf dem Bauernhof“
+
+04. Mrz. 2018
+:   um 11 Uhr „Kollin und der kleine Pirat“
+:   um 15 Uhr „Kollin und die Glitzerschnecke“
+
+08. Apr. 2018
+:   um 11 Uhr „Kollin auf dem Bauernhof“
+:   um 15 Uhr „Kollin und der kleine Pirat“
 
 
 ![Termine](/img/wsb_428x909_Harburg+Neugraben+hinten+2017_druck.jpg)
