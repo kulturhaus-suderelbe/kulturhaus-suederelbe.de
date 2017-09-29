@@ -2,8 +2,8 @@
 
 ## Handpuppentheater mit und von Maya Raue
 
-![](/img/wsb_218x169_Kollin+Kl$C3$A4ff+f$C3$BCr+Webseite+und+Flyer.jpg)
-![](/img/wsb_221x170_Maya+Raue_Puppenspielerin_web.jpg)
+![maya17](/img/<maya17>)
+
 
 In den von Maya Raue selbstgeschriebenen Puppentheater-Geschichten geht
 es um Freundschaft, Mut und Hilfsbereischaft. Kollin Kläff, ihre
