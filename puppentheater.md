@@ -2,7 +2,7 @@
 
 ## Handpuppentheater mit und von Maya Raue
 
-!(/img/<Pressefotos-2017-Puppentheater>)
+![](/img/<Pressefotos-2017-Puppentheater>)
 
 
 In den von Maya Raue selbstgeschriebenen Puppentheater-Geschichten geht
