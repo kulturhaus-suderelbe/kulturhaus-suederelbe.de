@@ -2,7 +2,7 @@
 
 ## Handpuppentheater mit und von Maya Raue
 
-![<maya17>](/img/<neues_bild>)
+![<neues_bild>](/img/<maya17>)
 
 
 In den von Maya Raue selbstgeschriebenen Puppentheater-Geschichten geht
@@ -52,6 +52,14 @@ Voranmeldung für Gruppen erforderlich
 :   um 11 Uhr „Kollin auf dem Bauernhof“
 :   um 15 Uhr „Kollin und der kleine Pirat“
 
+Tickets
+
+Karten gibt es ab 30 Minuten vor Spielbeginn an der Tageskasse.
+Wer möchte, kann Tickets reservieren, die dann auf Ihren Namen bis 15 Minuten vor Beginn zurückgelegt werden.
+
+:   per Mail puppentheater@kollin-klaeff.de
+
+:   oder per Kartentelefon 040 1820 4876
 
 ![Termine](/img/wsb_428x909_Harburg+Neugraben+hinten+2017_druck.jpg)
 
