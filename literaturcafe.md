@@ -17,9 +17,9 @@ gegeben.
 
 ## Am Sonntag, den 1. Oktober 2017 ab 16 Uhr
 
-liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck "Das Tagebuch von Adam und Eva", eine humorvolle Geschichte von Mark Twain.
+liest Dieter Wehrbrink gemeinsam mit seiner Tochter Tatjana Grimm "Alte Liebe" von Elke Heidenreich und Bernd Schroeder.
 
-![](/img/dieter_adam_eva.jpg)
+![](/img/litcafnov.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
