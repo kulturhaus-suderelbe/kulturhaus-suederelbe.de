@@ -19,7 +19,7 @@ gegeben.
 
 liest Dieter Wehrbrink gemeinsam mit seiner Tochter Tatjana Grimm "Alte Liebe" von Elke Heidenreich und Bernd Schroeder.
 
-![neues_bild.](/img/litcafnov)
+![](/img/litcafnov.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
