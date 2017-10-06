@@ -1,4 +1,4 @@
-
+# Kulturtage Süderelbe von 3. Nov. bis 19. Nov. 17
 
 ![](/img/kulturtage-suederelbe-2017-visual-Internet.jpg)
 
@@ -17,7 +17,7 @@ Die „Kulturtage Süderelbe 2017“ finden
 statt, diesmal eine Dauer von rund zwei Wochen.
 
 [Das Kulturtage-Programm 2017 im neuen Gewand kann sich sehen lassen! Hier zur 
-Ansicht](/downloads/KT-Heft-52-Seiten-rdz)
+Ansicht](/downloads/KT-Heft-52-Seiten-rdz.pdf)
 
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
 
