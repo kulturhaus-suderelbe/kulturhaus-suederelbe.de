@@ -16,5 +16,3 @@ Veranstaltungen in diesen Tagen.
 Ansicht](/downloads/KT-Heft-52-Seiten-rdz.pdf)
 
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
-
-
