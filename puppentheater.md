@@ -2,11 +2,11 @@
 
 ## Handpuppentheater mit und von Maya Raue
 
-![](/img/Maya_17.jpg)
+![<neues_bild>](/img/<maya17>)
 
 
 In den von Maya Raue selbstgeschriebenen Puppentheater-Geschichten geht
-es um Freundschaft, Mut und Hilfsbereischaft. Kollin Kläff, ihre
+es um Freundschaft, Mut und Hilfsbereitschaft. Kollin Kläff, ihre
 Hauptfigur, erlebt in jeder Geschichte ein 40 minütiges Abenteuer. Schon
 die Kleinsten finden sich zurecht und werden zu Verbündeten. Mit Herz
 und Humor bezieht Maya Raue die Kinder mit in die Geschichte ein.
@@ -51,15 +51,6 @@ Voranmeldung für Gruppen erforderlich
 08\. Apr. 2018
 :   um 11 Uhr „Kollin auf dem Bauernhof“
 :   um 15 Uhr „Kollin und der kleine Pirat“
-
-Tickets
-
-Karten gibt es ab 30 Minuten vor Spielbeginn an der Tageskasse.
-Wer möchte, kann Tickets reservieren, die dann auf Ihren Namen bis 15 Minuten vor Beginn zurückgelegt werden.
-
-:   per Mail puppentheater@kollin-klaeff.de
-
-:   oder per Kartentelefon 040 1820 4876
 
 ![Termine](/img/wsb_428x909_Harburg+Neugraben+hinten+2017_druck.jpg)
 
