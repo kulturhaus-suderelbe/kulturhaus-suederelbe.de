@@ -1,6 +1,6 @@
 # Kulturhaus-Kino: "Die andere Seite der Hoffnung" am 6. Nov. um 19.30 Uhr 
 
-![](/img/KHK-06_11_17-Infoscreen1.jpg)
+![](/img/KINO_061117.jpg)
 
 ## Die andere Seite der Hoffnung
 
