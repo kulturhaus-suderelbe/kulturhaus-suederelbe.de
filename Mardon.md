@@ -8,7 +8,7 @@ irisch-amerikanischen Traditionals bis hin zu mitreißenden
 Eigenkompositionen. Die beiden präsentieren zudem viele neue Songs, die
 auch auf ihrer neuen CD erschienen sind. 
 
-:   **BGZ Süderelbe**
+**BGZ Süderelbe**
 :   Schulaula 
 :   Am Johannisland 4 
 :   21147 Hamburg  
