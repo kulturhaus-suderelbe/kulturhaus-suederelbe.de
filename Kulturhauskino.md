@@ -22,4 +22,3 @@ Aki Kaurismäki wurde kürzlich auf den 67. Internationalen Filmfestspielen Berl
 für die Beste Regie ausgezeichnet.
 
 **Der Eintritt ist frei, gerne Spenden**
-
