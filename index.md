@@ -9,6 +9,7 @@ navigation:
   - kulturtage
   - literaturcafe
   - suederelbe-archiv
+  - Mardon
   - Kulturhauskino
   - theater
   - cajon
