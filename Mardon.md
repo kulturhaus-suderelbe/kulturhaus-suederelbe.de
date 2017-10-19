@@ -8,10 +8,10 @@ irisch-amerikanischen Traditionals bis hin zu mitreißenden
 Eigenkompositionen. Die beiden präsentieren zudem viele neue Songs, die
 auch auf ihrer neuen CD erschienen sind. 
 
-**BGZ Süderelbe**
-Schulaula, 
-Am Johannisland 4, 
-21147 Hamburg  
+:   **BGZ Süderelbe**
+:   Schulaula 
+:   Am Johannisland 4 
+:   21147 Hamburg  
 
 Karten gibt es an der Abendkasse für 13€, Kinder 8€ 
 
