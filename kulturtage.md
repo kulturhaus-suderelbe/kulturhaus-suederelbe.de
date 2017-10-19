@@ -15,4 +15,6 @@ Veranstaltungen in diesen Tagen.
 [Das Kulturtage-Programm 2017 im neuen Gewand kann sich sehen lassen! Hier zur 
 Ansicht](/downloads/KT-Heft-52-Seiten-rdz.pdf)
 
+Das Programmheft liegt an vielen Orten aus oder es kann im Kulturhaus angefordert werden.
+
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
