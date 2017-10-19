@@ -15,6 +15,7 @@ navigation:
   - cajon
   - kirchberg
   - puppentheater
+  - Hase und Igel
   - kindergeburtstage
   - fortbildung
   - gefluechtete
