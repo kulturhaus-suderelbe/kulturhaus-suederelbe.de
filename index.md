@@ -9,6 +9,7 @@ navigation:
   - kulturtage
   - literaturcafe
   - suederelbe-archiv
+  - Kulturhauskino
   - theater
   - cajon
   - kirchberg
