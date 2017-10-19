@@ -5,7 +5,9 @@
 ## Die andere Seite der Hoffnung
 
 von Aki Kaurismäki
+
 Finnland 2017
+
 FSK 6 · Laufzeit 98 Min.
 
 Der junge Syrer Khaled (Sherwan Haji) kommt als blinder Passagier auf einem Schiff nach Helsinki.
@@ -22,5 +24,4 @@ Aki Kaurismäki wurde kürzlich auf den 67. Internationalen Filmfestspielen Berl
 für die Beste Regie ausgezeichnet.
 
 **Der Eintritt ist frei, gerne Spenden**
-
 
