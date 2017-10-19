@@ -1,6 +1,6 @@
 # Kulturhaus-Kino: "Die andere Seite der Hoffnung" am 6. Nov. um 19.30 Uhr 
 
-![](/img/KINO_061117.jpg)
+![](/img/Kino_061117.jpg)
 
 von Aki Kaurismäki
 
