@@ -1,4 +1,4 @@
-# Hase - und Igel, Weihnachtsmärchen am 14. Dez. um 9 und 11 Uhr 
+# Hase - und Igel, Weihnachtsmärchen am 14. Dez. um 9 und um 11 Uhr 
 
 ## - ich bin all (wieder) hier!
 
