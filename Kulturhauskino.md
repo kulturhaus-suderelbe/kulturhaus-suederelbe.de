@@ -2,8 +2,6 @@
 
 ![](/img/KINO_061117.jpg)
 
-## Die andere Seite der Hoffnung
-
 von Aki Kaurismäki
 
 Finnland 2017
