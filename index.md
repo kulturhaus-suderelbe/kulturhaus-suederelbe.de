@@ -14,6 +14,7 @@ navigation:
   - theater
   - cajon
   - kirchberg
+  - Tonali
   - puppentheater
   - Hase und Igel
   - kindergeburtstage
