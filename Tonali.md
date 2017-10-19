@@ -2,8 +2,7 @@
 
 ![](/img/KF_logo_pink.jpg)
 
-## Konzert der Geigerin Xenia Geugelin und der Young ClassX Mittel- und Oberstufenchor
-der Stadtteilschule Süderelbe 
+## Konzert der Geigerin Xenia Geugelin und der Young ClassX Mittel- und Oberstufenchor der Stadtteilschule Süderelbe 
  
 TONALi ist weit mehr als ein innovativer Instrumentalwettbewerb für
 talentierte Jungsolisten. Es ist ein ganzheitliches Kulturprojekt, das
@@ -27,8 +26,9 @@ Am Johannisland 4
 21147 Hamburg  
 (Direkt am S-Bahnhof Neugraben)
 
-** Eintritt**: 6 €, Karten im Vvk: Stadtteilschule Süderelbe, Kulturhaus Süderelbe
+**Eintritt:**
+6 €, Karten im Vvk: Stadtteilschule Süderelbe, Kulturhaus Süderelbe
 Restkarten an der Abendkasse 
 
-[www.tonali.de](http://www.tonali.de)
+[www.tonali.de](http://www.tonali.de),  
 [www.stadtteilschule-suederelbe.de](http://www.stadtteilschule-suederelbe.de)
