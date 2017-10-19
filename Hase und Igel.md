@@ -2,7 +2,7 @@
 
 ## - ich bin all (wieder) hier!
 
-![](/img/wsb_485x684_Hase_Ben.jpg)
+![](/img/Hase_Plakatbil_17.jpg)
 
 ### Weihnachtsmärchen von und mit Ben Soyka und Janika Thomas
 
