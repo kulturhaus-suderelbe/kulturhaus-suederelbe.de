@@ -19,8 +19,8 @@ Haspa, BLZ: 200 505 50, BIC: HASPDEHHXXX
 
 ## Das Team des Kulturhauses
 
-Marketta Eksymä-Winkelmann, Kultur- und Bildungsmanagerin
-:   Geschäftsführung,  
+Marketta Eksymä-Winkelmann, 
+:   Kultur- und Bildungsmanagerin, Geschäftsführung  
 :   <marketta.eksymae@kulturhaus-suederelbe.de>
 
 Dörte Ellerbrock
