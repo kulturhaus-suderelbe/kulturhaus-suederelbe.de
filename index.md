@@ -9,15 +9,19 @@ navigation:
   - kulturtage
   - literaturcafe
   - suederelbe-archiv
+  - Mardon
+  - Kulturhauskino
   - theater
   - cajon
+  - kirchberg
+  - Tonali
   - puppentheater
+  - Hase und Igel
   - kindergeburtstage
   - fortbildung
   - gefluechtete
   - tanztheater
   - sommerfest
-  - therapie
   - links
   - kontakt
   - archiv

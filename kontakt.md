@@ -19,19 +19,14 @@ Haspa, BLZ: 200 505 50, BIC: HASPDEHHXXX
 
 ## Das Team des Kulturhauses
 
-Jan Pastoors, Dipl.-Ing.
-:   Geschäftsführung
-:   <info@kulturhaus-suederelbe.de>
+Marketta Eksymä-Winkelmann, 
+:   Kultur- und Bildungsmanagerin, Geschäftsführung  
+:   <marketta.eksymae@kulturhaus-suederelbe.de>
 
 Dörte Ellerbrock
 :   Hauptamtl. Mitarbeiterin, künstlerische Leitung, Kursleitung,
-    Projekte, Vernetzung, Öffentlichleitsarbeit
+    Öffentlichleitsarbeit
 :   <doerte.ellerbrock@kulturhaus-suederelbe.de>
-
-Marketta Eksymä-Winkelmann
-:   Kultur- und Bildungsmanagerin, Hauptamtl. Mitarbeiterin, Büro,
-    Administration, Kursanm.
-:   <marketta.eksymae@kulturhaus-suederelbe.de>
 
 **Zum Team gehören auch** alle Kurs- und ProjektleiterInnen im Rahmen
 des Kulturhaus-Angebtotes, die oft weit über den vereinbarten Umfang

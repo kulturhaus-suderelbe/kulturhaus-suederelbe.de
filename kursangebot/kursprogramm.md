@@ -45,7 +45,7 @@ Kursleitung
 :   Gabriele Wendland
 
 Kursgebühr
-:   120,- € / Semester
+:   125,- € / Semester
 
 ## Afrikanisches Trommeln
 
@@ -68,7 +68,7 @@ Kursleitung
     [www.diamoral.de](http://www.diamoral.de)
 
 Kursgebühr
-:   130,- € für 15 Male
+:   130,- € für 10 Male
 
 # Montag / Donnerstag
 
@@ -108,7 +108,7 @@ Kursgebühr
     :   140,- € / Semester, 115,- € / Semester für Kinder
 
     Einzelunterricht
-    :   300,- € / Semester, 250,- € / Semester für Kinder
+    :   300,- € / Semester, 250,- € / Semester für Kinder 
 
 Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
 möglich, genau wie die monatliche Bezahlung von € 50,- bzw. € 60,-.
@@ -149,15 +149,15 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 1.9.17, von 15-18 Uhr
-:   Montag, 4.9.17, von 17-20 Uhr
+:   Freitag, 1.9.17, von 17-20 Uhr
+:   Montag, 4.9.17, von 15-18 Uhr
 
 
 Kursleitung
 :   Dörte Ellerbrock
 
 Kursgebühr
-:   120,- € / Semester
+:   125,- € / Semester
 
 
 ## Kundalini-Yoga / VHS-Kurs
@@ -191,7 +191,7 @@ Kursleitung
     [www.gabriele-wendland.de](http://www.gabriele-wendland.de)
 
 Kursgebühr
-:   120,- € / Semester
+:   125,- € / Semester
 
 ## Töpferschule für Kinder
 
@@ -233,7 +233,7 @@ Kursleitung
 :   Dörte Ellerbrock
 
 Kursgebühr
-:   160,- € inkl. Modellkosten
+:   165,- € inkl. Modellkosten
 
 ## Yoga
 
@@ -343,7 +343,7 @@ Kursleitung
     [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
 
 Kursgebühren
-:   145,- € für 15-18 Male je nach Gruppengröße
+:   150,- € für 15-18 Male je nach Gruppengröße
 
 # Mittwoch / Freitag
 
@@ -372,7 +372,7 @@ Kursleitung
 :   Angelika Holzmann
 
 Kursgebühr
-:   120,- €
+:   125,- €
 
 # Donnerstag
 
@@ -394,7 +394,7 @@ Kursleitung
 :   Dörte Ellerbrock
 
 Kursgebühr
-:   120,- €
+:   125,- €
 
 ## Geige / Gesang
 
@@ -440,7 +440,7 @@ Kursleitung
 :   Kristine Drengere
 
 Kursgebühr
-:   120,- €
+:   125,- €
 
 ## Acrylmalerei
 
@@ -461,7 +461,7 @@ Kursleitung
     [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
-:   120,- €
+:   125,- €
 
 ## Tanzpiraten
 
@@ -478,7 +478,7 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 7.9.17 von 16.30-18 Uhr
+:   Donnerstag, 21.9.17 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich

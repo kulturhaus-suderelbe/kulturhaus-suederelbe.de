@@ -23,8 +23,7 @@ Am Johannisland 4
 21147 Hamburg  
 (Direkt an der S-Bahn Neugraben)  
 
-**Eintritt:** 5 € an der Tageskasse  
-**Für Gruppen ausverkauft!**  
+**Eintritt:** 5 € an der Tageskasse   
 **Dauer:** 45 Min.
 
 Eine Kooperation mit Theaterdeck Hamburg.

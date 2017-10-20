@@ -2,11 +2,11 @@
 
 ## Handpuppentheater mit und von Maya Raue
 
-![](/img/wsb_218x169_Kollin+Kl$C3$A4ff+f$C3$BCr+Webseite+und+Flyer.jpg)
-![](/img/wsb_221x170_Maya+Raue_Puppenspielerin_web.jpg)
+![<neues_bild>](/img/<maya17>)
+
 
 In den von Maya Raue selbstgeschriebenen Puppentheater-Geschichten geht
-es um Freundschaft, Mut und Hilfsbereischaft. Kollin Kläff, ihre
+es um Freundschaft, Mut und Hilfsbereitschaft. Kollin Kläff, ihre
 Hauptfigur, erlebt in jeder Geschichte ein 40 minütiges Abenteuer. Schon
 die Kleinsten finden sich zurecht und werden zu Verbündeten. Mit Herz
 und Humor bezieht Maya Raue die Kinder mit in die Geschichte ein.
@@ -24,7 +24,33 @@ Voranmeldung für Gruppen erforderlich
 
 ## Termine
 
-15. Okt. 2017 bis 08. April 2018
+15\. Okt. 2017
+:   um 11 Uhr „Kollin und der gestohlene Zauberstab“
+:   um 15 Uhr „Kollin und der freche Drache Blitz“
+
+05\. Nov. 2017
+:   um 11 Uhr „Kollin und der Superkleber“
+:   um 15 Uhr „Kollin und der dufte König“
+
+03\. Dez. 2017
+:   um 11 Uhr „Kollin und der Weihnachtsmann“
+:   um 15 Uhr „Kollin und der Superkleber“
+
+07\. Jan. 2018
+:   um 11 Uhr „Kollin und die Glitzerschnecke“
+:   um 15 Uhr „Kollin und der Zauberstab“
+
+04\. Feb. 2018
+:   um 11 Uhr „Kollin und der freche Drache“
+:   um 15 Uhr „Kollin auf dem Bauernhof“
+
+04\. Mrz. 2018
+:   um 11 Uhr „Kollin und der kleine Pirat“
+:   um 15 Uhr „Kollin und die Glitzerschnecke“
+
+08\. Apr. 2018
+:   um 11 Uhr „Kollin auf dem Bauernhof“
+:   um 15 Uhr „Kollin und der kleine Pirat“
 
 ![Termine](/img/wsb_428x909_Harburg+Neugraben+hinten+2017_druck.jpg)
 

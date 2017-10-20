@@ -1,33 +1,20 @@
-# Kulturtage Süderelbe 2017 - 03. Nov. bis 19. Nov. - Machen Sie mit!
+# Kulturtage Süderelbe von 3. Nov. bis 19. Nov. 17
 
-![](/img/wsb_432x142_Kulturtage+Kopie.jpg)
+![](/img/kulturtage-suederelbe-2017-visual-Internet.jpg)
 
-Seit sieben Jahren führt unser Kulturhaus Süderelbe als Koordinator und
-Organisator die vielen kulturellen Einzelveranstaltungen im Süderelberaum
-im Rahmen der Kulturtage zu einem beeindruckenden Ganzen zusammen.
+Ziel der Kulturtage ist es,  Künstlern, Vereinen und lokalen Einrichtungen in der Region Süderelbe
+eine Plattform zu bieten und  einen Querschnitt des vielfältigen kulturellen Lebens in unserer Region zu zeigen.
+Mit den Kulturtagen  wird ein Programm geboten, das ein lebendiges Bild der kulturellen Arbeit in der Region 
+abbildet und viele Besucher anzieht.
+ 
+Die Vielfalt der kulturellen Angebote im Süderelberaum werden im achten Jahr vom Kulturhaus Süderelbe ins
+Blickfeld der Öffentlichkeit gerückt. Rund zwei Wochen lang können sich Interessierte mit der Kunst in allen
+Bereichen beschäftigen und auseinander setzen. Wie bunt unser Kulturleben in Süderelbe ist, beweisen die vielen 
+Veranstaltungen in diesen Tagen. 
 
-Die „Kulturtage Süderelbe 2017“ finden  
-**von Fr, den 3. Nov. bis So, den 19. Nov. 17**  
-statt, diesmal eine Dauer von rund zwei Wochen.
+[Das Kulturtage-Programm 2017 im neuen Gewand kann sich sehen lassen! Hier zur 
+Ansicht](/downloads/KT-Heft-52-Seiten-rdz.pdf)
 
-
-Unsere gemeinsamen „Kulturtage Süderelbe“ in den vergangenen Jahren haben gezeigt,
-wie vielfältig das kulturelle Angebot in unserer Region ist!
-
-Wir würden uns sehr freuen, wenn Sie mit Ihrem Programmbeitrag dieses besondere Kulturfestival auch
-in diesem Jahr unterstützen möchten.
-
-Bitte machen Sie mit und bringen Sie Ihre Veranstaltung auf die Bühne der
-Kulturtage - ob Lesung, Konzert, Ausstellung, Performance, Theaterstück oder
-Tanzveranstaltung – als Amateur oder Profi, und geben Sie uns **Ihren Programmbeitrag unter [info@kulturhaus-suederelbe.de](mailto:info@kulturhaus-suederelbe.de), möglichst noch vor den Sommerferien durch,
-spätestens aber bis zum 8. Sept. 2017.**
-
-Es wird dann wieder einen Kulturtage-Programmflyer geben, der von uns intensiv
-beworben wird.
-
-[Das Kulturtage-Programm 2016 finden Sie hier zur
-Ansicht](/downloads/Flyer+Kulturtage_011116.pdf)
+Das Programmheft liegt an vielen Orten aus oder es kann im Kulturhaus angefordert werden.
 
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
-
-![](/img/wsb_511x239_Kulturtage_2016.jpg)
