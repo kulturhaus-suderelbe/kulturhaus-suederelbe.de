@@ -22,9 +22,10 @@ Kulturhaus Süderelbe, Am Johannisland 2
 Freitag: 14:00 - 16:00 (Alle), 
 Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
 
-![](/img/_DSC5227.jpg)
+![](/img/Tanzcompagnie_17.jpg)
 
 ## Aufführung am 5. November 2017 um 15 Uhr,   
 Schule Ohrnsweg, Ohrnsweg  52
 
+Die Tanzcompagnie Süderelbe wird gefördert durch hamburger Integrationsfond
 
