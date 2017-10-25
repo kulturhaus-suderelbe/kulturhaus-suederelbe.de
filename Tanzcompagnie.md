@@ -27,5 +27,5 @@ Freitzeitzentrum Sandbek, Ohrnsweg 50 b
 ## Aufführung am 5. November 2017 um 15 Uhr,   
 Schule Ohrnsweg, Ohrnsweg  52
 
-Die Tanzcompagnie Süderelbe wird gefördert durch hamburger Integrationsfond
+Die Tanzcompagnie Süderelbe wird gefördert durch den Hamburger Integrationsfond
 
