@@ -13,14 +13,18 @@ Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerh
 das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
 
 ## Tanz-Proben
-Montag: 15:30 - 17:00 Uhr (Schnupperkurs), Willkommenscafe Süderelbe, Kulturhaus Süderelbe, Am Johannisland 2    
-Dienstag: 16:00 - 18:00 Uhr (für Jungen), Kulturhaus Süderelbe, Am Johannisland 2    
-Mittwoch: 16:00- 18:00 Uhr (für Mädchen), Kulturhaus Süderelbe  
-Freitag: 14:00 - 16:00 (Alle), Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
+Montag: 15:30 - 17:00 Uhr (Schnupperkurs), Willkommenscafe Süderelbe,  
+Kulturhaus Süderelbe,Am Johannisland 2    
+Dienstag: 16:00 - 18:00 Uhr (für Jungen),  
+Kulturhaus Süderelbe, Am Johannisland 2    
+Mittwoch: 16:00- 18:00 Uhr (für Mädchen),  
+Kulturhaus Süderelbe, Am Johannisland 2    
+Freitag: 14:00 - 16:00 (Alle), 
+Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
 
 ![](/img/_DSC5227.jpg)
 
-## Aufführung am 5. November 2017 um 15 Uhr 
-in der Schule Ohrnsweg, Ohrnsweg  52
+## Aufführung am 5. November 2017 um 15 Uhr,   
+Schule Ohrnsweg, Ohrnsweg  52
 
 
