@@ -11,6 +11,7 @@ navigation:
   - suederelbe-archiv
   - Mardon
   - Kulturhauskino
+  - Tanzcompagnie
   - theater
   - cajon
   - kirchberg
