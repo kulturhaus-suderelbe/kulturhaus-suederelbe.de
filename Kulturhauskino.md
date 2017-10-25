@@ -23,7 +23,8 @@ für die Beste Regie ausgezeichnet.
 
 **Der Eintritt ist frei, gerne Spenden**
 
-![Copyright: sputnik Oy, Malla Hukkanen](/img/dasdh_stills_01.jpg)
+![Copyright: sputnik Oy, Malla Hukkanen](/img/dasdh_stills_01.jpg)  
+Bild: Copyright ©Sputnik Oy / Fotograf Malla Hukkanen 
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfond 
 
