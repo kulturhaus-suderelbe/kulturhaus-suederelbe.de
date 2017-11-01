@@ -1,5 +1,7 @@
 # Fortbildung zur Sprachförderkraft mit künstlerischen Mitteln
 
+![](/img/Schprachfoerder.jpg)
+
 Sprache ist ein wesentlicher Bestandteil für einen erfolgreichen Lebens-
 und Bildungsweg. Mit der gemeinsamen Initiative von KIKU und Buntsprecht
 wollen wir Kindern, die Deutsch als Zweitsprache lernen, Sprachkompetenz
@@ -30,7 +32,7 @@ Schulentwicklung) statt. Bei erfolgreichem Abschluss erhalten Sie ein
 Zertifikat, das von allen Hamburger Schulen anerkannt wird.
 
 ## Anmeldungen bitte möglichst per Email an:  
-Stephan Kaiser 
+Stephan Kaiser   
 Kulturhaus Süderelbe  
 im BGZ Süderelbe   
 Am Johannisland 2  
