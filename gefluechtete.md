@@ -17,6 +17,14 @@ Zur Zeit warten 3 Konzertgitarren, arabische Saiteninstrumente und
 diverse Trommeln auf Musiker aus den entsprechenden Ländern, um eine
 Musikgruppe mit Geflüchteten und Deutschen starten zu lassen.
 
+## Ausstellung mit Geflüchteten und ihrer Künstlerin
+
+Am Montag, den 13.11.17 um 17 Uhr findet in Kooperation mit dem "Cafe Welcome" die Eröffnung der Ausstellung "KUNST MACHEN"
+mit Bildern des offenen Ateliers und denen von Gabriele Wendland statt.
+Für die Musik sorgt Dimitar Georgiev am Saxophon, für das leibliche Wohl das Cafe.
+Jeder ist herzlich willkommen!
+
+
 ## „Jobs für Flüchtlinge“ - Initiative
 
 -   [www.jobs-fuer-fluechtlinge.de](http://www.jobs-fuer-fluechtlinge.de)
