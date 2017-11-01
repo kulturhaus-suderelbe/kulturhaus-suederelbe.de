@@ -12,6 +12,8 @@ von Zusammenhalt und Toleranz gegenüber anderen. Zusätzlich fördert ein Kost�
 Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerhalb eines Theaterstücks,
 das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
 
+![](/img/Tanzcompagnie_plakat.jpg)
+
 ## Tanz-Proben
 Montag: 15:30 - 17:00 Uhr (Schnupperkurs), Willkommenscafe Süderelbe,  
 Kulturhaus Süderelbe,Am Johannisland 2    
@@ -22,10 +24,10 @@ Kulturhaus Süderelbe, Am Johannisland 2
 Freitag: 14:00 - 16:00 (Alle), 
 Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
 
-![](/img/Tanzcompagnie_17.jpg)
-
 ## Aufführung am 5. November 2017 um 15 Uhr,   
 Schule Ohrnsweg, Ohrnsweg  52
+
+[](/img/Tanzcompagnie_plakat.jpg)
 
 Die Tanzcompagnie Süderelbe wird gefördert durch den Hamburger Integrationsfond
 
