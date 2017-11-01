@@ -1,6 +1,6 @@
 # Fortbildung zur Sprachförderkraft mit künstlerischen Mitteln
 
-![](/img/Schprachfoerder.jpg)
+![](/img/Sprachforder.jpg)
 
 Sprache ist ein wesentlicher Bestandteil für einen erfolgreichen Lebens-
 und Bildungsweg. Mit der gemeinsamen Initiative von KIKU und Buntsprecht
