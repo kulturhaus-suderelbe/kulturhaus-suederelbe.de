@@ -1,17 +1,24 @@
-# „Unsere verheerte Welt braucht eine Therapie“
+# „Machst Du Musik? - LittleBigBand in Aufbau“
 
 ![](/img/wsb_436x643_Titelbild+die-besten-jahre-liegen-noch-vor-uns.jpg)
 
 ## Gesprächsabend am 22. Juni 2017 um 19 Uhr
 
-**Kulturhaus Süderelbe**  
-Stadtteilsaal BGZ Süderelbe  
-Am Johannisland 2  
-21147 Hamburg  
-Tel.: 040-7967222  
-E-Mail: <info@kulturhaus-suederelbe.de>  
+das Kulturhaus Süderelbe freut sich, die Gründung eines kleinen internationalen
+Amateurorchesters bekanntzugeben, das zukünftig unter der Leitung des Saxophonisten und Musiklehrers
+Dimitar Georgiev im Kulturhaus proben und aufführen wird.
+Wir laden interessierte Musikerinnen und Musiker - und Fortgeschrittene aus allen musikalischen Kulturen -  
+herzlich zu einem Vorabtreffen ein  
+ 
+**am Montag, den 13. November, ab 17 Uhr **
 
-Eintritt frei, Spenden sind willkommen
+Kulturhaus Süderelbe  
+Am Johannisland 2    
+21147 Hamburg    
+Tel.: 040-7967222    
+E-Mail: <info@kulturhaus-suederelbe.de>--  
+
+
 
 Der Hamburger Psychotherapeut Dr. Thomas Kahl arbeitet mit Kindern,
 Jugendlichen, Erwachsenen, Familien, um mit ihnen Lösungen für ihre
