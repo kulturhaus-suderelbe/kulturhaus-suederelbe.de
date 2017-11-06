@@ -10,9 +10,8 @@ die allen Menschen Sicherheit geben können. Aussagen von Weisheitslehrern wie S
 Buddha (Indien) und Lao Tse (China) sind heute noch so zutreffend sind wie damals, um 600-400 v. Chr. 
 Darauf beruht die Menschenrechtsordnung der Vereinten Nationen.
 
-Veranstalter: Dr. Thomas Kahl
-Kontakt:  <kahl@imge.de>
+Veranstalter: Dr. Thomas Kahl      
+Kontakt:  <kahl@imge.de>    
 [www.globale-ordnung.de](http://www.globale-ordnung.de)
-
+  
 ![Dr. Thomas Kahl](/img/ThKahl-17b.jpg.)
-
