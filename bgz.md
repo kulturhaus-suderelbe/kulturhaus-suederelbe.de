@@ -18,6 +18,6 @@ Einrichtungen in der Region.
     Neugraben“](http://www.pestalozzi-hamburg.de/freizeitlounge_ng.html)
 -   [Ev. Beratungstelle
     Süderelbe](http://www.beratungsstelle-suederelbe.de)
--   [VT Aurubis](http://vt-aurubis-hamburg.de)
+-   [Volleyball-Team Hamburg](http://www.volleyball-team-hamburg.de)
 -   [Hansestadt Hamburg](http://www.hamburg.de)
 
