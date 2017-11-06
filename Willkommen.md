@@ -26,4 +26,4 @@ Informationen gibt es außerdem unter [www.insuederelbe.de](http://www.insuedere
 Mit freundlichem Gruß  
 für das Leitungsteam der Initiative
 
-Oliver Domzalski 	Susanne Lindenlaub-Borck
+Oliver Domzalski und Susanne Lindenlaub-Borck
