@@ -14,6 +14,7 @@ navigation:
   - LittleBigBand
   - Tanzcompagnie
   - theater
+  - Dr. Kahl
   - cajon
   - kirchberg
   - Tonali
