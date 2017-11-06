@@ -17,6 +17,7 @@ navigation:
   - Dr. Kahl
   - cajon
   - kirchberg
+  - Willkommen
   - Tonali
   - puppentheater
   - Hase und Igel
