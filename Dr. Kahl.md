@@ -1,5 +1,4 @@
-# Anregungen zu einer menschenwürdigen Beziehungskultur  
-am 9. Nov. um 19 Uhr
+# Anregungen zu einer menschenwürdigen Beziehungskultur am 9. Nov. um 19 Uhr 
 
 ## Ein Gesprächsabend zum Umgang miteinander mit Dr. Thomas Kahl  
 
