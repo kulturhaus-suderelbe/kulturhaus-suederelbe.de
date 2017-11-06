@@ -1,6 +1,7 @@
 # Anregungen zu einer menschenwürdigen Beziehungskultur am 9. Nov. um 19 Uhr 
 
-## Ein Gesprächsabend zum Umgang miteinander mit Dr. Thomas Kahl  
+## Ein Gesprächsabend zum Umgang miteinander  
+mit Dr. Thomas Kahl  
 
 Die globalen Entwicklungen lassen Bürger, Politiker und Unternehmer weltweit verzweifeln. 
 Unser soziales Miteinander ist in Unordnung geraten. Immer weniger verläuft so, wie man es sich wünscht: 
