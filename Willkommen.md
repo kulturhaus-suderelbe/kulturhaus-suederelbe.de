@@ -21,9 +21,9 @@ Wir laden Sie herzlich ein und würden uns sehr freuen, Sie am 16.11. begrüßen
 Falls Sie Interesse an unserer Arbeit haben, aber am 16.11. nicht können: Immer montags von 15 bis 17 Uhr 
 kann man im "Cafe Welcome" im BGZ alte und neue Neugrabener treffen.
 
-Informationen gibt es außerdem unter www.insuederelbe.de
+Informationen gibt es außerdem unter [www.insuederelbe.de](http://www.insuederelbe.de)
 
-Mit freundlichem Gruß
+Mit freundlichem Gruß  
 für das Leitungsteam der Initiative
 
 Oliver Domzalski 	Susanne Lindenlaub-Borck
