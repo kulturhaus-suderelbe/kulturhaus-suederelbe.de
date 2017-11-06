@@ -14,4 +14,4 @@ Veranstalter: Dr. Thomas Kahl
 Kontakt:  <kahl@imge.de>    
 [www.globale-ordnung.de](http://www.globale-ordnung.de)
   
-![Dr. Thomas Kahl](/img/ThKahl-17b.jpg.)
+![Dr. Thomas Kahl](/img/ThKahl-17b.jpg)
