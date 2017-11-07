@@ -2,6 +2,11 @@
 
 ![](/img/LogoCafe.jpg)
 
+## Ort:  
+Cornelius-Gemeinde in Fischbek  
+Dritte Meile 1  
+21149 Hamburg  
+  
 Liebe Nachbarn,
 
 die Initiative "Willkommen in Süderelbe" engagiert sich seit über zwei Jahren mit mehr als 100 Aktiven
@@ -16,7 +21,7 @@ Am 16.11. gibt es die Möglichkeit, sowohl Ehrenamtliche als auch Neuankömmling
 mehr über die Arbeit unserer Gruppen zu erfahren - von den Deutschkursen über die "Behördenhelfer" und die "Fahrrad­ schrauber"
 bis zu den Paten und der Bastelgruppe.
 
-Wir laden Sie herzlich ein und würden uns sehr freuen, Sie am 16.11. begrüßen zu können.
+Wir laden Sie herzlich ein und würden uns sehr freuen, Sie am 16.11. in Fischbek begrüßen zu können.
 
 Falls Sie Interesse an unserer Arbeit haben, aber am 16.11. nicht können: Immer montags von 15 bis 17 Uhr 
 kann man im "Cafe Welcome" im BGZ alte und neue Neugrabener treffen.
