@@ -2,11 +2,11 @@
 
 ![](/img/LogoCafe.jpg)
 
-## Ort:  
-Cornelius-Gemeinde in Fischbek  
-Dritte Meile 1  
+## Ort: Cornelius-Gemeinde in Fischbek  
+  Dritte Meile 1  
 21149 Hamburg  
-  
+ 
+ 
 Liebe Nachbarn,
 
 die Initiative "Willkommen in Süderelbe" engagiert sich seit über zwei Jahren mit mehr als 100 Aktiven
