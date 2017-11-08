@@ -11,10 +11,13 @@ navigation:
   - suederelbe-archiv
   - Mardon
   - Kulturhauskino
+  - LittleBigBand
   - Tanzcompagnie
   - theater
+  - Dr. Kahl
   - cajon
   - kirchberg
+  - Willkommen
   - Tonali
   - puppentheater
   - Hase und Igel
@@ -109,9 +112,6 @@ Kooperationspartnern zusammen.
 
 ## Angebote unserer Mitglieder
 
-Vereinigung Süderelbe e.V.
-:   040 - 70101728
-:   [www.vereinigung-suederelbe.de](http://www.vereinigung-suederelbe.de)
 
 MGV „Sängerlust Scheideholz“ v. 1919 e.V.
 :   040 - 7016387
