@@ -2,7 +2,7 @@
 
 
 
-## Zukünftige Aussstellungen 
+## Aussstellungen 
 
 ## KUNST MACHEN
  
