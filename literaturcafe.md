@@ -15,9 +15,10 @@ gegeben.
 (Min.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 
-## Am Sonntag, den 5. November 2017 ab 16 Uhr
+## Am Sonntag, den 3. Dezember 2017 ab 16 Uhr
 
-liest Dieter Wehrbrink gemeinsam mit seiner Tochter Tatjana Grimm "Alte Liebe" von Elke Heidenreich und Bernd Schroeder.
+liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck "Und es begab sich ...."
+Besinnliche Geschichten zur Weihnachtszeit
 
 ![](/img/litcafnov.jpg)
 
