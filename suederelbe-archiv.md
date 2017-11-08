@@ -1,4 +1,4 @@
-# Süderelbe-Archiv in der Bücherhalle Neugraben
+.# Süderelbe-Archiv in der Bücherhalle Neugraben
 
 Das Süderelbe-Archiv / Geschichtswerkstatt in der Bücherhalle Neugraben
 ist eine Arbeitsgruppe des Kulturhauses Süderelbe.
