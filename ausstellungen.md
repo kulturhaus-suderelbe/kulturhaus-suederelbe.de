@@ -1,6 +1,23 @@
 # Ausstellungen
 
 ## Angelika Holzmann: „Tierseelen“
+# Ausstellungen
+
+## Zukünftige Aussstellungen 
+
+## KUNST MACHEN
+ 
+Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
+Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
+Während der Kulturtage Süderelbe stellen sowohl die Künstlerin selbst als auch ihre Schülerinnen und Schüler im Kulturhaus aus. 
+Es sind vor allem Kinder und Jugendliche aus den Kreisen der Geflüchteten, die ihre Bilder zur Verfügung stellen. 
+Die Ausstellung läuft vom Dienstag, den 14.11.17, bis zum 30.11.17; die Vernissage ist am Montag, den 13.11.17 um 17 Uhr.
+Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
+
+![](/img/betsy_miller_band.jpg)
+ 
+## Vergangene Ausstellungen
+## Angelika Holzmann: „Tierseelen“
 
 ### Vernissage: Freitag, 8.9.17, 19:00 Uhr
 
@@ -9,17 +26,6 @@
 Angelika Holzmann, Kursleiterin für Aquarellmalerei, stellt ihre Bilder vom 11.9.-13.10.17 aus.
 
 Bei der Vernissage führt die Künstlerin erläuternd durch die Ausstellung.
-
-## Zukünftige Aussstellungen 
-
-Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
-Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
-Während der Kulturtage Süderelbe stellen sowohl die Künstlerin selbst als auch ihre Schülerinnen und Schüler im Kulturhaus aus. 
-Es sind vor allem Kinder und Jugendliche aus den Kreisen der Geflüchteten, die ihre Bilder zur Verfügung stellen. 
-Die Ausstellung läuft vom Dienstag, den 14.11.17, bis zum 30.11.17; die Vernissage ist am Montag, den 13.11.17 um 17 Uhr.
-Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
- 
-## Vergangene Ausstellungen
 
 ## Dimitar Georgiev: „Mensch und Umgebungen“
 
