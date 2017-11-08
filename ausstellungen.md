@@ -1,7 +1,6 @@
-# Ausstellungen
 
-## Angelika Holzmann: „Tierseelen“
-# Ausstellungen
+
+
 
 ## Zukünftige Aussstellungen 
 
@@ -17,6 +16,7 @@ Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
 ![](/img/betsy_miller_band.jpg)
  
 ## Vergangene Ausstellungen
+
 ## Angelika Holzmann: „Tierseelen“
 
 ### Vernissage: Freitag, 8.9.17, 19:00 Uhr
