@@ -20,7 +20,7 @@ gegeben.
 liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck "Und es begab sich ...."
 Besinnliche Geschichten zur Weihnachtszeit
 
-![](/img/PA 150021.jpg)
+![](/img/PA150021.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
