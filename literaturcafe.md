@@ -18,9 +18,9 @@ gegeben.
 ## Am Sonntag, den 3. Dezember 2017 ab 16 Uhr
 
 liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck "Und es begab sich ...."
-Besinnliche Geschichten zur Weihnachtszeit
+besinnliche Geschichten zur Weihnachtszeit
 
-![](/img/PA_150021.jpg)
+![neues_bild](/img/PA150021.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
