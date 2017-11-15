@@ -23,7 +23,7 @@ Vernissage am 7.12.17 ab 18.30 Uhr
 
 Die Ausstellung ist vom 8.10.17 bis zum 20.12.17 und werktags von 10-20 Uhr zu sehen.
 
-![](Harmonie)
+![](/img/Harmonie.jpg)
  
 ## Vergangene Ausstellungen
 
