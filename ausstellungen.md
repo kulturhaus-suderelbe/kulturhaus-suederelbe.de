@@ -21,7 +21,7 @@ Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
 
 Vernissage am 7.12.17 ab 18.30 Uhr
 
-Die Ausstellung ist vom 8.10.17 bis zum 20.12.17 und werktags von 10-20 Uhr zu sehen.
+Die Ausstellung ist vom 8.10.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu sehen.
 
 ![](/img/Harmonie.jpg)
  
