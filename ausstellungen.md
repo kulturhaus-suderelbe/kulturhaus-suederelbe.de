@@ -17,13 +17,16 @@ Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
 
 ## Nächste Ausstellung
 
-## Ilona Edler Von der Planitz: Wäschestücke
+## Ilona Edler von der Planitz: Wäschestücke
 
 Vernissage am 7.12.17 ab 18.30 Uhr
 
-Die Ausstellung ist vom 8.10.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu sehen.
+am Klavier: Norman Welp
+
+Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu sehen.
 
 ![](/img/Harmonie.jpg)
+
  
 ## Vergangene Ausstellungen
 
