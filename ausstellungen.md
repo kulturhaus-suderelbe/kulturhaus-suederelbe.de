@@ -40,7 +40,7 @@ Vernissage am 8.9.17 ab 18.30 Uhr
 
 
 
-##
+
 
 ## Dimitar Georgiev: „Mensch und Umgebungen“
 
