@@ -1,31 +1,30 @@
-# Kulturhaus-Kino: "Die andere Seite der Hoffnung" am 6. Nov. um 19.30 Uhr 
+# Kulturhaus-Kino: "Quelle der Frauen" am 4. Dez. um 19.30 Uhr 
 
 ![](/img/KinoLOGO_061117.jpg)
 
-von Aki Kaurismäki
+von Radu Mihaileanu
 
-Finnland 2017
+Belgien, Italien, Frankreich 2011
+Prädikat ‚besonders wertvoll‘ 
 
-FSK 6 · Laufzeit 98 Min.
+In einem nordafrikanischen Bergdorf ist es Tradition, dass die Frauen das Wasser zur
+Versorgung aller Dorfbewohner von einer Quelle an der Spitze eines Berges holen. Der
+Weg dorthin ist gefährlich, und nicht wenige der Frauen verletzen bei der anstrengenden
+Pflicht. Doch auch in entlegenen Bergregionen halten irgendwann die Ideen der
+Emazipation Einzug. Und so fordern die Frauen angeführt von der jungen Leila von ihren
+Männern eine Wasserleitung. Nur fordergründig geht es dabei um eine technische
+Erleichterung. Der Film in einer deutschen Sprachfassung zeigt, wie sehr das Denken in
+einer Gesellschaft von Pflichten und dem Rollenverständnis abhängt. 
 
-Der junge Syrer Khaled (Sherwan Haji) kommt als blinder Passagier auf einem Schiff nach Helsinki.
-Wikström (Sakari Kuosmanen) ist Händler für Herrenhemden und Krawatten, gibt jedoch seinen Job auf 
-und trennt sich ohne viele Worte von seiner Frau. Er eröffnet ein Restaurant, auf dessen Hinterhof er eines 
-Tages Khaled findet, der sich nach Ablehnung seines Asylantrags dort ein Nachtlager eingerichtet hat.
-Die beiden Männer geraten in Streit. 
-
-In seinen Filmen erzählt Aki Kaurismäki mit herzerschütternder Melancholie, aber auch viel Humor das Leben 
-sogenannter einfacher Leute. Dabei reihen sich realistische, skurrile und märchenhaft wirkende Szenen zu einem 
-überwältigendem Ganzen aneinander.
-
-Aki Kaurismäki wurde kürzlich auf den 67. Internationalen Filmfestspielen Berlin mit dem Silbernen Bär
-für die Beste Regie ausgezeichnet.
+Nach dem erfolgreichen Start des Kulturhaus-Kino im November ist es der zweite Film in
+unserem Programm, das einmal im Monat Spielfilme und Dokumentationen im Kulturhaus
+Süderelbe, im BGZ am S-Bahnhof Neugraben, zeigt.  
 
 **Der Eintritt ist frei, gerne Spenden**
 
-![Copyright: sputnik Oy, Malla Hukkanen](/img/dasdh_stills_01.jpg)  
+FSK 12 · Laufzeit 120 Min
 
-Bild: Copyright ©Sputnik Oy / Fotograf Malla Hukkanen 
+![](/img/KHK-04_12_17-Infoscreen1.jpg)  
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfond 
 
