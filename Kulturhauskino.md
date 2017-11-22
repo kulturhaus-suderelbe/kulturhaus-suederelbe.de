@@ -1,10 +1,10 @@
 # Kulturhaus-Kino: "Quelle der Frauen" am 4. Dez. um 19.30 Uhr 
 
-![](/img/KinoLOGO_061117.jpg)
+![](/img/KHKino-Logo4.jpg)
 
 von Radu Mihaileanu
 
-Belgien, Italien, Frankreich 2011
+Belgien, Italien, Frankreich 2011  
 Prädikat ‚besonders wertvoll‘ 
 
 In einem nordafrikanischen Bergdorf ist es Tradition, dass die Frauen das Wasser zur
