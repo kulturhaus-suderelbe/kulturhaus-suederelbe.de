@@ -25,7 +25,7 @@ Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu se
 
 ![](/img/Harmonie.jpg)
 
->>>>>>> 44ff423e2fd89fc65026f6e15551139962a9b13f
+
  
 ## Vergangene Ausstellungen
 
@@ -35,6 +35,8 @@ Tierseelen
 
 Ausstellung vom 11.9.17 - 13.10.17
 Vernissage am 8.9.17 ab 18.30 Uhr
+
+![](/angelika_tierseelen.jpg)
 
 
 
