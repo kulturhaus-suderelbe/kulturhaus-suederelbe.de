@@ -1,16 +1,6 @@
 # Ausstellungen
 
-## Angelika Holzmann: „Tierseelen“
-
-### Vernissage: Freitag, 8.9.17, 19:00 Uhr
-
-![](/img/angelika_tierseelen.jpg)
-
-Angelika Holzmann, Kursleiterin für Aquarellmalerei, stellt ihre Bilder vom 11.9.-13.10.17 aus.
-
-Bei der Vernissage führt die Künstlerin erläuternd durch die Ausstellung.
-
-## Zukünftige Aussstellungen 
+## Aktuelle Ausstellung 
 
 Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
 Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
@@ -20,8 +10,6 @@ Es sind vor allem Kinder und Jugendliche aus den Kreisen der Geflüchteten, die 
 
 Die Ausstellung läuft vom Dienstag, den 14.11.17, bis zum 30.11.17; die Vernissage ist am Montag, den 13.11.17 um 17 Uhr.
 Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
-<<<<<<< HEAD
-=======
 
 ![](/img/betsy_miller_band.jpg)
 
@@ -40,6 +28,17 @@ Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu se
 >>>>>>> 44ff423e2fd89fc65026f6e15551139962a9b13f
  
 ## Vergangene Ausstellungen
+
+Angelika Holzmann
+
+Tierseelen
+
+Ausstellung vom 11.9.17 - 13.10.17
+Vernissage am 8.9.17 ab 18.30 Uhr
+
+
+
+##
 
 ## Dimitar Georgiev: „Mensch und Umgebungen“
 
