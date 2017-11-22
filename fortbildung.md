@@ -27,7 +27,7 @@ Hamburg-Neugraben an:
 Jeweils von 10 bis 17 Uhr
 
 [Flyer zur Fortbildung "Zertifizierte Sprachförderkraft mit künstlerischen Mitteln" finden Sie hier]
-(/downloads/171102_KIKU_FoBI-Flyer.pdf)
+(/downloads/171102_KIKU_FoBi-Flyer.pdf)
 
 Die Fortbildung zur zertifizierten Sprachförderkraft findet in
 Kooperation mit dem LI Hamburg (Landesinstitut für Lehrerbildung und
