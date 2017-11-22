@@ -29,5 +29,5 @@ Schule Ohrnsweg, Ohrnsweg  52
 
 ![](/img/Tanzcompagnie_plakat.jpg)
 
-Die Tanzcompagnie Süderelbe wird gefördert durch den Hamburger Integrationsfond
+Die Tanzcompagnie Süderelbe wird gefördert durch den Hamburger Integrationsfonds.
 
