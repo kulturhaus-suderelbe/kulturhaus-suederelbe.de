@@ -25,5 +25,7 @@ Süderelbe, im BGZ am S-Bahnhof Neugraben, zeigt.
 FSK 12 · Laufzeit 120 Min
   
 ![](/img/KHK-04_12_17-Infoscreen1.jpg)
-Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfond 
+![](/img/KHK-04_12_17-Infoscreen5.jpg)
+
+Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
 
