@@ -1,6 +1,6 @@
 # Kulturhaus-Kino: "Quelle der Frauen" am 4. Dez. um 19.30 Uhr 
 
-![](/img/KHK-04_12_17-Infoscreen1.jpg)
+![](/img/KHK-04_12_17-Infoscreen7.jpg)
 
 von Radu Mihaileanu
 
@@ -24,6 +24,6 @@ Süderelbe, im BGZ am S-Bahnhof Neugraben, zeigt.
 
 FSK 12 · Laufzeit 120 Min
   
-![](/img/KHKino-Logo4.jpg)
+![](/img/KHK-04_12_17-Infoscreen1.jpg)
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfond 
 
