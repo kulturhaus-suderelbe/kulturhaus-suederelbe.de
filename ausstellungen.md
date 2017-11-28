@@ -36,7 +36,7 @@ Tierseelen
 Ausstellung vom 11.9.17 - 13.10.17
 Vernissage am 8.9.17 ab 18.30 Uhr
 
-![](/angelika1.JPG)
+![](img/angelika1.JPG)
 
 
 
