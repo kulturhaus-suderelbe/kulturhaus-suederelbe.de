@@ -26,7 +26,6 @@ Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu se
 ![](/img/Harmonie.jpg)
 
 
- 
 ## Vergangene Ausstellungen
 
 Angelika Holzmann
@@ -36,10 +35,7 @@ Tierseelen
 Ausstellung vom 11.9.17 - 13.10.17
 Vernissage am 8.9.17 ab 18.30 Uhr
 
-![](img/angelika1.JPG)
-
-
-
+![](/img/angelika1.JPG)
 
 
 ## Dimitar Georgiev: „Mensch und Umgebungen“
