@@ -23,7 +23,7 @@ liest Dieter Wehrbrink
 
 von Archibald Joseph Cronin
 
-![](/img/.JPG)
+![](/img/nebel.JPG)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
