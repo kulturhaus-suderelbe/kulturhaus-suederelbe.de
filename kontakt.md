@@ -42,10 +42,10 @@ zum Download**](/downloads/Beitritserkl$C3$A4rung_Einz_aktuell.pdf)
 ## Der Vereinsvorstand (Ehrenämter)
 
 Hannelore Bobeck-Nicculescu
-:   2 . Vorsitzende
+:   2\. Vorsitzende
 
 Stephan Kaiser
-:   1 . Vorsitzender
+:   1\. Vorsitzender
 
 Winfried Wöhlke
 :   Schatzmeister
