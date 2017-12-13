@@ -18,11 +18,12 @@ gegeben.
 ## Am Sonntag, den 7. Januar 2017 ab 16 Uhr
 
 liest Dieter Wehrbrink 
-"Traumkinder"
+
+## "Traumkinder"
 
 von Archibald Joseph Cronin
 
-![](/img/weihnachten.JPG)
+![](/img/.JPG)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
