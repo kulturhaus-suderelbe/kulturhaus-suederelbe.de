@@ -2,8 +2,9 @@
 
 ![](/img/KHK-25_01_18-Infoscreen4.jpg)
 
-Dokumentarfilm Schweiz 2016
-Regie: Susanne Regina Meures
+Dokumentarfilm Schweiz 2016  
+Regie: Susanne Regina Meures  
+
 Sprache: Farsi, Deutsch Englisch mit deutschen Untertiteln
 
 Die beiden Brüder Anoosh und Arash bewegen sich im Zentrum von Tehrans Untergrund-Techno-Szene. 
@@ -20,8 +21,11 @@ FSK 6 · Laufzeit 84 Min
 ![](/img/KHK-25_01_18-Infoscreen2.jpg)
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
- -----------------------------------------------------------
 
+ ---------------------------------------------------------------------------------
+
+ 
+ 
 ## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-04_12_17-Infoscreen7.jpg)
