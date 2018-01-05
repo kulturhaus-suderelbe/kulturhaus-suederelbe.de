@@ -1,5 +1,5 @@
 # Kulturtage Süderelbe  
-von 19. Okt. bis 04. Nov. 2018
+# von 19. Okt. bis 04. Nov. 2018
 
 Die "Kulturtage Süderelbe" finden unter der organisatorischen Leitung des Kulturhauses Süderelbe 
 vom 19. Oktober bis 04. November 2018 statt. 
@@ -9,7 +9,8 @@ in unserer Region zeigen und ein Programm gestalten, das in diesem Zeitraum Kult
 und viele Besucher anzieht.  Unterstützen Sie uns und machen Sie mit! 
    
 Bitte geben Sie uns, sowohl als erfahrener lokaler Kulturveranstalter als auch als Amateur, Ihren Programmbeitrag 
-unter info@kulturhaus-suederelbe.de möglichst bald durch. 
+unter info@kulturhaus-suederelbe.de möglichst bald durch.  
+Herzlichen Dank! 
 
 
 ___________________________________________________________________________________________________
