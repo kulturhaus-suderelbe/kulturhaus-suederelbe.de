@@ -1,5 +1,16 @@
 # Ausstellungen
 
+## Zukünftige Ausstellung
+
+ "Vlucht"
+ 
+ Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
+ 
+ Vernissage am 1.2.18 ab 19 Uhr.
+ 
+ 
+
+
 ## Aktuelle Ausstellung 
 
 Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
