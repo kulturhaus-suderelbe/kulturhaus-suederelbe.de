@@ -1,4 +1,32 @@
-# Kulturhaus-Kino: "Quelle der Frauen" am 4. Dez. um 19.30 Uhr 
+# Kulturhaus-Kino: "Ravin Iran" am 25. Jan. um 19.30 Uhr 
+
+![](/img/KHK-25_01_18-Infoscreen4.jpg)
+
+Dokumentarfilm Schweiz 2016  
+Regie: Susanne Regina Meures  
+
+Sprache: Farsi, Deutsch Englisch mit deutschen Untertiteln
+
+Die beiden Brüder Anoosh und Arash bewegen sich im Zentrum von Tehrans Untergrund-Techno-Szene. 
+Doch sie haben es satt, sich dauernd vor der Polizei zu verstecken, und so organisieren sie einen 
+letzten großen Rave in der Wüste. Zurück in der Stadt wird Anoosh verhaftet, und alle Hoffnung 
+scheint verloren. Doch dann kommt ein Anruf aus der Schweiz, wo das weltgrößte Technofestival 
+ausgerichtet werden soll.
+
+**Der Eintritt ist frei, gerne Spenden**
+
+FSK 6 · Laufzeit 84 Min
+
+![](/img/KHK-25_01_18-Infoscreen3.jpg)
+![](/img/KHK-25_01_18-Infoscreen2.jpg)
+
+Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
+
+ ---------------------------------------------------------------------------------
+
+ 
+ 
+## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-04_12_17-Infoscreen7.jpg)
 
