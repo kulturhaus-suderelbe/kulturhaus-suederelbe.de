@@ -8,10 +8,21 @@
  
  Vernissage am 1.2.18 ab 19 Uhr.
  
- 
+## Aktuelle Ausstellung
+
+## Ilona Edler von der Planitz: Wäschestücke
+
+Vernissage am 7.12.17 ab 18.30 Uhr
+
+am Klavier: Norman Welp
+
+Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu sehen.
+
+![](/img/Harmonie.jpg)
 
 
-## Aktuelle Ausstellung 
+
+## Vergangene Ausstellung 
 
 Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
 Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
@@ -24,17 +35,6 @@ Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
 
 ![](/img/betsy_miller_band.jpg)
 
-## Nächste Ausstellung
-
-## Ilona Edler von der Planitz: Wäschestücke
-
-Vernissage am 7.12.17 ab 18.30 Uhr
-
-am Klavier: Norman Welp
-
-Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu sehen.
-
-![](/img/Harmonie.jpg)
 
 
 ## Vergangene Ausstellungen
