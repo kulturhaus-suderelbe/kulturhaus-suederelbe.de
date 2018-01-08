@@ -74,7 +74,7 @@ E-Bass
 
 Beginn
 :   Montag 5.2.18 von 14.30-22.00 Uhr
-:   Donnerstag, 7.9.17 von 14.30-22.00 Uhr
+:   Donnerstag, 1.2.18 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
