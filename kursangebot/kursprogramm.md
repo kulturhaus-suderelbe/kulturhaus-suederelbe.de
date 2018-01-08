@@ -49,9 +49,6 @@ Kursgebühr
 
 
 
-Kursgebühr
-:   130,- € für 10 Male
-
 # Montag / Donnerstag
 
 ## Gitarrenunterricht
