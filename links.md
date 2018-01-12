@@ -10,7 +10,6 @@
 -   [Steve Baker](http://www.stevebaker.de/)
 -   [Martin Röttger](http://www.martinroettger.de)
 -   [Kulturkreis Süderelbe](http://xn--kulturkreis-sderelbe-1ec.de/)
--   [Johanna Renate Wöhlke](http://www.jrwoehlke.de)
 -   [Eddy Winkelmann](http://www.eddywinkelmann.de)
 -   [SÜDKULTUR](http://www.sued-kultur.de/)
 -   [Ring für Heimattanz e.V.](http://www.heimattanz.de/)
