@@ -58,6 +58,9 @@ Schatzmeister
 Schriftführer
 :   Jens-Marcus Wasserstruß
 
+[Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
+[Hier finden Sie Ihren Antrag auf Mitgliedschaft in unserem Verein](/downloads/Beitrittserklaerung.pdf)
+
 
 # 38 Jahre Kunst- und Kulturhaus Süderelbe e.V.
 ## 1980 - 2018
@@ -87,8 +90,6 @@ Der Kunst- und Kulturverein „Kulturhaus Süderelbe e.V.“ bietet ein
 umfangreiches Programm in den Bereichen bildende Kunst, Musik, Theater,
 Bewegung, Literatur und Sprache.
 
-![](/img/wsb_115x115_KHS1+172-A2.jpg)
-![](/img/wsb_114x115_Kachel+$C3$96lmalerei.jpg)
 
 ## Kulturhausarbeit
 
@@ -168,4 +169,4 @@ Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 im Verein können Sie unsere Arbeit unterstützen. Eine
 Spendenbescheinigung kann erstellt werden.
 
-[Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
+
