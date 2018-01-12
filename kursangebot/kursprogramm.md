@@ -2,10 +2,10 @@
 
 ## Semesterbeginn am 1. Februar 2018 
 
-![](/img/flyer17-18.jpg)
+![](/img/Kursprogramm-KH_SoSe18.jpg)
 
-Unser Programmflyer hier zum Download: [Kursprogramm
-2017/2018](/downloads/Programm_2017-2018.pdf)
+Unser Kursprogramm Sommersemester finden Sie hier zum Download:
+(/downloads/KursprogrammKH_SoSe18.pdf)
 
 Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
@@ -38,15 +38,35 @@ Beginn
 Kursleitung
 :   Margrit Werner
 
+Kursgebühr
+: 125,- € 
+___________________________________________________________________________
+
+## Holzschnitt, Schnupperkurs
+
+Angeregt durch die Holzschnittkunst verschiedener Künstler werden
+unterschiedliche Techniken, wie der Schwarz-Weiß-Druck, der verlorenen
+Schnitt, der Irisdruck und der Farbholzschnitt mit mehreren Platten vermittelt
+und erprobt.
+
+Wir schneiden in Sperrholz, können zusätzlich auch mit Styropor und
+Materialien mit Struktur experimentieren. Gedruckt wird mit wasserlöslichen
+Farben ohne Presse im Handdruckverfahren, einer Technik, mit der jeder auch
+zu Hause arbeiten kann.
+
+Die Arbeitsmaterialien zur Herstellung und zum Druck werden gegen eine
+Materialumlage (15 €) zur Verfügung gestellt.
+
 Beginn
-:   Montag, 5.2.18, von 18.30-21.30 Uhr
+:   Montag, 26.03.18, von 19.00-22.00 Uhr
 
 Kursleitung
 :   Gabriele Wendland
 
 Kursgebühr
-:   125,- € / Semester
+: 57,- € für 4 Abende
 
+____________________________________________________________________________________
 
 
 # Montag / Donnerstag
@@ -92,6 +112,7 @@ Kursgebühr
 Die Abrechnung der Kursgebühr für Kinder ist über das "Bildungspaket"
 möglich, genau wie die monatliche Bezahlung von € 50,- bzw. € 60,-.
 
+_____________________________________________________________________________________
 
 ## Saxophon, Klarinette, Blockflöte, Klavier
 
@@ -113,6 +134,8 @@ Kursleitung
 
 Kursgebühr
 :   60,- € monatlich für 18 Male 1/2 Stunde Einzelunterricht / Semester
+
+___________________________________________________________________________________________
 
 # Montag / Freitag
 
