@@ -33,13 +33,13 @@ Vermittlung von Techniken in qualifizierter Form.
 ![](/img/sommerfest-2012-56.jpg)
 
 Beginn
-:   Montag, 4.9.17, von 10-13 Uhr
+:   Montag, 5.2.18, von 10-13 Uhr
 
 Kursleitung
 :   Margrit Werner
 
 Beginn
-:   Montag, 4.9.17, von 18.30-21.30 Uhr
+:   Montag, 5.2.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Gabriele Wendland
@@ -47,28 +47,7 @@ Kursleitung
 Kursgebühr
 :   125,- € / Semester
 
-## Afrikanisches Trommeln
 
-Aliou Badji ist Trommler, Choreograf und Tänzer. Mit dem senegalesischen
-Nationalballett tourte er um die ganze Welt, bis er sich in Hamburg
-niederließ. Dort gründete er die Musik- und Tanzformation „Diamoral“ und
-unterrichtet an zahlreichen Schulen.
-
-Trommeln bitte mitbringen - diese können auch über die Trommelschule
-Neu Wulmstorf geliehen werden. Neue TeilnehmerInnen sind herzlich
-willkommen; eine Probestunde ist möglich.
-
-![](/img/wsb_130x135_Foto+Aliou+Badji-Kachel.jpg)
-
-Beginn
-:   Auf Anfrage
-
-Kursleitung
-:   Aliou Badji  
-    [www.diamoral.de](http://www.diamoral.de)
-
-Kursgebühr
-:   130,- € für 10 Male
 
 # Montag / Donnerstag
 
@@ -94,8 +73,8 @@ E-Bass
 ![](/img/KHS3-078.jpg)
 
 Beginn
-:   Montag 4.9.17 von 14.30-22.00 Uhr
-:   Donnerstag, 7.9.17 von 14.30-22.00 Uhr
+:   Montag 5.2.18 von 14.30-22.00 Uhr
+:   Donnerstag, 1.2.18 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
@@ -127,7 +106,7 @@ abgestimmt.
 ![](/img/wsb_130x150_Dimitar+Georgiev+-+Saxophon+$282014.01$292.jpg)
 
 Beginn
-:   Montag, 4.9.17 von 14-20 Uhr
+:   Montag, 5.2.18 von 14-20 Uhr
 
 Kursleitung
 :   Dimitar Georgiev
@@ -149,8 +128,8 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 1.9.17, von 17-20 Uhr
-:   Montag, 4.9.17, von 15-18 Uhr
+:   Freitag, 2.2.18, von 17-20 Uhr
+:   Montag, 5.2.18, von 15-18 Uhr
 
 
 Kursleitung
@@ -184,7 +163,7 @@ Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
 jeder seinen Platz!
 
 Beginn
-:   Dienstag, 4.9.17, von 10-13 Uhr
+:   Dienstag, 6.2.18, von 10-13 Uhr
 
 Kursleitung
 :   Gabriele Wendland  
@@ -205,7 +184,7 @@ Oberflächengestaltung zu erlernen.
 ![](/img/wsb_144x160_KursPlakat+017.jpg)
 
 Beginn
-:   Dienstag, 5.9.17, von 16.30-18.00 Uhr
+:   Dienstag, 6.2.18, von 16.30-18.00 Uhr
 
 Kursleitung
 :   Teresa Werdier
@@ -227,7 +206,7 @@ Aktzeichnen ist die Grundlage für jede Art der figürlichen Darstellung!
 ![](/img/ruecken.jpg)
 
 Beginn
-:   Dienstag, 5.9.17, von 18.30-21.30 Uhr
+:   Dienstag, 6.2.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -258,8 +237,8 @@ TeilnehmerInnen abgestimmt.
 ![](/img/wsb_145x143_Kachel+Musik+5x5.jpg)
 
 Beginn
-:   Dienstag, 5.9.17
-:   Mittwoch, 6.9.17
+:   Dienstag, 6.2.18
+:   Mittwoch, 7.2.18
 
 Kursleitung
 :   Bettina Sehlbach  
@@ -322,21 +301,21 @@ nachfragen.
 ![](/img/wsb_151x154_KHS8+042-gesch$C3$A4rft+etc.JPG)
 
 Beginn
-:   Mittwoch, 6.9.17, von 17-20 Uhr
+:   Mittwoch, 7.2.18, von 17-20 Uhr
 
 Kursleitung
 :   Christian Richert  
     [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
 
 Beginn
-:   Donnerstag, 7.9.17, von 9-12 Uhr
+:   Donnerstag, 1.2.18, von 9-12 Uhr
 
 Kursleitung
 :   Yves Rasch  
     [www.schwuenge.de](http://www.schwuenge.de)
 
 Beginn
-:   Donnerstag, 7.9.17, von 15-18 Uhr
+:   Donnerstag, 1.2.18, von 15-18 Uhr
 
 Kursleitung
 :   Christian Richert  
@@ -359,14 +338,14 @@ oder Porträt behandeln.
 ![](/img/wsb_149x155_WEBAquarell2.jpg)
 
 Beginn
-:   Mittwoch, 6.9.17, von 18.30-21.30 Uhr
+:   Mittwoch, 7.2.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Elke Nack-Karstens  
     [www.elkenack-karstens.de](http://www.elkenack-karstens.de)
 
 Beginn
-:   Freitag, 1.9.17, von 10-13 Uhr
+:   Freitag, 2.2.18, von 10-13 Uhr
 
 Kursleitung
 :   Angelika Holzmann
@@ -388,7 +367,7 @@ Superteam bilden!
 ![](/img/wsb_151x125_Fr$C3$BChlingsfest_2007+023.jpg)
 
 Beginn
-:   Donnerstag, 7.9.17, von 15-18 Uhr
+:   Donnerstag, 1.2.18, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -405,7 +384,7 @@ unterrichtet außer im Kulturhaus an vielen Orten Hamburgs.
 ![](/img/KHS4-001.jpg)
 
 Beginn
-:   Donnerstag, 7.9.17; Uhrzeiten nach Absprache
+:   Donnerstag, 1.2.18; Uhrzeiten nach Absprache
 
 Kursleitung
 :   Dietwalt Mauruschat  
@@ -434,7 +413,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 14.9.17, von 19.30-21.30 Uhr
+:   Donnerstag, 1.2.18, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
@@ -454,7 +433,7 @@ Heimat Bulgarien Auszeichnungen für seine Arbeiten erhalten hat.
 ![](/img/wsb_270x158_DSCN0025.JPG)
 
 Beginn
-:   Donnerstag, 7.9.17, von 18.30-21.30 Uhr
+:   Donnerstag, 1.2.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Branimir Georgiev  
@@ -478,7 +457,7 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 21.9.17 von 16.30-18 Uhr
+:   Donnerstag, 1.2.18 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
