@@ -1,6 +1,6 @@
-# Kursprogramm Wintersemester 2017/2018
+# Kursprogramm Sommersemester 2018
 
-## Semesterbeginn am 1. September 2017
+## Semesterbeginn am 1. Februar 2018 
 
 ![](/img/flyer17-18.jpg)
 
