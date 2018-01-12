@@ -59,6 +59,7 @@ Schriftführer
 :   Jens-Marcus Wasserstruß
 
 [Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
+
 [Hier finden Sie Ihren Antrag auf Mitgliedschaft in unserem Verein](/downloads/Beitrittserklaerung.pdf)
 
 
