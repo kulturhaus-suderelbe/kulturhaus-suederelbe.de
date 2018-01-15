@@ -25,7 +25,7 @@ Am Sonntag, den 4.2.18, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck aus 
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
-![](/img/.JPG)
+![](/img/th.JPG)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
