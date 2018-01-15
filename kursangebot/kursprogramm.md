@@ -41,11 +41,15 @@ Kursleitung
 Beginn
 :   Montag, 5.2.18, von 18.30-21.30 Uhr
 
+## Holzdruck/Holzschnitt
+
+Kurzkurs 4 Male
+
 Kursleitung
 :   Gabriele Wendland
 
 Kursgebühr
-:   125,- € / Semester
+:   57,- € / Materialkosten 15,- €
 
 
 
