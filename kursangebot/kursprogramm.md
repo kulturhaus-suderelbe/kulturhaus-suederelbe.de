@@ -1,11 +1,10 @@
-# Kursprogramm Wintersemester 2017/2018
+# Kursprogramm Sommersemester 2018
 
-## Semesterbeginn am 1. September 2017
+## Semesterbeginn am 1. Februar 2018 
 
-![](/img/flyer17-18.jpg)
+![](/img/Kursprogramm-KH_SoSe18.jpg)
 
-Unser Programmflyer hier zum Download: [Kursprogramm
-2017/2018](/downloads/Programm_2017-2018.pdf)
+[Unser Kursprogramm Sommersemester finden Sie hier zum Download](/downloads/KursprogrammKH_SoSe18.pdf)
 
 Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
@@ -17,6 +16,7 @@ werden.
 
 Mehr Infos finden Sie hier:
 [www.hamburg.de/bildungspaket/](http://www.hamburg.de/bildungspaket/)
+
 
 # Montag
 
@@ -38,8 +38,27 @@ Beginn
 Kursleitung
 :   Margrit Werner
 
+Kursgebühr
+: 125,- € 
+
+
+## Holzschnitt, Schnupperkurs
+
+Angeregt durch die Holzschnittkunst verschiedener Künstler werden
+unterschiedliche Techniken, wie der Schwarz-Weiß-Druck, der verlorenen
+Schnitt, der Irisdruck und der Farbholzschnitt mit mehreren Platten vermittelt
+und erprobt.
+
+Wir schneiden in Sperrholz, können zusätzlich auch mit Styropor und
+Materialien mit Struktur experimentieren. Gedruckt wird mit wasserlöslichen
+Farben ohne Presse im Handdruckverfahren, einer Technik, mit der jeder auch
+zu Hause arbeiten kann.
+
+Die Arbeitsmaterialien zur Herstellung und zum Druck werden gegen eine
+Materialumlage (15 €) zur Verfügung gestellt.
+
 Beginn
-:   Montag, 5.2.18, von 18.30-21.30 Uhr
+:   Montag, 26.03.18, von 19.00-22.00 Uhr
 
 ## Holzdruck/Holzschnitt
 
@@ -49,8 +68,12 @@ Kursleitung
 :   Gabriele Wendland
 
 Kursgebühr
+<<<<<<< HEAD
 :   57,- € / Materialkosten 15,- €
 
+=======
+: 57,- € für 4 Abende
+>>>>>>> 7e8a8dcb4101871ed321da88d05d592f278d9f8e
 
 
 # Montag / Donnerstag
@@ -118,6 +141,7 @@ Kursleitung
 Kursgebühr
 :   60,- € monatlich für 18 Male 1/2 Stunde Einzelunterricht / Semester
 
+
 # Montag / Freitag
 
 ## Keramik (Aufbautechnik)
@@ -155,6 +179,7 @@ Termine
 Kursleitung
 :   Helga Hentschel
 
+
 # Dienstag
 
 ## Maltechniken
@@ -175,6 +200,7 @@ Kursleitung
 
 Kursgebühr
 :   125,- € / Semester
+
 
 ## Töpferschule für Kinder
 
@@ -198,6 +224,7 @@ Kursgebühr
 
 Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
+
 ## Figürliches Zeichnen/Akt
 
 Mit wechselnden Modellen (weiblich/männlich) wird hier das Auge
@@ -218,6 +245,7 @@ Kursleitung
 Kursgebühr
 :   165,- € inkl. Modellkosten
 
+
 ## Yoga
 
 Informationen über Kursinhalte, Kurszeiten und Kosten sowie Kursanmeldung bitte direkt unter Telefon: 040 765 62 92, E-Mail: [etrudzinski@web.de](mailto:etrudzinski@web.de)
@@ -227,6 +255,7 @@ Termine
 
 Kursleitung
 :   Elisabeth Trudzinski
+
 
 # Dienstag / Mittwoch
 
@@ -253,6 +282,7 @@ Kursgebühr
 
 Für Kinder ist die Abrechnung über das „Bildungspaket“ möglich.
 
+
 # Mittwoch
 
 ## Kindermalschule
@@ -277,6 +307,7 @@ Kursgebühr
 
 Die Abrechnung über das Bildungspaket ist möglich.
 
+
 ## Teatimetalk
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie
@@ -289,6 +320,7 @@ Termine
 
 Kursleitung
 :   Henry Holland
+
 
 # Mittwoch / Donnerstag
 
@@ -328,6 +360,7 @@ Kursleitung
 Kursgebühren
 :   150,- € für 15-18 Male je nach Gruppengröße
 
+
 # Mittwoch / Freitag
 
 ## Aquarellmalerei
@@ -357,6 +390,7 @@ Kursleitung
 Kursgebühr
 :   125,- €
 
+
 # Donnerstag
 
 ## Stillleben, Zeichnen und mehr
@@ -379,6 +413,7 @@ Kursleitung
 Kursgebühr
 :   125,- €
 
+
 ## Geige / Gesang
 
 Dietwalt Mauruschat, freier Musiker und Spezialist für Violine, Viola
@@ -400,6 +435,7 @@ Kursgebühr
 
 Die Abrechnung der Kursgebühr für Kinder ist über das „Bildungspaket“
 möglich.
+
 
 ## Energy Dance / Yoga
 
@@ -425,6 +461,7 @@ Kursleitung
 Kursgebühr
 :   125,- €
 
+
 ## Acrylmalerei
 
 Die Bandbreite des Kurses schließt sowohl naturalistisches als auch
@@ -445,6 +482,7 @@ Kursleitung
 
 Kursgebühr
 :   125,- €
+
 
 ## Tanzpiraten
 
@@ -471,6 +509,7 @@ Kursgebühr
 
 Abrechnung über das Bildungspaket möglich!
 
+
 # Freitag
 
 ## Feldenkrais / VHS-Kurs
@@ -486,6 +525,7 @@ Kursleitung
 :   Anne Wechmann  
     [www.anne-wechmann.de](http://www.anne-wechmann.de)
 
+	
 ## Freie Ateliergemeinschaft L.A.R.S.
 
 Informationen bitte direkt über Susanne Brussolo Telefon 040 701 50 30

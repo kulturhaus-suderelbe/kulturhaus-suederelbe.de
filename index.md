@@ -44,7 +44,7 @@ Wer unsere Arbeit unterstützen möchte, kann mit dem jährlichen Beitrag
 von 24,- € Mitglied werden.
 
 In der Mitgliederversammlung unseres Vereins
-am 12. November 2015 wurde der Vereinsvorstand wie folgt neu gewählt:
+am 24. November 2017 wurde der Vereinsvorstand wie folgt gewählt:
 
 1\. Vorstand
 :   Stephan Kaiser
@@ -55,9 +55,16 @@ am 12. November 2015 wurde der Vereinsvorstand wie folgt neu gewählt:
 Schatzmeister
 :   Winfried Wöhlke
 
+Schriftführer
+:   Jens-Marcus Wasserstruß
 
-# 37 Jahre Kunst- und Kulturhaus Süderelbe e.V.
-## 1980 - 2017
+[Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
+
+[Hier finden Sie Ihren Antrag auf Mitgliedschaft in unserem Verein](/downloads/Beitrittserklaerung.pdf)
+
+
+# 38 Jahre Kunst- und Kulturhaus Süderelbe e.V.
+## 1980 - 2018
 
 #### Kultur vor Ort
 
@@ -84,9 +91,6 @@ Der Kunst- und Kulturverein „Kulturhaus Süderelbe e.V.“ bietet ein
 umfangreiches Programm in den Bereichen bildende Kunst, Musik, Theater,
 Bewegung, Literatur und Sprache.
 
-![](/img/wsb_108x113_Foto+Aliou+Badji-Kachel.jpg)
-![](/img/wsb_115x115_KHS1+172-A2.jpg)
-![](/img/wsb_114x115_Kachel+$C3$96lmalerei.jpg)
 
 ## Kulturhausarbeit
 
@@ -153,17 +157,17 @@ Im Striepensaal bietet das Kulturhaus jeden 1. Sonntag im Monat von
 Weitere Informationen siehe [Literaturcafe im Striepensaal](/literaturcafe.html)
 oder unter Tel. 040 702 55 06.
 
-## Kulturtage Süderelbe 2017
+## Kulturtage Süderelbe 2018
 
 In bewährter Weise sollen die „Kulturtage Süderelbe“ sowohl eine
 Plattform für erfahrene lokale Kulturveranstalter sein als auch
 Amateuren einen schützenden Rahmen bieten, um sich in der Öffentlichkeit
 mit einem Programmbeitrag zu präsentieren. Weitere Informationen siehe
-[Kulturtage Süderelbe 2017](/kulturtage.html).
+[Kulturtage Süderelbe 2018](/kulturtage.html).
 
 Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 über das Bezirksamt Harburg. Mit einer Spende oder einer Mitgliedschaft
 im Verein können Sie unsere Arbeit unterstützen. Eine
 Spendenbescheinigung kann erstellt werden.
 
-[Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
+
