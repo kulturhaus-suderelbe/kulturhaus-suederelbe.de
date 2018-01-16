@@ -68,12 +68,8 @@ Kursleitung
 :   Gabriele Wendland
 
 Kursgebühr
-<<<<<<< HEAD
-:   57,- € / Materialkosten 15,- €
+57,- € / Materialkosten 15,- €
 
-=======
-: 57,- € für 4 Abende
->>>>>>> 7e8a8dcb4101871ed321da88d05d592f278d9f8e
 
 
 # Montag / Donnerstag
