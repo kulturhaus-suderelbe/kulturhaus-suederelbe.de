@@ -19,11 +19,13 @@ gegeben.
 
 liest Dieter Wehrbrink 
 
-## "Traumkinder"
+## 1001 Nacht
 
-von Archibald Joseph Cronin
+Am Sonntag, den 4.2.18, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck aus dem Klassiker 1001 Nacht.
 
-![](/img/nebel.JPG)
+Beginn: 16 Uhr, Einlass ab 15.30 Uhr
+
+![](/img/februa18.JPG)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 

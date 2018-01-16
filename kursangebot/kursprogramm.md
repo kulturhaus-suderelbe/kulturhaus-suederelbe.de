@@ -61,11 +61,20 @@ Materialumlage (15 €) zur Verfügung gestellt.
 Beginn
 :   Montag, 26.03.18, von 19.00-22.00 Uhr
 
+## Holzdruck/Holzschnitt
+
+Kurzkurs 4 Male
+
 Kursleitung
 :   Gabriele Wendland
 
 Kursgebühr
+<<<<<<< HEAD
+:   57,- € / Materialkosten 15,- €
+
+=======
 : 57,- € für 4 Abende
+>>>>>>> 7e8a8dcb4101871ed321da88d05d592f278d9f8e
 
 
 # Montag / Donnerstag
