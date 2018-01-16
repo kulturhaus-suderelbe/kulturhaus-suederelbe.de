@@ -42,6 +42,7 @@ Kursgebühr
 : 125,- € 
 
 
+
 ## Holzschnitt, Schnupperkurs
 
 Angeregt durch die Holzschnittkunst verschiedener Künstler werden
