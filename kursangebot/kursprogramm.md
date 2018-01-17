@@ -58,7 +58,7 @@ zu Hause arbeiten kann.
 Die Arbeitsmaterialien zur Herstellung und zum Druck werden gegen eine
 Materialumlage (15 €) zur Verfügung gestellt.
 
-![](/img/gabriele-Wendland-holzschnitt.jpg.)
+![](/img/gabriele-Wendland-holzschnitt.jpg)
 
 Beginn
 :   Montag, 26.03.18, von 19.00-22.00 Uhr , Schnupperkurs 4 Abende
