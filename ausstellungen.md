@@ -8,6 +8,8 @@
  
  Vernissage am 1.2.18 ab 19 Uhr.
  
+ ![](/img/vlucht.jpg)
+ 
 ## Aktuelle Ausstellung
 
 ## Ilona Edler von der Planitz: Wäschestücke
