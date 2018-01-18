@@ -36,6 +36,6 @@ Alle Kurse exkl. Materialien. Alle Kurse sind sowohl für Anfänger als
 auch für Fortgeschrittene geeignet. Eine Probestunde kann vereinbart
 werden. Eine Ermäßigung der Gebühren ist nach Absprache möglich.
 
-**Das aktuelle Programmangebot finden Sie links unter [KursprogrammKH_SoSe18]**
+**Das aktuelle Programmangebot finden Sie links unter [Kursprogramm Sommersemester 2018](/kursprogramm.html)
 
 

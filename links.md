@@ -4,7 +4,6 @@
 -   30 Jahre Stadtteilkultur: [Stadtteilkultur-Film von Ulrich
     Raatz](http://www.hamburg.de/stadtteilkultur/2091080/video-stadtteilkultur.html)
 -   [Leben im Neuwiedenthal](http://www.neuwiedenthal.de)
--   [Vereinigung Süderelbe](http://www.vereinigung-suederelbe.de)
 -   [Bücherhalle
     Neugraben](http://www.buecherhallen.de/aw/home/standortliste~dl/neugraben/)
 -   [Steve Baker](http://www.stevebaker.de/)
