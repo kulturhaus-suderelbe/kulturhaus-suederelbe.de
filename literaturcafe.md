@@ -15,9 +15,9 @@ gegeben.
 (Min.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 
-## Am Sonntag, den 7. Januar 2017 ab 16 Uhr
 
-liest Dieter Wehrbrink 
+
+
 
 ## 1001 Nacht
 
