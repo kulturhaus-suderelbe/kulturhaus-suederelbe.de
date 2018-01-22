@@ -2,16 +2,16 @@
 
 ## Zukünftige Ausstellung
 
- "Vlucht"
- 
- Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
- 
- Vernissage am 1.2.18 ab 19 Uhr.
- 
- Ausstellungsdauer vom 2.2.18 bis 16.3.18, werktags von 10-20 Uhr
- 
- ![](/img/vlucht.JPG)
- 
+## Vlucht
+
+Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
+
+Vernissage am 1.2.18 ab 19 Uhr.
+
+Ausstellungsdauer vom 2.2.18 bis 16.3.18, werktags von 10-20 Uhr
+
+![](/img/Vlucht.jpg)
+
 ## Aktuelle Ausstellung
 
 ## Ilona Edler von der Planitz: Wäschestücke
