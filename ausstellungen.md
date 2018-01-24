@@ -1,6 +1,5 @@
 
 
-## Aktuelle Ausstellung
 
 ## "Vlucht"
  
