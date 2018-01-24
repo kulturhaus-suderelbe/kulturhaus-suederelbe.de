@@ -2,6 +2,7 @@
 
 ## Zukünftige Ausstellung
 
+<<<<<<< HEAD
  "Vlucht"
  
  Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
@@ -18,6 +19,18 @@
  
  ![](/img/vlucht.JPG)
  
+=======
+## Vlucht
+
+Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
+
+Vernissage am 1.2.18 ab 19 Uhr.
+
+Ausstellungsdauer vom 2.2.18 bis 16.3.18, werktags von 10-20 Uhr
+
+![](/img/Vlucht.jpg)
+
+>>>>>>> 75f7e6cc76fb64d9e492909e2534275800fff551
 ## Aktuelle Ausstellung
 
 ## Ilona Edler von der Planitz: Wäschestücke
@@ -32,13 +45,15 @@ Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu se
 
 
 
-## Vergangene Ausstellung 
+## Vergangene Ausstellung
 
-Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler. 
-Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet. 
+Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler.
 
-Während der Kulturtage Süderelbe stellen sowohl die Künstlerin selbst als auch ihre Schülerinnen und Schüler im Kulturhaus aus. 
-Es sind vor allem Kinder und Jugendliche aus den Kreisen der Geflüchteten, die ihre Bilder zur Verfügung stellen. 
+Eine davon ist Gabriele Wendland, die während der Cafe-Zeit montags ihr offenes Atelier von 15 bis 18 Uhr anbietet.
+
+Während der Kulturtage Süderelbe stellen sowohl die Künstlerin selbst als auch ihre Schülerinnen und Schüler im Kulturhaus aus.
+
+Es sind vor allem Kinder und Jugendliche aus den Kreisen der Geflüchteten, die ihre Bilder zur Verfügung stellen.
 
 Die Ausstellung läuft vom Dienstag, den 14.11.17, bis zum 30.11.17; die Vernissage ist am Montag, den 13.11.17 um 17 Uhr.
 Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
