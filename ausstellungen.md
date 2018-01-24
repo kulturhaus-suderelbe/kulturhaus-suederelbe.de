@@ -1,5 +1,5 @@
 
-## Ausstellungen
+# Ausstellungen
 
 # "Vlucht"
  
@@ -11,7 +11,7 @@
  
  Hinzu kommen zwei Gastkünstlerinnen mit ihren Werken: Tine Waldbüßer und Claire Ewbank.
  
- # Vernissage am 1.2.18 ab 19 Uhr.
+ Vernissage am 1.2.18 ab 19 Uhr.
  
  Ausstellungsdauer vom 2.2.18 bis 16.3.18, werktags von 10-20 Uhr
  
