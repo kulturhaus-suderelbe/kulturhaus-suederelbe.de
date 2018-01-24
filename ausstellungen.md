@@ -1,9 +1,8 @@
-# Ausstellungen
 
-## Zukünftige Ausstellung
 
-<<<<<<< HEAD
- "Vlucht"
+## Aktuelle Ausstellung
+
+## "Vlucht"
  
  Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
  
@@ -19,19 +18,8 @@
  
  ![](/img/vlucht.JPG)
  
-=======
-## Vlucht
 
-Eine Ausstellung mit Bildern von Branimir Georgiev und seinen SchülerInnen aus dem Acrylkurs.
-
-Vernissage am 1.2.18 ab 19 Uhr.
-
-Ausstellungsdauer vom 2.2.18 bis 16.3.18, werktags von 10-20 Uhr
-
-![](/img/Vlucht.jpg)
-
->>>>>>> 75f7e6cc76fb64d9e492909e2534275800fff551
-## Aktuelle Ausstellung
+## Vergangene Ausstellung
 
 ## Ilona Edler von der Planitz: Wäschestücke
 
