@@ -15,7 +15,7 @@
  
  Ausstellungsdauer vom 2.2.18 bis 16.3.18, werktags von 10-20 Uhr
  
- ![](/img/vlucht.JPG)
+ ![](/img/Vlucht.JPG)
  
 
 ## Vergangene Ausstellung
