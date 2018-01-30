@@ -1,5 +1,5 @@
 
-## Austtellungen
+## Ausstellungen
 
 ## "Vlucht"
  
