@@ -5,7 +5,7 @@
 ## Schule am Johannisland  
 Am Johannisland 4  
 BGZ Süderelbe  
-21147 Hamburger
+21147 Hamburg
 
 Der Eintritt ist frei!
 
