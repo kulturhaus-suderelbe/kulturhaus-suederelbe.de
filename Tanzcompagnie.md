@@ -2,6 +2,18 @@
 
 ![](/img/FlyerTC.jpg)
 
+## Schule am Johannisland  
+Am Johannisland 4  
+BGZ Süderelbe  
+21147 Hamburger
+
+Der Eintritt ist frei!
+
+infos: Wiebke Heinrich, 0176-62509967 
+  
+   
+
+
 ## Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
 
 ![](/img/Logo_Tanz_Compagnie_Final.jpg)
