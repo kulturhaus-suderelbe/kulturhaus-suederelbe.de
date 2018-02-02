@@ -1,4 +1,29 @@
-# Kulturhaus-Kino: "Raving Iran" am 25. Jan. um 19.30 Uhr 
+# Kulturhaus-Kino: "Gegen die Wand" am 01. März um 19.00 Uhr 
+
+![](/img/Ohne-Titel-2.jpg)
+
+Spielfilm Deutschland / Türkei 2004  
+Regie: Fatih Akim  
+FSK 12
+ 
+Sibel (Sibel Kekilli) ist eine junge Türkin, aufgewachsen in Hamburg. Um ihrem konservativen 
+Elternhaus zu entgehen, lässt sie sich auf eine Scheinehe mit Cahit (Birol Ünel) ein, 
+der gerade sein mit Drogen und einem Selbstmordversuch aus den Fugen geratenes Leben neu 
+einrichten will. Während sich Sibel voll dem Leben hingibt ("Ich will ficken, und zwar nicht 
+einen, sondern viele"), vegetiert Cahit zunächst weiter im Sumpf aus Alkohol und Drogen vor 
+sich hin. Ab und zu geht er mit seiner Bekannten Maren (Catrin Striebeck) ins Bett. Doch nach
+einiger Zeit merkt er, dass er wesentlich mehr für Sibel empfindet, als ihre Scheinehe vermuten lässt.
+Das führt zu Problemen, denn plötzlich ist Cahit eifersüchtig auf Sibels Bettgenossen...
+
+**Der Eintritt ist frei, gerne Spenden**
+
+Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
+
+
+ ---------------------------------------------------------------------------------
+
+ 
+## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-25_01_18-Infoscreen4.jpg)
 
@@ -20,13 +45,7 @@ FSK 6 · Laufzeit 84 Min
 ![](/img/KHK-25_01_18-Infoscreen3.jpg)
 ![](/img/KHK-25_01_18-Infoscreen2.jpg)
 
-Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
-
- ---------------------------------------------------------------------------------
-
- 
- 
-## Vergangene Filmvorführungen im Kulturhaus-Kino
+---------------------------------------------------------------------------------
 
 ![](/img/KHK-04_12_17-Infoscreen7.jpg)
 
