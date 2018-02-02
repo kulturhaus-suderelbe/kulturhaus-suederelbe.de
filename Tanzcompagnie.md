@@ -1,4 +1,20 @@
-# Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
+# Tanzcompagnie Süderelbe: Tanztheater-Aufführung von Kindern für Kinder am 15. März um 11 Uhr 
+
+![](/img/FlyerTC.jpg)
+
+## Schule am Johannisland  
+Am Johannisland 4  
+BGZ Süderelbe  
+21147 Hamburg
+
+Der Eintritt ist frei!
+
+Infos: Wiebke Heinrich, 0176-62509967 
+  
+-----------------------------------------------------------------------------   
+
+
+## Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
 
 ![](/img/Logo_Tanz_Compagnie_Final.jpg)
 
@@ -24,8 +40,11 @@ Kulturhaus Süderelbe, Am Johannisland 2
 Freitag: 14:00 - 16:00 (Alle), 
 Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
 
-## Aufführung am 5. November 2017 um 15 Uhr,   
-Schule Ohrnsweg, Ohrnsweg  52
+
+-------------------------------------------------------------------------------
+## Vergangene Aufführungen der Tanzcompagnie Süderelbe: 
+ 
+## Schule Ohrnsweg am 05. Nov. 2017 
 
 ![](/img/Tanzcompagnie_plakat.jpg)
 
