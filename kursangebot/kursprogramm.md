@@ -509,7 +509,7 @@ Abrechnung über das Bildungspaket möglich!
 
 ## Arbeiten mit Wasserfarben
 
-:    Freitags von 10.00-13.00 Uhr
+Freitags von 10.00-13.00 Uhr
 Kursleitung
 :    Angelika Holzmann
 
@@ -521,7 +521,7 @@ Jede Art von Motiv ist recht, Hauptsache, im Lauf der Zeit wird ein eigener Stil
 In angenehmer Atmosphäre und stressfrei können Menschen unterschiedlichen Alters 
 hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
 
-![](/img
+
 
 ## Feldenkrais / VHS-Kurs
 
