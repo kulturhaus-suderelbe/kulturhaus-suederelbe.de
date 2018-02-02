@@ -1,4 +1,4 @@
-# Tanzcompagnie Süderelbe: Tanztheater-Aufführung am 15. März um 11 Uhr 
+# Tanzcompagnie Süderelbe: Tanztheater-Aufführung von Kindern für Kinder am 15. März um 11 Uhr 
 
 ![](/img/FlyerTC.jpg)
 
@@ -9,9 +9,9 @@ BGZ Süderelbe
 
 Der Eintritt ist frei!
 
-infos: Wiebke Heinrich, 0176-62509967 
+Infos: Wiebke Heinrich, 0176-62509967 
   
-   
+-----------------------------------------------------------------------------   
 
 
 ## Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
