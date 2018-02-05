@@ -1,4 +1,4 @@
-# Puppentheater Kollin Kläff - Termine ab Februar 18
+# Puppentheater Kollin Kläff - Termine ab Febr. 18
 
 ## Handpuppentheater mit und von Maya Raue
 
