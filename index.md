@@ -57,7 +57,7 @@ Schatzmeister
 :   Winfried Wöhlke
 
 Schriftführer
-:   Jens-Marcus Wasserstruß
+:   Jens-Marcus Wasserstraß
 
 [Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
 
