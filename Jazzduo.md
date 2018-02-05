@@ -20,6 +20,7 @@ der bei zahllosen Konzerten und ebenso vielen Aufnahmen als Studiomusiker sein A
 und prägnanten Saxophon-Sound, wie auch seinen eigenen Stil unter Beweis gestellt und entwickelt hat.
 
 [https://soundcloud.com/tadeusz-jakubowski](https://soundcloud.com/tadeusz-jakubowski)  
+
 [http://www.johannes-bahlmann.de](http://www.johannes-bahlmann.de)
 
 ## Michaeliskirche  
