@@ -11,6 +11,7 @@ navigation:
   - suederelbe-archiv
   - Mardon
   - Kulturhauskino
+  - Jazzduo
   - LittleBigBand
   - Tanzcompagnie
   - theater
