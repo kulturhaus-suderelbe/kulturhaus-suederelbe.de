@@ -1,4 +1,4 @@
-# Puppentheater Kollin Kläff - Termine ab Oktober 2017
+# Puppentheater Kollin Kläff - Termine ab Febr. 18
 
 ## Handpuppentheater mit und von Maya Raue
 
@@ -23,22 +23,6 @@ Dauer ca. 40 Min.
 Voranmeldung für Gruppen erforderlich
 
 ## Termine
-
-15\. Okt. 2017
-:   um 11 Uhr „Kollin und der gestohlene Zauberstab“
-:   um 15 Uhr „Kollin und der freche Drache Blitz“
-
-05\. Nov. 2017
-:   um 11 Uhr „Kollin und der Superkleber“
-:   um 15 Uhr „Kollin und der dufte König“
-
-03\. Dez. 2017
-:   um 11 Uhr „Kollin und der Weihnachtsmann“
-:   um 15 Uhr „Kollin und der Superkleber“
-
-07\. Jan. 2018
-:   um 11 Uhr „Kollin und die Glitzerschnecke“
-:   um 15 Uhr „Kollin und der Zauberstab“
 
 04\. Feb. 2018
 :   um 11 Uhr „Kollin und der freche Drache“
