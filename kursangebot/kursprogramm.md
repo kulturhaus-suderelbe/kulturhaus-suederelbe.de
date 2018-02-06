@@ -521,7 +521,7 @@ Jede Art von Motiv ist recht, Hauptsache, im Lauf der Zeit wird ein eigener Stil
 In angenehmer Atmosphäre und stressfrei können Menschen unterschiedlichen Alters 
 hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
 
-![](/img
+
 
 
 
