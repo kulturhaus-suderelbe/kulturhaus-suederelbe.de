@@ -17,6 +17,12 @@
  
  ![](/img/vlucht.jpg)
  
+ ## Nächste Ausstellung
+ 
+ Dimitar Georgiev (Mitko)
+ 
+ zeigt die nächste Reihe Fotos von seinen Reisen (siehe unten)  
+ 
 
 ## Vergangene Ausstellungen
 
