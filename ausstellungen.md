@@ -18,7 +18,7 @@
  ![](/img/vlucht.jpg)
  
 
-## Vergangene Ausstellung
+## Vergangene Ausstellungen
 
 ## Ilona Edler von der Planitz: Wäschestücke
 
@@ -30,9 +30,6 @@ Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu se
 
 ![](/img/Harmonie.jpg)
 
-
-
-## Vergangene Ausstellung
 
 Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler.
 
@@ -48,8 +45,6 @@ Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
 ![](/img/betsy_miller_band.jpg)
 
 
-
-## Vergangene Ausstellungen
 
 Angelika Holzmann
 
