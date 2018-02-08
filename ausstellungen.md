@@ -36,6 +36,10 @@ Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu se
 
 ![](/img/Harmonie.jpg)
 
+## KUNST MACHEN
+
+Eine Ausstellungen von Schülern und ihrer Künstlerin
+
 
 Das inzwischen sehr bekannte "Cafe Welcome" in Kooperation mit kirchlichen Trägern in Neugraben arbeitet auch mit Angeboten der Kulturhauskünstler.
 
