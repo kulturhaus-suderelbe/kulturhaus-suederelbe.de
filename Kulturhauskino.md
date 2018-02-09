@@ -1,11 +1,13 @@
 # Kulturhaus-Kino: "Gegen die Wand" am 01. März um 19.00 Uhr 
 
-![](/img/Ohne-Titel-2.jpg)
+![](/img/KHK-01_03_18-Infoscreen_6.jpg)
 
 Spielfilm Deutschland / Türkei 2004  
 Regie: Fatih Akim  
 FSK 12
  
+![](/img/KHK-01_03_18-Infoscreen_3.jpg) 
+
 Sibel (Sibel Kekilli) ist eine junge Türkin, aufgewachsen in Hamburg. Um ihrem konservativen 
 Elternhaus zu entgehen, lässt sie sich auf eine Scheinehe mit Cahit (Birol Ünel) ein, 
 der gerade sein mit Drogen und einem Selbstmordversuch aus den Fugen geratenes Leben neu 
@@ -16,6 +18,8 @@ einiger Zeit merkt er, dass er wesentlich mehr für Sibel empfindet, als ihre Sc
 Das führt zu Problemen, denn plötzlich ist Cahit eifersüchtig auf Sibels Bettgenossen...
 
 **Der Eintritt ist frei, gerne Spenden**
+
+![](/img/KHK-01_03_18-Infoscreen_2.jpg)
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
 
