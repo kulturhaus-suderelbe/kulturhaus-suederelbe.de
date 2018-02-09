@@ -1,4 +1,4 @@
-# Kulturtage Süderelbe 19. Okt. bis 04. Nov. 
+# Kulturtage Süderelbe 19. Okt. bis 04. Nov. 18 
 
 ![](/img/kulturtage-2018-logo.jpg)
 
