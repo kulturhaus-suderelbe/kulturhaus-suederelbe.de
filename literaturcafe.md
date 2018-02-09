@@ -19,13 +19,17 @@ gegeben.
 
 
 
-## 1001 Nacht
+ 
 
-Am Sonntag, den 4.2.18, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck aus dem Klassiker 1001 Nacht.
+Am Sonntag, den 4.3.18, liest Dieter Wehrbrink
+
+"Ewig Dein, ewig mein, ewig uns"
+
+Liebesbriefe großer Männer 
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
-![](/img/februar18.jpg)
+![](/img/litcafmärz.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
