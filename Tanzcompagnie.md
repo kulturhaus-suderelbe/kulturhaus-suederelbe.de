@@ -1,4 +1,4 @@
-# Tanzcompagnie Süderelbe: Tanztheater-Aufführung von Kindern für Kinder am 15. März um 11 Uhr 
+# Tanzcompagnie Süderelbe: Tanztheater "Die magische Kugel"am 15. März um 11 Uhr - Aufführung von Kindern für Kinder 
 
 ![](/img/Magische-Kugel_150318.jpg)
 
