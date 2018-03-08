@@ -1,6 +1,6 @@
-# Tanzcompagnie Süderelbe: Tanztheater-Aufführung von Kindern für Kinder am 15. März um 11 Uhr 
+# Tanzcompagnie Süderelbe: Tanztheater "Die magische Kugel"am 15. März um 11 Uhr - Aufführung von Kindern für Kinder 
 
-![](/img/FlyerTC.jpg)
+![](/img/Magische-Kugel_150318.jpg)
 
 ## Schule am Johannisland  
 Am Johannisland 4  
@@ -10,7 +10,10 @@ BGZ Süderelbe
 Der Eintritt ist frei!
 
 Infos: Wiebke Heinrich, 0176-62509967 
-  
+ 
+ ![](/img/FlyerTC.jpg)
+ 
+ 
 -----------------------------------------------------------------------------   
 
 

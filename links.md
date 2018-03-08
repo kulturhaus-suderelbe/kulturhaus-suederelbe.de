@@ -16,5 +16,5 @@
     1919](http://www.chorverband-hh.de/)
 -   [Damenchor Hamburg-Neugraben von
     1951](http://www.chorverband-hh.de/)
--   [Verein „Plattdüütsch leevt“](http://www.plattdueuetsch-leevt.de/)
-
+-   [Verein „Plattdüütsch leevt“](http://www.plattdueuetsch-leevt.de/)  
+-   [Lina Gwildis](http://www.linagwildis.de/)
