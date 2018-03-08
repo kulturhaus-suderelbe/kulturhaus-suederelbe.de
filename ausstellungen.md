@@ -23,6 +23,7 @@
  
  zeigt die nächste Reihe Fotos von seinen Reisen (siehe unten)  
  
+ ![](/img/mitko18.jpg)
 
 ## Vergangene Ausstellungen
 
