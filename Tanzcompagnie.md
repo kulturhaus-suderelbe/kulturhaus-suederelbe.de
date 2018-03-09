@@ -4,13 +4,6 @@
 
 ![](/img/Magische-Kugel_150318.jpg)
 
-## Schule am Johannisland  
-Am Johannisland 4  
-BGZ Süderelbe  
-21147 Hamburg
-
-Der Eintritt ist frei!
-
 Infos: Wiebke Heinrich, 0176-62509967 
  
  ![](/img/FlyerTC.jpg)
