@@ -1,4 +1,6 @@
-# Tanzcompagnie Süderelbe: Tanztheater "Die magische Kugel"am 15. März um 11 Uhr - Aufführung von Kindern für Kinder 
+# Tanzcompagnie Süderelbe: ABGESAGT!Tanztheater "Die magische Kugel" am 15. März 
+
+## ABGESAGT! Die Aufführung kann aus organisatorischen Gründen nicht stattfinden! 
 
 ![](/img/Magische-Kugel_150318.jpg)
 
