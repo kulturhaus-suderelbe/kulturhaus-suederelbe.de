@@ -1,6 +1,6 @@
-# Tanzcompagnie Süderelbe: ABGESAGT!Tanztheater "Die magische Kugel" am 15. März 
+# Tanzcompagnie Süderelbe: Abgesagt! Tanztheater "Die magische Kugel" am 15. März 
 
-## ABGESAGT! Die Aufführung kann aus organisatorischen Gründen nicht stattfinden! 
+## Abgesagt! Die Aufführung kann aus organisatorischen Gründen nicht stattfinden! 
 
 ![](/img/Magische-Kugel_150318.jpg)
 
