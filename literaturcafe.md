@@ -16,20 +16,15 @@ gegeben.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 
 
+Am Sonntag, den 1.4.18, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck
 
+"Scheibnerweise"
 
+Satirische Rundumschläge von Hans Scheibner
 
- 
-
-Am Sonntag, den 4.3.18, liest Dieter Wehrbrink
-
-"Ewig Dein, ewig mein, ewig uns"
-
-Liebesbriefe großer Männer 
+![](/img/scheibner.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
-
-![](/img/litcafmärz.jpg)
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
