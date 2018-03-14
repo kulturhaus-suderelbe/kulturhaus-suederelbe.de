@@ -27,6 +27,8 @@ Satirische Rundumschläge von Hans Scheibner
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
+Diese Veranstaltung findet im Rahmen der "Südlese" statt.
+
 **Herzlich willkommen, der Eintritt ist frei!**
 
 Kontakt
