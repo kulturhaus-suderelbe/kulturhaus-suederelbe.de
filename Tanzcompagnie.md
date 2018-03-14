@@ -1,13 +1,8 @@
-# Tanzcompagnie Süderelbe: Tanztheater "Die magische Kugel"am 15. März um 11 Uhr - Aufführung von Kindern für Kinder 
+# Tanzcompagnie Süderelbe: Abgesagt! Tanztheater "Die magische Kugel" am 15. März 
+
+## Abgesagt! Die Aufführung kann aus organisatorischen Gründen nicht stattfinden! 
 
 ![](/img/Magische-Kugel_150318.jpg)
-
-## Schule am Johannisland  
-Am Johannisland 4  
-BGZ Süderelbe  
-21147 Hamburg
-
-Der Eintritt ist frei!
 
 Infos: Wiebke Heinrich, 0176-62509967 
  
