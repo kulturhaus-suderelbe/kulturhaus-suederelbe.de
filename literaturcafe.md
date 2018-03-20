@@ -49,4 +49,4 @@ aus dem Briefwechsel von Bettine von Arnim und Goethe
 
 im Kulturhaus Süderelbe, Am Johannisland 2, 21147 Hamburg.
 
-![](/img\goethe,arnim.jpg)
+![](/img/goethe,arnim.jpg)
