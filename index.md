@@ -1,5 +1,6 @@
 ---
 navigation:
+  - tag der offenen tür
   - index
   - leitbild
   - anfahrt
