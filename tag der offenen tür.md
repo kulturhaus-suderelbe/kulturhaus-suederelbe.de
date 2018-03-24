@@ -1,6 +1,6 @@
 # Tag der offenen Tür am 14. April 18
 
-## Samstag, den 14. April 18 von 15-20 Uhr 
+![](/img/Tag_140418.jpg)
 
 Programm:  
 15.00 Uhr: Kinderfilme  
