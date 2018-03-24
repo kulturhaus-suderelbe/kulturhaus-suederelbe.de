@@ -27,6 +27,8 @@ Satirische Rundumschläge von Hans Scheibner
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
+Diese Veranstaltung findet im Rahmen der "Südlese" statt.
+
 **Herzlich willkommen, der Eintritt ist frei!**
 
 Kontakt
@@ -38,3 +40,13 @@ Kontakt
 ![](/img/wsb_161x133_Striepensaal+II+WEB.jpg)
 
 Quelle: Programmflyer 2013 Striepensaal
+
+**Am Donnerstag, den 19. April um 19 Uhr**
+
+lesen Dörte Ellerbrock und Dieter Wehrbrink 
+
+aus dem Briefwechsel von Bettine von Arnim und Goethe
+
+im Kulturhaus Süderelbe, Am Johannisland 2, 21147 Hamburg.
+
+![](/img/goethe,arnim.jpg)
