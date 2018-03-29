@@ -1,5 +1,5 @@
 
-# Ausstellung: Dimitag Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
+# Ausstellung: Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
 
 ![](/img/mitko18.jpg)
  
