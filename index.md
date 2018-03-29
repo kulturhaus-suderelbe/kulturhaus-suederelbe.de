@@ -1,7 +1,7 @@
 ---
 navigation:
   - tag der offenen tür
-  - index
+  - Kulturhauskino
   - leitbild
   - anfahrt
   - bgz
@@ -10,19 +10,14 @@ navigation:
   - kulturtage
   - literaturcafe
   - suederelbe-archiv
-  - Mardon
-  - Kulturhauskino
   - Jazzduo
   - LittleBigBand
   - Tanzcompagnie
   - theater
-  - Dr. Kahl
-  - cajon
   - kirchberg
   - Willkommen
   - Tonali
   - puppentheater
-  - Hase und Igel
   - kindergeburtstage
   - fortbildung
   - gefluechtete
