@@ -1,5 +1,15 @@
 
-## Ausstellungen
+# Ausstellung: Dimitag Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
+
+![](/img/mitko18.jpg)
+ 
+## Dimitar Georgiev (Mitko)
+ 
+zeigt die nächste Reihe Fotos von seinen Reisen   
+ 
+------------------------------------------------------------------------
+
+## Vergangene Ausstellungen
 
 ## "Vlucht"
  
@@ -17,15 +27,7 @@
  
  ![](/img/vlucht.jpg)
  
- ## Nächste Ausstellung
- 
- Dimitar Georgiev (Mitko)
- 
- zeigt die nächste Reihe Fotos von seinen Reisen (siehe unten)  
- 
- ![](/img/mitko18.jpg)
-
-## Vergangene Ausstellungen
+ -----------------------------------------------------------------------
 
 ## Ilona Edler von der Planitz: Wäschestücke
 
@@ -36,6 +38,8 @@ am Klavier: Norman Welp
 Die Ausstellung ist vom 8.12.17 bis zum 24.1.18 und werktags von 10-20 Uhr zu sehen.
 
 ![](/img/Harmonie.jpg)
+
+-------------------------------------------------------------------------
 
 ## KUNST MACHEN
 
@@ -55,17 +59,18 @@ Für das leibliche Wohl sorgen die Helfer vom Cafe Welcome.
 
 ![](/img/betsy_miller_band.jpg)
 
+-------------------------------------------------------------------------
 
+## Tierseelen
 
-Angelika Holzmann
-
-Tierseelen
+### Angelika Holzmann
 
 Ausstellung vom 11.9.17 - 13.10.17
 Vernissage am 8.9.17 ab 18.30 Uhr
 
 ![](/img/angelika1.JPG)
 
+-------------------------------------------------------------------------
 
 ## Dimitar Georgiev: „Mensch und Umgebungen“
 
