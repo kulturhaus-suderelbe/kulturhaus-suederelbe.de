@@ -1,18 +1,4 @@
-# Tanzcompagnie Süderelbe: Abgesagt! Tanztheater "Die magische Kugel" am 15. März 
-
-## Abgesagt! Die Aufführung kann aus organisatorischen Gründen nicht stattfinden! 
-
-![](/img/Magische-Kugel_150318.jpg)
-
-Infos: Wiebke Heinrich, 0176-62509967 
- 
- ![](/img/FlyerTC.jpg)
- 
- 
------------------------------------------------------------------------------   
-
-
-## Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
+# Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
 
 ![](/img/Logo_Tanz_Compagnie_Final.jpg)
 
@@ -38,6 +24,7 @@ Kulturhaus Süderelbe, Am Johannisland 2
 Freitag: 14:00 - 16:00 (Alle), 
 Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
 
+## Infos: Wiebke Heinrich, 0176-62509967
 
 -------------------------------------------------------------------------------
 ## Vergangene Aufführungen der Tanzcompagnie Süderelbe: 

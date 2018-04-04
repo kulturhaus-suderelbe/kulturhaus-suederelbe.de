@@ -1,4 +1,13 @@
-# Kulturhaus-Kino: "Gegen die Wand" am 01. März um 19.00 Uhr 
+# Kulturhaus-Kino: "Überraschungsfilm" am Sa 14. April um 18:30 Uhr 
+
+Im Rahmen unseres Tages der offenen Tür am Samstag, den 14 April wird 
+im Kulturhaus-Kino um 18.30 ein Überraschungsfilm gezeigt! 
+
+**Der Eintritt ist frei, gerne Spenden**  
+ ---------------------------------------------------------------------------------
+
+ 
+## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-01_03_18-Infoscreen_6.jpg)
 
@@ -22,12 +31,6 @@ Das führt zu Problemen, denn plötzlich ist Cahit eifersüchtig auf Sibels Bett
 ![](/img/KHK-01_03_18-Infoscreen_2.jpg)
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
-
-
- ---------------------------------------------------------------------------------
-
- 
-## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-25_01_18-Infoscreen4.jpg)
 

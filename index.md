@@ -1,35 +1,27 @@
 ---
 navigation:
-  - index
-  - leitbild
-  - anfahrt
-  - bgz
-  - kursangebot
-  - ausstellungen
-  - kulturtage
-  - literaturcafe
-  - suederelbe-archiv
-  - Mardon
+  - tag der offenen tür
   - Kulturhauskino
-  - Jazzduo
+  - kursangebot
+  - kindergeburtstage
+  - ausstellungen
+  - literaturcafe
+  - kulturtage
   - LittleBigBand
   - Tanzcompagnie
-  - theater
-  - Dr. Kahl
-  - cajon
-  - kirchberg
-  - Willkommen
-  - Tonali
   - puppentheater
-  - Hase und Igel
-  - kindergeburtstage
-  - fortbildung
-  - gefluechtete
   - tanztheater
-  - sommerfest
-  - links
+  - fortbildung
+  - suederelbe-archiv
+  - Willkommen
+  - gefluechtete
+  - index
+  - leitbild
   - kontakt
-  - archiv
+  - anfahrt
+  - links
+  - bgz
+  - archiv 
 ---
 
 # Wir über uns
@@ -137,10 +129,6 @@ Gemischter Chor Süderelbe „Die Evergreens“
 Bücherhalle Neugraben
 :   040 - 7017622
 :   [www.buecherhallen.de/neugraben/](http://www.buecherhallen.de/neugraben/)
-
-Kulturkreis Süderelbe e.V.
-:   040 - 70112001
-:   [www.kulturkreis-suederelbe.de](http://www.kulturkreis-suederelbe.de)
 
 ## Kinder und Jugendliche
 
