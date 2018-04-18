@@ -10,6 +10,9 @@ doch ist sein Film kein typisches Sportler-Biopic, denn Olli Mäki hat vor einem
 die Weltmeisterschaft nur Raija, eine junge Frau, in die er verliebt ist, im Kopf.
 
 **Der Eintritt ist frei, gerne Spenden**  
+
+Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
+
  ---------------------------------------------------------------------------------
 
  
