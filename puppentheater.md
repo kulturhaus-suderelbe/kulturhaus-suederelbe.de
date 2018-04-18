@@ -1,12 +1,13 @@
-# Kollin Kläff - Kinderparty am 13. Mai
+# Kollin Kläff - Kinderparty am 13. Mai von 15 bis 17 Uhr
 
 ![](/img/Plakat KK Party.jpg)
 
+## Herzlich willkommen!
 Wenn ihr Lust habt, dann verkleidet euch als Fee, Pirat oder Tier und bringt eure Lieblingspuppe 
 oder Kulscheliter mit. Erlebt einen lustigen Nachmittag mit Kollin Kläff und seinen Freunden.
 Es gibt ein buntes Programm aus Puppenspiel, Kinderdisco und Mitmachaktionen.
 
-Karten 12,- (inkl. Sekt, Kindergetränke, Kaffee und Popkorn)
+Karten 12,- (inkl. Kindergetränke und Popkorn, Kaffee und Sekt)
 Reservierungen unter www.kollin-kläff.de oder Tel: 040 - 18204876
 
 ____________________________________________________________________________
