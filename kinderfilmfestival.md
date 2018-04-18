@@ -1,6 +1,6 @@
 # "Ey, guck mal", Kinderfilmfestival 7. - 9. Mai 18 
 
-![](/img/kinderfilmfetival.jpg)
+![](/img/Kinderfilmfetival.jpg)
 
 Ey, guck mal - Kinderfilm-Festival im Kulturhaus Süderelbe
 
