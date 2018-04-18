@@ -17,17 +17,17 @@ gegeben.
 
 
 
-**Am Sonntag, den 1.4.18, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck**
+**Am Sonntag, den 6.5.18, liest Dieter Wehrbrink**
 
-"Scheibnerweise"
+"Liebesbriefe großer Frauen"
 
-Satirische Rundumschläge von Hans Scheibner
+Nimm meine Seele auf und trinke sie ....
 
-![](/img/scheibner.jpg)
+![](/img/6.5.18.png)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
-Diese Veranstaltung findet im Rahmen der "Südlese" statt.
+
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
