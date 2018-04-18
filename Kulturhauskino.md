@@ -14,11 +14,10 @@ Als erster Finne überhaupt kämpft er im Federgewicht um den Titel. Helsinki un
 Finnland warten auf Ollis großen Sieg, aber der hat was ganz anderes im Kopf: 
 Er hat gerade die Liebe seines Lebens getroffen …
 
-Gewinner des Un Certain Regard Preises in Cannes 2016!
-Gewinner des Internationalen Spielfilmwettbewerbes 12. Züricher Film Festival
-Gewinner „Baltischer Filmpreis“ 58. Nordische Filmtage Lübeck 2016
+Gewinner des Un Certain Regard Preises in Cannes 2016!  
+Gewinner des Internationalen Spielfilmwettbewerbes 12. Züricher Film Festival  
+Gewinner „Baltischer Filmpreis“ 58. Nordische Filmtage Lübeck 2016  
 Finnlands Oscar-Beitrag 2017 (Kategorie Bester fremdsprachiger Film)
-
 
 **Der Eintritt ist frei, gerne Spenden**  
 
