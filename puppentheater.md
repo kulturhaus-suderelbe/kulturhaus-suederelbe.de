@@ -1,4 +1,4 @@
-# Puppentheater Kollin Kläff - Termine ab Febr. 18
+# Kollin Kläff - Kinderparty am 13. Mai
 
 ## Handpuppentheater mit und von Maya Raue
 
