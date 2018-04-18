@@ -2,6 +2,7 @@
 navigation:
   - kinderfilmfestival
   - Kulturhauskino
+  - puppentheater
   - tag der offenen tür
   - ausstellungen
   - kursangebot
@@ -10,7 +11,6 @@ navigation:
   - kulturtage
   - LittleBigBand
   - Tanzcompagnie
-  - puppentheater
   - tanztheater
   - fortbildung
   - suederelbe-archiv
