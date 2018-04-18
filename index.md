@@ -1,8 +1,8 @@
 ---
 navigation:
-  - ausstellungen
   - kinderfilmfestival
   - tag der offenen tür
+  - ausstellungen
   - Kulturhauskino
   - kursangebot
   - kindergeburtstage
