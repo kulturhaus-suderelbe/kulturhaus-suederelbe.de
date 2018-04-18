@@ -1,9 +1,9 @@
 ---
 navigation:
   - kinderfilmfestival
+  - Kulturhauskino
   - tag der offenen tür
   - ausstellungen
-  - Kulturhauskino
   - kursangebot
   - kindergeburtstage
   - literaturcafe
