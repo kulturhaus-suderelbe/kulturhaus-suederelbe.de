@@ -1,10 +1,11 @@
 ---
 navigation:
+  - ausstellungen
+  - kinderfilmfestival
   - tag der offenen tür
   - Kulturhauskino
   - kursangebot
   - kindergeburtstage
-  - ausstellungen
   - literaturcafe
   - kulturtage
   - LittleBigBand
