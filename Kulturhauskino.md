@@ -1,9 +1,28 @@
-# Kulturhaus-Kino: "Überraschungsfilm" am Sa 14. April um 18:30 Uhr 
+# Kulturhaus-Kino: "Die glücklichsten Tage im leben des Olli Mäki" am 17. Mai um 19 Uhr 
 
-Im Rahmen unseres Tages der offenen Tür am Samstag, den 14 April wird 
-im Kulturhaus-Kino um 18.30 ein Überraschungsfilm gezeigt! 
+![](/img/Olli_Medium.jpg)
+
+Das Kulturhaus-Kino zeigt am 17. Mai um 19 Uhr den finnischen Spielfilm 
+‚Die glücklichsten Tage im Leben des Olli Mäki‘ von 2016.
+
+Regisseur Juho Kuosmanen erzählt die wahre Geschichte des Boxprofis Olli Mäki, 
+doch ist sein Film kein typisches Sportler-Biopic, denn Olli Mäki hat vor einem Kampf um
+die Weltmeisterschaft nur Raija, eine junge Frau, in die er verliebt ist, im Kopf.
+
+Finnland 1962: Olli Mäki hat die einmalige Chance, Boxweltmeister zu werden. 
+Als erster Finne überhaupt kämpft er im Federgewicht um den Titel. Helsinki und ganz 
+Finnland warten auf Ollis großen Sieg, aber der hat was ganz anderes im Kopf: 
+Er hat gerade die Liebe seines Lebens getroffen …
+
+Gewinner des Un Certain Regard Preises in Cannes 2016!  
+Gewinner des Internationalen Spielfilmwettbewerbes 12. Züricher Film Festival  
+Gewinner „Baltischer Filmpreis“ 58. Nordische Filmtage Lübeck 2016  
+Finnlands Oscar-Beitrag 2017 (Kategorie Bester fremdsprachiger Film)
 
 **Der Eintritt ist frei, gerne Spenden**  
+
+Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
+
  ---------------------------------------------------------------------------------
 
  

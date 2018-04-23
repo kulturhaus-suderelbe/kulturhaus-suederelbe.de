@@ -1,15 +1,16 @@
 ---
 navigation:
-  - tag der offenen tür
+  - kinderfilmfestival
   - Kulturhauskino
+  - puppentheater
+  - tag der offenen tür
+  - ausstellungen
   - kursangebot
   - kindergeburtstage
-  - ausstellungen
   - literaturcafe
   - kulturtage
   - LittleBigBand
   - Tanzcompagnie
-  - puppentheater
   - tanztheater
   - fortbildung
   - suederelbe-archiv
