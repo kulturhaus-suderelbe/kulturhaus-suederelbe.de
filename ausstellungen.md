@@ -1,3 +1,6 @@
+##Zukünftige Ausstellung
+
+Fotoausstellung des NABU
 
 # Ausstellung: Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
 
