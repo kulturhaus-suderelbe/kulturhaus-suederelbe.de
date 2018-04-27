@@ -66,7 +66,7 @@ Kultur in all seinen Facetten - Sprache, Tanz, Musik, Theater und
 bildende Kunst sind nur ein Teil davon - begleiten die Menschheit seit
 ihrer Wiege. Sie gehört zum Menschen wie seine Haut. Durch unsere
 gesellschaftliche Entwicklung mit anderen Prioritäten geht, zum Teil
-unbemerkt, mehr und mehr unserer Fähigkeit zu Kreativität verloren.
+unbemerkt, mehr und mehr die Fähigkeit zur Kreativität verloren.
 
 Um Kultur für jeden zugänglich zu machen und selbst zu gestalten, ist
 der gemeinnützige Verein „Kulturhaus Süderelbe e.V.“ entstanden.
