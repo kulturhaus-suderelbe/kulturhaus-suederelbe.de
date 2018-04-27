@@ -5,7 +5,7 @@
 Das Kulturhaus-Kino zeigt am 17. Mai um 19 Uhr den finnischen Spielfilm 
 ‚Die glücklichsten Tage im Leben des Olli Mäki‘ von 2016.
 
-![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-2.jpg)
+![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-2.jpg
 
 Regisseur Juho Kuosmanen erzählt die wahre Geschichte des Boxprofis Olli Mäki, 
 doch ist sein Film kein typisches Sportler-Biopic, denn Olli Mäki hat vor einem Kampf um
@@ -16,7 +16,7 @@ Als erster Finne überhaupt kämpft er im Federgewicht um den Titel. Helsinki un
 Finnland warten auf Ollis großen Sieg, aber der hat was ganz anderes im Kopf: 
 Er hat gerade die Liebe seines Lebens getroffen …
 
-![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-7.jpg)
+![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-7.jpg
 
 Gewinner des Un Certain Regard Preises in Cannes 2016!  
 Gewinner des Internationalen Spielfilmwettbewerbes 12. Züricher Film Festival  
