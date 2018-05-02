@@ -11,6 +11,7 @@ navigation:
   - kulturtage
   - LittleBigBand
   - Tanzcompagnie
+  - ChanceTanz
   - tanztheater
   - fortbildung
   - suederelbe-archiv
