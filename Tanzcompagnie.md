@@ -12,7 +12,7 @@ von Zusammenhalt und Toleranz gegenüber anderen. Zusätzlich fördert ein Kost�
 Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerhalb eines Theaterstücks,
 das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
 
-![](/img/2_rs_flyer_kulturhaus_tanztraining.jpg)
+![](/img/2_rs_flyer_kulturhaus_tanztraining_a6_print.jpg)
 
 ## Tanz-Proben
 Montag: 15:30 - 17:00 Uhr (Schnupperkurs), Willkommenscafe Süderelbe,  
