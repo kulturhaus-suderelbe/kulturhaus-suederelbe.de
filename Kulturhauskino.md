@@ -1,9 +1,9 @@
-# Kulturhaus-Kino: "Die glücklichsten Tage im leben des Olli Mäki" am 17. Mai um 19 Uhr 
+# Kulturhaus-Kino: "Der glücklichste Tag im leben des Olli Mäki" am 17. Mai um 19 Uhr 
 
 ![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-1.jpg)
 
 Das Kulturhaus-Kino zeigt am 17. Mai um 19 Uhr den finnischen Spielfilm 
-‚Die glücklichsten Tage im Leben des Olli Mäki‘ von 2016.
+‚Der glücklichste Tag im Leben des Olli Mäki‘ von 2016.
 
 ![](/img/KHK-17_04_18.jpg)
 
