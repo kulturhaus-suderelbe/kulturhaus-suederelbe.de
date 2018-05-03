@@ -18,7 +18,7 @@ B- Boy Sonny Tee gestaltet mit den Kindern T-Shirts und arbeitet mit den neueste
 Gabriele Wendland gestaltet Kostüme und Masken, Ariel Florez begleitet und arrangiert die musikalische Begleitung 
 und Wiebke Heinrich und Kalidou Ba sind für den Tanz, Akrobatik und die Choreografie verantwortlich.
 
-## Ab 18 Mai Freitags von 14-17 Uhr    
+## Ab 18 Mai freitags von 14-17 Uhr    
 im Freitzeitzentrum Sandbek  
 Ohrnsweg 50 b  
 21149 Hamburg   
