@@ -4,7 +4,7 @@
 
 ## Herzlich willkommen!
 Wenn ihr Lust habt, dann verkleidet euch als Fee, Pirat oder Tier und bringt eure Lieblingspuppe 
-oder Kulscheliter mit. Erlebt einen lustigen Nachmittag mit Kollin Kläff und seinen Freunden.
+oder Kulscheltier mit. Erlebt einen lustigen Nachmittag mit Kollin Kläff und seinen Freunden.
 Es gibt ein buntes Programm aus Puppenspiel, Kinderdisco und Mitmachaktionen.
 
 Karten 12,- (inkl. Kindergetränke und Popkorn, Kaffee und Sekt)

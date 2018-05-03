@@ -1,4 +1,4 @@
-# Tanzcompagnie Süderelbe - Tanztheater für Mädchen und Jungen von 8 - 16 J. 
+# Tanzcompagnie Süderelbe - Tanztraining für Mädchen und Jungen von 6 - 16 J. 
 
 ![](/img/Logo_Tanz_Compagnie_Final.jpg)
 
@@ -12,19 +12,25 @@ von Zusammenhalt und Toleranz gegenüber anderen. Zusätzlich fördert ein Kost�
 Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerhalb eines Theaterstücks,
 das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
 
-![](/img/Tanzcompagnie_17.jpg)
+![](/img/2_rs_flyer_kulturhaus_tanztraining_a6_print.jpg)
 
-## Tanz-Proben
-Montag: 15:30 - 17:00 Uhr (Schnupperkurs), Willkommenscafe Süderelbe,  
-Kulturhaus Süderelbe,Am Johannisland 2    
-Dienstag: 16:00 - 18:00 Uhr (für Jungen),  
-Kulturhaus Süderelbe, Am Johannisland 2    
-Mittwoch: 16:00- 18:00 Uhr (für Mädchen),  
-Kulturhaus Süderelbe, Am Johannisland 2    
-Freitag: 14:00 - 16:00 (Alle), 
-Freitzeitzentrum Sandbek, Ohrnsweg 50 b   
+## Tanz-Proben im Kulturhaus
 
+Montag: 15:30 - 17:00 Uhr (Schnupperkurs), Willkommenscafe Süderelbe,    
+   
+Dienstag: "B-Boys"    
+Hip Hop / Breakdance für Jungen  
+16-17 Uhr ab 6 Jahre, 17-18 Uhr ab 9 Jahre  
+ 
+Mittwoch: "B-Girls"  
+Modern -/Streetdance für Mädchen  
+16-17 Uhr ab 6 Jahre, 17-18 Uhr ab 9 Jahre  
+      
+Donnerstag: "Tanzpiraten"  
+16:30 - 17:30 Uhr   
+ 
 ## Infos: Wiebke Heinrich, 0176-62509967
+
 
 -------------------------------------------------------------------------------
 ## Vergangene Aufführungen der Tanzcompagnie Süderelbe: 
