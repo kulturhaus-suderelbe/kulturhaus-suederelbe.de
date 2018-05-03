@@ -29,4 +29,8 @@ Lachens und Tiere mit viel Durst gehen wird. Diese Programme sind etwa 80 bis 90
 ist ebenfalls herzlich willkommen. Der Eintritt ist für alle frei. Und für einen geringen Betrag gibt es
 etwas zu trinken zu kaufen.
 
-## Der Eintritt ist frei
+## Der Eintritt ist frei!
+
+Das Festival wird gefördert durch den Hamburger Integrationsfonds
+
+![](/img/HH_4C-positiv.jpg)
