@@ -6,8 +6,8 @@ Die Tanzcompagnie Süderelbe wurde auf Initiative des Kulturhauses Süderelbe un
 im März 2016 gegründet. Hier haben besonders tanzbegeisterte Kinder die Möglichkeit kostenlos an wöchentlich stattfindenden 
 Trainingsstunden teilzunehmen. Ziel ist die regelmäßige Kreation von Tanztheaterstücken, in denen sie ihre Interessen 
 und Ideen verwirklichen können. Zusätzlich erstellen die Kinder mit professionellen Künstlern ihre Kostüme und arbeiten 
-am Bühnenbild. Wöchentliches Training in unterschiedlichen Tanzstilen und das Erlernen von Choreografien in der Gruppe
-und alleine, dienen den Kindern als Möglichkeit sich auszudrücken, Frustration und Spannungen abzubauen und dem Erlernen
+am Bühnenbild. Wöchentliches Training in unterschiedlichen Tanzstilen und das Erlernen von Choreografien, in der Gruppe
+und allein, dienen den Kindern als Möglichkeit sich auszudrücken, Frustration und Spannungen abzubauen und dem Erlernen
 von Zusammenhalt und Toleranz gegenüber anderen. Zusätzlich fördert ein Kostüm- und Bühnenbild-Workshop Konzentration, 
 Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerhalb eines Theaterstücks,
 das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
