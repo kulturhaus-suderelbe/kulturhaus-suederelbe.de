@@ -22,12 +22,12 @@ Registernummer: VR 8326
 Stephan Kaiser  
 c/o Kulturhaus Süderelbe e.V.  
 Am Johannisland 2    
-22769 Hamburg  
+21147 Hamburg  
 Tel.: 040/7967222  
 E-Mail: stephan.kaiser@kulturhaus-suederelbe.de  
 
 ### Redaktion:
-Marketta Eksymä  
+Marketta Eksymä-Winkelmann  
 E-Mail: marketta.eksymae@kulturhaus-suederelbe.de  
 
 Dörte Ellerbrock  
