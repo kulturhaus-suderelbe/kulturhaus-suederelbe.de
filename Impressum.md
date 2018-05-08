@@ -18,7 +18,7 @@ Vertretungsberechtigte Geschäftsführung: Stephan Kaiser (1. Vors.), Hannelore 
 Registergericht: Amtsgericht Hamburg  
 Registernummer: VR 8326    
 
-### Inhaltlich Verantwortliche:    
+### Inhaltlich Verantwortlicher:    
 Stephan Kaiser  
 c/o Kulturhaus Süderelbe e.V.  
 Am Johannisland 2    
