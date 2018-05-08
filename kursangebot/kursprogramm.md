@@ -322,7 +322,7 @@ Kursleitung
 ## Holzbildhauerei
 
 Zwei Künstler mit Spezialgebiet Holzbildhauerei unterrichten regelmäßig
-im Kulturhaus: Christian Richert und Yves Rasch. Beide fördern ihre
+im Kulturhaus: Christian Richert und Ulrich Gauerke. Beide fördern ihre
 KursteilnehmerInnen individuell und unterstützen die eigenschöpferische
 Entwicklung und Umsetzung in figürliche oder abstrakte Arbeiten.
 
@@ -342,8 +342,8 @@ Beginn
 :   Donnerstag, 1.2.18, von 9-12 Uhr
 
 Kursleitung
-:   Yves Rasch  
-    [www.schwuenge.de](http://www.schwuenge.de)
+:    
+    Ulrich Gauerke
 
 Beginn
 :   Donnerstag, 1.2.18, von 15-18 Uhr
@@ -520,8 +520,7 @@ Die Themen sind so vielfältig wie der Geschmack der Leute selbst.
 Jede Art von Motiv ist recht, Hauptsache, im Lauf der Zeit wird ein eigener Stil entwickelt.
 In angenehmer Atmosphäre und stressfrei können Menschen unterschiedlichen Alters 
 hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
-
-![](/img/IMG_4443.jpg)
+IMG_4443.jpg)
 
 
 
