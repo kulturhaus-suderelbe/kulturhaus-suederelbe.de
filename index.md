@@ -23,6 +23,8 @@ navigation:
   - anfahrt
   - links
   - bgz
+  - Impressum
+  - Datenschutz
   - archiv 
 ---
 
