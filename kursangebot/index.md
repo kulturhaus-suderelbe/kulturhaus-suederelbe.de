@@ -37,5 +37,5 @@ auch für Fortgeschrittene geeignet. Eine Probestunde kann vereinbart
 werden. Eine Ermäßigung der Gebühren ist nach Absprache möglich.
 
 Das aktuelle Programmangebot finden Sie unter: 
-![Kursprogramm Sommersemester 2018](/kursprogramm.html)
+![Kursprogramm Sommersemester 2018](/kursangebot/kursprogramm.html)
 
