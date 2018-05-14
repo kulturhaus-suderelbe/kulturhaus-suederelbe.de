@@ -23,7 +23,7 @@ gegeben.
 
 von Alice Munroe
 
-![](/img/alice munroe 1.JPG)
+![](/img/alice munroe1.JPG)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
