@@ -1,4 +1,4 @@
-# Kulturhaus-Kino: "Der glücklichste Tag im leben des Olli Mäki" am 17. Mai um 19 Uhr 
+# Kulturhaus-Kino: "Der glücklichste Tag im Leben des Olli Mäki" am 17. Mai um 19 Uhr 
 
 ![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-1.jpg)
 

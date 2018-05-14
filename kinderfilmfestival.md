@@ -18,10 +18,9 @@ mit einer gespielten Handlung, zu einem anderen Teil gezeichnet, modelliert, ani
 Programme werden moderiert. Am Festival-Dienstag bekommen wir Besuch von Laura und Lina
 von Mo&Friese - dem großen Hamburger Kinderfilmfestival mit einem eigenen Programm.
 
-<<<<<<< HEAD
 Am 8. Juni bekommen wir um 13 Uhr Besuch von Mo&Friese, Hamburgs großem Kinderfilm-Festival, mit
 einer eigenen Auswahl von Filmen für Kinder bis 6 Jahre. 
-=======
+
 Am Festival-Mittwoch wird unser 13-Uhr-Programm ein bisschen länger sein, weil wir Besuch von
 einigen sehr jungen Filmemachern (< 10) bekommen, die einen eigenen Film präsentieren werden.
 
@@ -38,5 +37,5 @@ etwas zu trinken zu kaufen.
 Das Festival wird gefördert durch den Hamburger Integrationsfonds
 
 ![](/img/HH_4C_positiv.jpg)
->>>>>>> 203590578a2fae7834b3579ee47f7f64d91c9bba
+
 

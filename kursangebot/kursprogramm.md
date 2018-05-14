@@ -4,7 +4,7 @@
 
 ![](/img/Kursprogramm-KH_SoSe18.jpg)
 
-[Unser Kursprogramm Sommersemester finden Sie hier zum Download](/downloads/KursprogrammKH_SoSe18.pdf)
+[Unser Kursprogramm Sommersemester finden Sie hier zum Download](/downloads/Kurse_SoSe18.pdf)
 
 Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
