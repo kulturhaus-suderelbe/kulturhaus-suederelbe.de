@@ -17,13 +17,13 @@ gegeben.
 
 
 
-**Am Sonntag, den 6.5.18, liest Dieter Wehrbrink**
+**Am Sonntag, den 3.6.18 ab 16 Uhr, liest Dieter Wehrbrink aus**
 
-"Liebesbriefe großer Frauen"
+"Der Traum meiner Mutter"
 
-Nimm meine Seele auf und trinke sie ....
+von Alice Munroe
 
-![](/img/6.5.18.png)
+![](/img/munroe.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
