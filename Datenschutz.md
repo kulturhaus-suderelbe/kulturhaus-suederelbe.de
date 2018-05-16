@@ -18,8 +18,8 @@ Daten ohne weitere Eingabe des Besuchers gespei-chert:
 - Datum und Uhrzeit des Zugriffs durch den Besucher,    
 - Name und URL der vom Besucher aufgerufenen Seite,  
 - Webseite, von der aus der Besucher auf die Kulturhaus gelangt (sog. Referrer-URL,  
-- Browser und Betriebssystem des Endgeräts des Besuchers sowie der Name des vom Besucher    
-    verwendeten Access-Providers.
+- Browser und Betriebssystem des Endgeräts des Besuchers sowie der Name des vom Besucher verwendeten Access-Providers.   
+    
 
 Die Verarbeitung dieser personenbezogenen Daten ist gem. Art. 6 Abs. 1 Satz 1 Buchst. f)
 DSGVO gerechtfertigt. Das Kulturhaus Süderelbe e.V. hat ein berechtigtes Interesse an der Datenverarbeitung 
