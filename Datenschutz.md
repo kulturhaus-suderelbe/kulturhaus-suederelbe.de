@@ -1,6 +1,6 @@
-# Datenschutz
+# Datenschutzerklärung
 
-##1. Name und Kontaktdaten des Verantwortlichen
+## 1. Name und Kontaktdaten des Verantwortlichen
 
 Diese Datenschutzerklärung informiert über die Verarbeitung personenbezogener Daten
 auf der Webseite von Kulturhaus Süderelbe e.V.  
