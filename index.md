@@ -1,8 +1,7 @@
 ---
 navigation:
-  - kinderfilmfestival
   - Kulturhauskino
-  - puppentheater
+  - kinderfilmfestival
   - tag der offenen tür
   - ausstellungen
   - kursangebot
