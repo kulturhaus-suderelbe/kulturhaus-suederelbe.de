@@ -85,6 +85,12 @@ einer Aufgabe, die im öffentlichen Interesse liegt, erforderlich ist und einer 
 -	Die personenbezogenen Daten sind für die Zwecke, für die sie verarbeitet wurden, nicht mehr notwendig.
 -	Die Rechtfertigungsgrundlage für die Verarbeitung war ausschließlich Ihre Einwilligung, welche Sie widerrufen haben.
 -	Sie haben Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten eingelegt, die wir öffentlich gemacht haben.
-
+-	Sie haben Widerspruch gegen die Verarbeitung von uns nicht öffentlich gemachter personenbezogener Daten eingelegt und es 
+    liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor.
+-	Ihre personenbezogenen Daten wurden unrechtmäßig verarbeitet.
+-	Die Löschung der personenbezogenen Daten ist zur Erfüllung einer gesetzlichen Verpflichtung, der wir unterliegen, erforderlich.
+Kein Anspruch auf Löschung besteht, wenn die Löschung im Falle rechtmäßiger nicht automatisierter Datenverarbeitung wegen der 
+besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und Ihr Interesse an der Löschung gering ist.
+In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung.
 
  
