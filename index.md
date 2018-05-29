@@ -1,20 +1,20 @@
 ---
 navigation:
   - moundfriese
+  - kursangebot
+  - literaturcafe
+  - kindergeburtstage
+  - Tanzcompagnie
+  - ausstellungen
+  - ChanceTanz
+  - LittleBigBand
+  - kulturtage
+  - suederelbe-archiv
+  - tanztheater
   - Kulturhauskino
   - kinderfilmfestival
   - tag der offenen tür
-  - ausstellungen
-  - kursangebot
-  - kindergeburtstage
-  - literaturcafe
-  - kulturtage
-  - LittleBigBand
-  - Tanzcompagnie
-  - ChanceTanz
-  - tanztheater
   - fortbildung
-  - suederelbe-archiv
   - Willkommen
   - gefluechtete
   - index
