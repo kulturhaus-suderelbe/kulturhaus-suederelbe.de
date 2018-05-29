@@ -93,4 +93,28 @@ Kein Anspruch auf Löschung besteht, wenn die Löschung im Falle rechtmäßiger 
 besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und Ihr Interesse an der Löschung gering ist.
 In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung.
 
+### 4.4 Einschränkung der Verarbeitung
+Sie können von uns die Einschränkung der Verarbeitung verlangen, wenn einer der nachste-henden Gründe zutrifft:
+-	Sie bestreiten die Richtigkeit der personenbezogenen Daten. Die Einschränkung kann in diesem Fall für die Dauer verlangt werden, die es uns ermöglicht, die Richtigkeit der Da-ten zu überprüfen.
+-	Die Verarbeitung ist unrechtmäßig und Sie verlangen statt Löschung die Einschränkung der Nutzung Ihrer personenbezogenen Daten.
+-	Ihre personenbezogenen Daten werden von uns nicht länger für die Zwecke der Verar-beitung benötigt, die Sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen.
+-	Sie haben Widerspruch gem. Art. 21 Abs. 1 DSGVO eingelegt. Die Einschränkung der Verarbeitung kann solange verlangt werden, wie noch nicht feststeht, ob unsere berech-tigten Gründe gegenüber Ihren Gründen überwiegen.
+Einschränkung der Verarbeitung bedeutet, dass die personenbezogenen Daten nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsan¬sprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses verarbeitet werden. Bevor wir die Ein-schränkung aufheben, haben wir die Pflicht, Sie darüber zu unterrichten.
+
+### 4.5 Datenübertragbarkeit
+Sie haben ein Recht auf Datenübertragbarkeit, sofern die Verarbeitung auf Ihrer Einwilligung (Art. 6 Abs. 1 Satz 1 Buchst. a) oder Art. 9 Abs. 2 Buchst. a) DSGVO) oder auf einem Vertrag beruht, dessen Vertragspartei Sie sind und die Verarbeitung mithilfe automatisierter Verfahren erfolgt. Das Recht auf Datenübertragbarkeit beinhaltet in diesem Fall folgende Rechte, sofern hierdurch nicht die Rechte und Freiheiten anderer Personen beeinträchtigt werden: Sie können von uns verlangen, die personenbezogenen Daten, die Sie uns bereit gestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Sie haben das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung unserseits zu übermitteln. Soweit technisch machbar, können Sie von uns verlangen, dass wir Ihre personenbezogenen Daten direkt an einen anderen Verantwortlichen übermitteln.
+
+### 4.6 Widerspruch
+Sofern die Verarbeitung auf Art. 6 Abs. 1 Satz 1 Buchst. e) DSGVO (Wahrnehmung einer Aufgabe im öffentlichen Interesse oder in Ausübung öffentlicher Gewalt) oder auf Art. 6 Abs. 1 Satz 1 Buchst. f) DSGVO (berechtigtes Interesse des Verantwortlichen oder eines Dritten) beruht, haben Sie das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten Widerspruch einzulegen. Das gilt auch für ein auf Art. 6 Abs. 1 Satz 1 Buchst. e) oder Buchst. f) DSGVO gestütztes Profiling. Nach Ausübung des Widerspruchsrechts verarbeiten wir Ihre personenbezogenen Daten nicht mehr, es sei denn, wir können zwingende schutz-würdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Sie können jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbe-zogenen Daten zu Zwecken der Direktwerbung einlegen. Das gilt auch für ein Profiling, das mit einer solchen Direktwerbung in Verbindung steht. Nach Ausübung dieses Widerspruchs-rechts werden wir die betreffenden personenbezogenen Daten nicht mehr für Zwecke der Direktwerbung verwenden.
+Sie haben die Möglichkeit, den Widerspruch telefonisch, per E-Mail, ggf. per Telefax oder an unsere zu Beginn dieser Datenschutzerklärung aufgeführte Postadresse unserer Kanzlei formlos mitzuteilen.
+
+### 4.7 Widerruf einer Einwilligung
+Sie haben das Recht, eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft zu wider-rufen. Der Widerruf der Einwilligung kann telefonisch, per E-Mail, ggf. per Telefax oder an unsere Postadresse formlos mitgeteilt werden. Durch den Widerruf wird die Rechtmäßigkeit der Datenverarbeitung, die aufgrund der Einwilligung bis zum Eingang des Widerrufs erfolgt ist, nicht berührt. Nach Eingang des Widerrufs wird die Datenverarbeitung, die ausschließlich auf Ihrer Einwilligung beruhte, eingestellt.
+
+### 4.8 Beschwerde
+Wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten rechtswidrig ist, können Sie Beschwerde bei einer Aufsichtsbehörde für den Daten-schutz einlegen, die für den Ort Ihres Aufenthaltes oder Arbeitsplatzes oder für den Ort des mutmaßlichen Verstoßes zuständig ist.
+
+## 5. Stand und Aktualisierung dieser Datenschutzerklärung
+Diese Datenschutzerklärung hat den Stand vom 25. Mai 2018. Wir behalten uns vor, die Datenschutzerklärung zu gegebener Zeit zu aktualisieren, um den Datenschutz zu verbessern und/oder an geänderte Behördenpraxis oder Rechtsprechung anzupassen.
  
