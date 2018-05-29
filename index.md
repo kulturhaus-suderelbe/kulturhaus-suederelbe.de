@@ -1,5 +1,6 @@
 ---
 navigation:
+  - moundfriese
   - Kulturhauskino
   - kinderfilmfestival
   - tag der offenen tür
