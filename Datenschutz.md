@@ -13,7 +13,7 @@ Verantwortlicher:  Stephan Kaiser (1. Vors.)  c/o Kulturhaus Süderelbe e.V.
 Beim Aufruf dieser Webseite - www.kulturhaus-suederelbe.de - werden durch den Internet-Browser, 
 den der Besucher verwendet, automatisch Daten an den Server dieser Webseite gesendet und zeitlich begrenzt
 in einer Protokolldatei (Logfile) gespeichert. Bis zur automati-schen Löschung werden nachstehende 
-Daten ohne weitere Eingabe des Besuchers gespei-chert:  
+Daten ohne weitere Eingabe des Besuchers gespeichert:  
 - IP-Adresse des Endgeräts des Besuchers,  
 - Datum und Uhrzeit des Zugriffs durch den Besucher,    
 - Name und URL der vom Besucher aufgerufenen Seite,  
@@ -32,9 +32,24 @@ zu dem Zweck,
 Die Verarbeitung erfolgt ausdrücklich nicht zu dem Zweck, Erkenntnisse über die Person des Besuchers
 der Webseite zu gewinnen.
 
-## 3. Stand und Aktualisierung dieser Datenschutzerklärung
+## 3. Umgang mit personenbezogenen Daten
+Das Kulturhaus Süderelbe erhebt, nutzt und gibt Ihre personenbezogenen Daten nur dann weiter, 
+wenn dies im gesetzlichen Rahmen erlaubt ist oder Sie in die Datenerhebung einwilligen.
+Als personenbezogene Daten gelten sämtliche Informationen, welche dazu dienen, Ihre Person zu bestimmen 
+und welche zu Ihnen zurückverfolgt werden können – also beispielsweise Ihr Name, Ihre E-Mail-Adresse und Telefonnummer.
 
-Diese Datenschutzerklärung hat den Stand 16.05.2018. Wir behalten uns vor, die Daten-schutzerklärung 
+## 4. Umgang mit Kontaktdaten
+Nehmen Sie mit dem Kulturhaus Süderelbe e.V. durch die angebotenen Kontaktmöglichkeiten Verbindung
+auf, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen
+werden kann. Diese Daten werden nicht an Dritte weitergegeben.
+
+## Rechte des Nuters
+Sie haben jederzeit das Recht auf Auskunft über Ihre gespeicherten Daten, deren Herkunft, Empfänger und den Zweck der 
+Datenverarbeitung. Sie können fehlerhafte Angaben berichtigen lassen und die Löschung nicht mehr erforderlicher Daten veranlassen – 
+sofern diese Angaben nicht aufgrund gesetzlicher Vorgaben aufzubewahren sind. 
+ 
+## 3. Stand und Aktualisierung dieser Datenschutzerklärung
+Diese Datenschutzerklärung hat den Stand 16.05.2018. Wir behalten uns vor, die Datenschutzerklärung 
 zu gegebener Zeit zu aktualisieren, um den Datenschutz zu verbessern und/oder an geänderte Behördenpraxis 
 oder Rechtsprechung anzupassen.
 
