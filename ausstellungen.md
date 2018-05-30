@@ -6,9 +6,12 @@ Fotoausstellung des NABU
 
 Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präsentieren sich die Teilnehmer der Fotogruppe des NABU im Kulturhaus Süderelbe.
 
-Die Ausstellung ist ab Mittwoch, dem 6.6.18 werktags von 10-20 Uhr zu sehen.
+Die Ausstellung ist ab Mittwoch, dem 6.6.18 werktags von 10-20 Uhr zu sehen. 
 
-# Ausstellung: Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
+
+# Vergangene Ausstellungen
+
+Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
 
 ![](/img/mitko18.jpg)
  
@@ -17,8 +20,6 @@ Die Ausstellung ist ab Mittwoch, dem 6.6.18 werktags von 10-20 Uhr zu sehen.
 zeigt die nächste Reihe Fotos von seinen Reisen   
  
 ------------------------------------------------------------------------
-
-## Vergangene Ausstellungen
 
 ## "Vlucht"
  
