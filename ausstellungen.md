@@ -1,4 +1,6 @@
-# Zukünftige Ausstellung
+# Ausstellungen
+
+## Zukünftige Ausstellung
 
 Fotoausstellung des NABU
 
