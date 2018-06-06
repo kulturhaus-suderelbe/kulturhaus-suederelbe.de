@@ -8,7 +8,7 @@ Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präs
 
 Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen.
 
-![](/img\01 2018-06 Kulturhaus Süderelbe Ausstellungsplakat.jpg) 
+![](/img/nabu.jpg) 
 
 
 # Vergangene Ausstellungen
