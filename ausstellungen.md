@@ -1,12 +1,14 @@
 # Ausstellungen
 
-## Zukünftige Ausstellung
+## Aktuelle Ausstellung
 
 Fotoausstellung des NABU
 
 Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präsentieren sich die Teilnehmer der Fotogruppe des NABU im Kulturhaus Süderelbe.
 
-Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen. 
+Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen.
+
+![](img\01 2018-06 Kulturhaus Süderelbe Ausstellungsplakat.jpg) 
 
 
 # Vergangene Ausstellungen
