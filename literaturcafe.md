@@ -23,7 +23,7 @@ gegeben.
 
 Märchen für Erwachsene
 
-![](/img/.jpg)
+![](/img/rainbow.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
