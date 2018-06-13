@@ -17,13 +17,13 @@ gegeben.
 
 
 
-**Am Sonntag, den 3.6.18 ab 16 Uhr, liest Dieter Wehrbrink aus**
+**Am Sonntag, den 1.7.18 ab 16 Uhr, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck**
 
-"Der Traum meiner Mutter"
+"Wie viele Farben hat die Sehnsucht"
 
-von Alice Munroe
+Märchen für Erwachsene
 
-![](/img/munroe.jpg)
+![](/img/.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
