@@ -1,7 +1,6 @@
 # Theater Mär: „Elmar, der bunte Elefant“ am 10. Juli 18 um 14 Uhr
 
-![](/img/Elmar_s.1.jpg)
-
+![](/img/Elmar.jpg)
 
 ![](/img/Elmar_s.2.jpg)
 
@@ -16,6 +15,7 @@ fremde Tiersprache sprechen, gemeinsam eine Herde sein...
 
 **Eintritt:** Frei!   
 **Gesamtdauer:** Ca. 2 Std. 
+Für Gruppen wird eine voranmeldung erbeten 
 
 **Kulturhaus Süderelbe e.V.**  
 Stadtteilsaal BGZ Süderelbe  
