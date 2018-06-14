@@ -2,8 +2,8 @@
 navigation:
   - kursangebot
   - literaturcafe
-  - kindergeburtstage
   - Elmar
+  - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
   - ChanceTanz
