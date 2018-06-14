@@ -1,50 +1,24 @@
-# Theater Mär: „Obstgärtchen“ am 24. Okt. 2017
+# Theater Mär: „Elmar, der bunte Elefant“ am 10. Juli 2018
 
-## Am Dienstag, 24. Oktober 2017 um 11.00 Uhr
+![](/img/Elmar_s.1.jpg)
+![](/img/Elmar_s.2.jpg)
 
-![](/img/wsb_441x564_Plakat_web.jpg)
+Elmar ist ein bunt karierter Elefant. Wenn er auftaucht, gibt es immer etwas zu lachen.
+Eigentlich ist er ein fröhlicher Elefant, aber eines Tages ist er traurig, weil er so anders aussieht, 
+als die Anderen und läuft weg. Doch dann erlebt er wie wichtig er für seine Freunde ist… 
+Ein musikalisches Theaterspiel über das Besondere in Jedem.
 
-### Theater für Kinder ab 3 Jahren nach einem Brettspiel von HABA
+Nach dem Stück gibt es eine theaterpädagogischer Aktion mit den Zuschauern:
+Tiere aus dem Stück malen, sich verwandeln und selbst Tiere spielen, schleichen, schnuppern, futtern, 
+fremde Tiersprache sprechen, gemeinsam eine Herde sein... 
 
-Mit Musik und Theaterspiel, mit gemeinsamen Entscheidungen und Fantasie ist das
-beliebte HABA-Brettspiel durch Theater Mär für die Bühne umgesetzt. Der Gärtner
-steht in seinem Obstgärtchen und möchte Kirschen ernten. Dabei braucht er die
-Hilfe und die Ideen der Kinder, denn zusammen geht immer alles besser. 
-Die Zuschauer stehen dem Spieler beratend zur Seite, sind aufgefordert mit zu
-überlegen, welche Sache er als nächstes ausprobieren soll. Aber dann ist da noch
-der Rabe, der ebenfalls versucht, an die Früchte heran zu kommen.  Wie werden sie
-es schaffen, vor ihm am Ziel zu sein?
-
-Ein Theaterspiel mit immer wieder neuem Ausgang.
+**Eintritt:** Frei!   
+**Gesamtdauer:** Ca. 2 Std. 
 
 **Kulturhaus Süderelbe e.V.**  
-Schulaula BGZ Süderelbe  
-Am Johannisland 4  
+Stadtteilsaal BGZ Süderelbe  
+Am Johannisland 2  
 21147 Hamburg  
 (Direkt an der S-Bahn Neugraben)  
 
-**Eintritt:** 5 € an der Tageskasse   
-**Dauer:** 45 Min.
 
-Eine Kooperation mit Theaterdeck Hamburg.
-
-Stück & Regie
-:   Frauke Rubarth
-
-Theater- & Spielpädagogik
-:   Lara Goldstein
-
-Spiel
-:   Peter Markhoff
-
-Musik
-:   Anne Wiemann
-
-Bühne
-:   Timo Gniesmer
-
-Spielberatung
-:   Catrin Markhoff
-
-Verlag
-:   HABA
