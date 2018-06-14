@@ -2,6 +2,7 @@
 navigation:
   - kursangebot
   - literaturcafe
+  - bgz sommerfest
   - Elmar
   - kindergeburtstage
   - Tanzcompagnie
