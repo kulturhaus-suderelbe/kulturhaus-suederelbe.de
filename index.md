@@ -1,9 +1,9 @@
 ---
 navigation:
-  - moundfriese
   - kursangebot
   - literaturcafe
   - kindergeburtstage
+  - Elmar
   - Tanzcompagnie
   - ausstellungen
   - ChanceTanz
@@ -12,8 +12,6 @@ navigation:
   - suederelbe-archiv
   - tanztheater
   - Kulturhauskino
-  - kinderfilmfestival
-  - tag der offenen tür
   - fortbildung
   - Willkommen
   - gefluechtete
