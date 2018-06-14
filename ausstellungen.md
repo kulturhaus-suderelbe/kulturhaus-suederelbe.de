@@ -10,6 +10,17 @@ Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen.
 
 ![](/img/nabu.jpg) 
 
+## Nächste Ausstellung
+
+Treffpunkt OST-WEST
+
+Eine Ausstellung mit der Künstlergruppe der GDCK, der Gesellschaft für deutsch-chinesischen Kulturaustausch
+
+vom 4.9.-23.9.18.
+
+Die Vernissage findet am 3.9.18 ab 17 Uhr statt. 
+
+Dabei gibt es eine Vorführung: Qi Pao - Lotus Moonlight Tanz mit Regenschirm von Liang Liu
 
 # Vergangene Ausstellungen
 
