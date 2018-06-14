@@ -1,6 +1,7 @@
-# Theater Mär: „Elmar, der bunte Elefant“ am 10. Juli 2018
+# Theater Mär: „Elmar, der bunte Elefant“ am 10. Juli 18 um 14 Uhr
 
 ![](/img/Elmar_s.1.jpg)
+
 
 ![](/img/Elmar_s.2.jpg)
 
