@@ -1,8 +1,19 @@
-##Zukünftige Ausstellung
+# Ausstellungen
+
+## Aktuelle Ausstellung
 
 Fotoausstellung des NABU
 
-# Ausstellung: Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
+Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präsentieren sich die Teilnehmer der Fotogruppe des NABU im Kulturhaus Süderelbe.
+
+Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen.
+
+![](/img/nabu.jpg) 
+
+
+# Vergangene Ausstellungen
+
+Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
 
 ![](/img/mitko18.jpg)
  
@@ -11,8 +22,6 @@ Fotoausstellung des NABU
 zeigt die nächste Reihe Fotos von seinen Reisen   
  
 ------------------------------------------------------------------------
-
-## Vergangene Ausstellungen
 
 ## "Vlucht"
  
