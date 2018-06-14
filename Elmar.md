@@ -1,6 +1,7 @@
 # Theater Mär: „Elmar, der bunte Elefant“ am 10. Juli 2018
 
 ![](/img/Elmar_s.1.jpg)
+
 ![](/img/Elmar_s.2.jpg)
 
 Elmar ist ein bunt karierter Elefant. Wenn er auftaucht, gibt es immer etwas zu lachen.
