@@ -1,8 +1,9 @@
 ---
 navigation:
-  - moundfriese
   - kursangebot
   - literaturcafe
+  - bgz sommerfest
+  - Elmar
   - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
@@ -12,8 +13,6 @@ navigation:
   - suederelbe-archiv
   - tanztheater
   - Kulturhauskino
-  - kinderfilmfestival
-  - tag der offenen tür
   - fortbildung
   - Willkommen
   - gefluechtete
