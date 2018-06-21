@@ -12,9 +12,8 @@ Deutschland 2018.
 Regie: Ma’an Mouslli  
 63 Min., ab 12 J. 
 
-** Der Eintritt ist frei, gerne Spenden** 
-
-Auszug Pressetext auf newcomers-film.de: 
+### Der Eintritt ist frei, gerne Spenden ### 
+ 
 „Newcomers“ ist ein Dokumentarfilm, in dem geflüchtete Menschen ihre Geschichte selbst erzählen. Junge und Alte, 
 Menschen unterschiedlichen Glaubens, unterschiedlichen Geschlechts und sexueller Orientierung; Menschen mit und ohne
 Behinderung. Menschen aus über acht verschiedenen Ländern. In 29 Interviews treten ihre Geschichten in einen Dialog miteinander. 
@@ -28,7 +27,7 @@ Mit der Dokumentation „Shakespeare in Zaatari" über geflüchtete Kinder im jo
 gewann er 2016 den Preis „Bester Film Non Professional“ beim Film Festival Cologne. „Shakespeare in Zaatari“ 
 sorgte auch international für Aufsehen: Er lief u.a. bei den Internationalen Filmfestspielen in Cannes, 
 dem Los Angeles CineFest, dem Human Rights Film Festival Barcelona, dem International Scandinavian Film Festival
-und dem Roma Cinema Doc. 
+und dem Roma Cinema Doc. (Quelle: Pressetext newcomers.de)
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
 
