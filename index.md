@@ -3,6 +3,7 @@ navigation:
   - kursangebot
   - literaturcafe
   - bgz sommerfest
+  - Kulturhauskino
   - Elmar
   - kindergeburtstage
   - Tanzcompagnie
@@ -11,8 +12,7 @@ navigation:
   - LittleBigBand
   - kulturtage
   - suederelbe-archiv
-  - tanztheater
-  - Kulturhauskino
+  - tanztheater 
   - fortbildung
   - Willkommen
   - gefluechtete
