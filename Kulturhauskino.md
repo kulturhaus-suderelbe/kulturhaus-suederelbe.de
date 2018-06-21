@@ -2,7 +2,7 @@
 
 ![](/img/Kino-Plakat-Juli-2018.jpg)
 
-am Mittwoch, den 4. Juli um 19.00 Uhr zeigt das Kulturhaus-Kino in Zusammenarbeit mit der Lokalen Partnerschaft Süderelbe
+Am Mittwoch, den 4. Juli um 19.00 Uhr zeigt das Kulturhaus-Kino in Zusammenarbeit mit der Lokalen Partnerschaft Süderelbe
 und dem DRK-Willkommensbüro Süderelbe den Film  ‚Newcomers‘ von Ma’an Mouslli. Viele der Interviews in dem Film wurden mit
 Bewohnern der Erstaufnahme im Geutensweg in Neugraben-Fischbek geführt. 
 
