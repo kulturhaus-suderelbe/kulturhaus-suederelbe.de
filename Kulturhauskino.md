@@ -1,4 +1,4 @@
-# Kulturhaus-Kino: "Newcomers" am 4. Juli um 19 Uhr
+# Kulturhaus-Kino: "Newcomers" am 4. Juli 18 um 19 Uhr
 
 ![](/img/Kino-Plakat-Juli-2018.jpg)
 
