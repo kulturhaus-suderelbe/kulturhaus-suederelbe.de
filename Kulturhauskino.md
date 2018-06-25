@@ -1,4 +1,41 @@
-# Kulturhaus-Kino: "Der glücklichste Tag im Leben des Olli Mäki" am 17. Mai um 19 Uhr 
+# Kulturhaus-Kino: "Newcomers" am 4. Juli 18 um 19 Uhr
+
+![](/img/Kino-Plakat-Juli-2018.jpg)
+
+Am Mittwoch, den 4. Juli um 19.00 Uhr zeigt das Kulturhaus-Kino in Zusammenarbeit mit der Lokalen Partnerschaft Süderelbe
+und dem DRK-Willkommensbüro Süderelbe den Film  ‚Newcomers‘ von Ma’an Mouslli. Viele der Interviews in dem Film wurden mit
+Bewohnern der Erstaufnahme im Geutensweg in Neugraben-Fischbek geführt. 
+
+Der Regisseur wird bei der Filmvorführung anwesend sein und im Gespräch mit dem Publikum Fragen beantworten.
+
+Deutschland 2018.  
+Regie: Ma’an Mouslli  
+63 Min., ab 12 J. 
+
+### Der Eintritt ist frei, gerne Spenden ### 
+
+![](/img/plakatnewcomers.jpg)
+ 
+„Newcomers“ ist ein Dokumentarfilm, in dem geflüchtete Menschen ihre Geschichte selbst erzählen. Junge und Alte, 
+Menschen unterschiedlichen Glaubens, unterschiedlichen Geschlechts und sexueller Orientierung; Menschen mit und ohne
+Behinderung. Menschen aus über acht verschiedenen Ländern. In 29 Interviews treten ihre Geschichten in einen Dialog miteinander. 
+Sie erzählen vom Tragischen, aber auch vom Schönen und Hoﬀnungsvollen: Von Verfolgung, Krieg und den Umständen der Flucht, 
+aber auch von Träumen und Kindheitserinnerungen, vom stetigen Kampf für Freiheit und Würde. Trotz aller Unterschiede zeigen
+sich Umrisse einer Grunderfahrung des Lebens im Exil. Wie fühlt es sich an, neu in eine Gesellschaft zu kommen? 
+Wohin mit der Vergangenheit, mit den Erinnerungen an das was war? Was heißt es, „Flüchtling“ in Deutschland zu sein? 
+
+„Newcomers“ ist das dritte Regie-Werk des in Osnabrück lebenden syrischen Regisseurs Ma’an Mouslli. 
+Mit der Dokumentation „Shakespeare in Zaatari" über geflüchtete Kinder im jordanischen Flüchtlingslager Zaatari 
+gewann er 2016 den Preis „Bester Film Non Professional“ beim Film Festival Cologne. „Shakespeare in Zaatari“ 
+sorgte auch international für Aufsehen: Er lief u.a. bei den Internationalen Filmfestspielen in Cannes, 
+dem Los Angeles CineFest, dem Human Rights Film Festival Barcelona, dem International Scandinavian Film Festival
+und dem Roma Cinema Doc. (Quelle: Pressetext newcomers.de)
+
+Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
+
+-----------------------------------------------------------------------------------
+
+## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-1.jpg)
 
@@ -28,9 +65,6 @@ Finnlands Oscar-Beitrag 2017 (Kategorie Bester fremdsprachiger Film)
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
 
  ---------------------------------------------------------------------------------
-
- 
-## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/KHK-01_03_18-Infoscreen_6.jpg)
 
