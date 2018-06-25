@@ -13,6 +13,8 @@ Regie: Ma’an Mouslli
 63 Min., ab 12 J. 
 
 ### Der Eintritt ist frei, gerne Spenden ### 
+
+![](/img/plakatnewcomers.jpg)
  
 „Newcomers“ ist ein Dokumentarfilm, in dem geflüchtete Menschen ihre Geschichte selbst erzählen. Junge und Alte, 
 Menschen unterschiedlichen Glaubens, unterschiedlichen Geschlechts und sexueller Orientierung; Menschen mit und ohne
