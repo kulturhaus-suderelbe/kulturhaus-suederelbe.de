@@ -2,9 +2,9 @@
 navigation:
   - kursangebot
   - literaturcafe
-  - bgz sommerfest
   - Kulturhauskino
   - Elmar
+  - Movie Girls
   - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
