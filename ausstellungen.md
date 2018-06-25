@@ -22,7 +22,7 @@ Die Vernissage findet am 3.9.18 ab 17 Uhr statt.
 
 Dabei gibt es eine Vorführung: Qi Pao - Lotus Moonlight Tanz mit Regenschirm von Liang Liu
 
-![](/img/Chinatime18.JPG)
+![](/img/chinatime18.JPG)
 
 # Vergangene Ausstellungen
 
