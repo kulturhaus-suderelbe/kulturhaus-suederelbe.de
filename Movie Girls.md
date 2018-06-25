@@ -13,7 +13,8 @@ Publikum gezeigt werden.
 Mitmachen können Mädchen ab 12 Jahren, die Lust haben das Filmdrehen unter professioneller Anleitung auszuprobieren.
 Kursleiterinnen sind die Hamburger Filmemacherinnen Nina Becker und Jytte Hill.
 
-*Die Teilnahme ist kostenlos*
+### Die Teilnahme ist kostenlos*  
+
 Anmeldungen unter 0157-37713047 (Nina Becker) oder moviegirls@gmx.de.
 
 
