@@ -1,8 +1,6 @@
 # PartyKunst - interkunturelle Kunstprojekt
 
-## Jubiläumsjahr 2016
-
-![](/img/wsb_432x230_500J_Fo$CC$88rdervereinNeugr_Endfassung_web.jpg)
+![](/img/PartyKunst_18.jpg)
 
 Das interkulturelle Kunstprojekt ‚PartyKunstʻ,
 das in einem ersten Abschnitt in 2016 durch ‚Freiräumeʻ - Fonds für kulturelle Projekte mit Geflüchteten der Hamburgischen
@@ -31,7 +29,6 @@ Hasan Savas - elektronische Musik
 Dirk Mokrus - Kostüme
 Ulrich Raatz - Film/Projektion/Projektleitung  
 
-
-
+Kontakt für weitere Infos: Ulrich Raatz, info@raatzfilm.de
 
 
