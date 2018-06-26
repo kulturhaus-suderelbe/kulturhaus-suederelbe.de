@@ -10,6 +10,7 @@ navigation:
   - ausstellungen
   - ChanceTanz
   - LittleBigBand
+  - Partykunst
   - kulturtage
   - suederelbe-archiv
   - tanztheater 
