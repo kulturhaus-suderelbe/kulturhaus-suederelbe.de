@@ -1,4 +1,4 @@
-# PartyKunst - interkunturelle Kunstprojekt
+# PartyKunst - das interkunturelle Kunstprojekt
 
 ![](/img/PartyKunst_18.jpg)
 
