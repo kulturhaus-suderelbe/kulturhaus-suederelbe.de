@@ -29,6 +29,8 @@ Hasan Savas - elektronische Musik
 Dirk Mokrus - Kostüme
 Ulrich Raatz - Film/Projektion/Projektleitung  
 
-Kontakt für weitere Infos: Ulrich Raatz, info@raatzfilm.de
+Kontaktfür Termine für weitere Infos: Ulrich Raatz, info@raatzfilm.de
+
+Das PartyKunst-Projekz im Kulturhaus wird gefördert durch den Hamburger Integrationsfond 
 
 
