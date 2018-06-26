@@ -1,8 +1,6 @@
 # Theater Mär: „Elmar, der bunte Elefant“ am 10. Juli 18 um 14 Uhr
 
-![](/img/Elmar.jpg)
-
-![](/img/Elmar_s.2.jpg)
+![](/img/Elmar1.jpg)
 
 Elmar ist ein bunt karierter Elefant. Wenn er auftaucht, gibt es immer etwas zu lachen.
 Eigentlich ist er ein fröhlicher Elefant, aber eines Tages ist er traurig, weil er so anders aussieht, 
@@ -24,6 +22,4 @@ Am Johannisland 2
 (Direkt an der S-Bahn Neugraben)  
 
 Mit freundlicher Unterstützung der Budnianer Hilfe e.V. 
-
-![](/img/Budnianer-Hilfe-Logo.jpg)
 
