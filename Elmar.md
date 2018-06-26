@@ -23,4 +23,7 @@ Am Johannisland 2
 21147 Hamburg  
 (Direkt an der S-Bahn Neugraben)  
 
+Mit freundliche Unterstützung der Budnianer Hilfe e.V. 
+
+![](/img/Budnianer-Hilfe-Logo.jpg)
 
