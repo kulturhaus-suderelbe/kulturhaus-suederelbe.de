@@ -1,11 +1,14 @@
 # Chinatime 2018
 
 ![](/img/chinatime18(2).jpg)
-Ausstellung vom 4.09.18 bis zum 23.09.18
+
+Ausstellung vom 04.09.18 bis zum 23.09.18
 
 Vernissage am 03.09.18 um 18 Uhr
 
-KünstlerInnen: 
+Vorführung: Qi Pao - Lotus Moonlight Tanz mit Regenschirm von Liang Liu
+			
+		    Junge Union des chinesischen Vereins Frauen für Frauen Hamburg
 
 Ausgestellt werden Malereien, Zeichnungen und Fotografien von:
 
