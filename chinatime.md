@@ -1,5 +1,6 @@
 # Chinatime 2018
 
+![](/img/chinatime18(2).jpg)
 Ausstellung vom 4.09.18 bis zum 23.09.18
 
 Vernissage am 03.09.18 um 18 Uhr
