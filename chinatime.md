@@ -1,6 +1,6 @@
 # Chinatime 2018
 
-![](/img/chinatime18(2).jpg)
+![](/img/chinatime18.jpg)
 
 Ausstellung vom 04.09.18 bis zum 23.09.18
 
