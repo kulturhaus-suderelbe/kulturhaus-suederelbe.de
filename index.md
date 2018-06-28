@@ -8,6 +8,7 @@ navigation:
   - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
+  + Chinatime 2018 Ausstellung
   - ChanceTanz
   - LittleBigBand
   - Partykunst
