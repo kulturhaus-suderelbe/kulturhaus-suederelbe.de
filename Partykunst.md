@@ -1,36 +1,44 @@
-# PartyKunst - das interkunturelle Kunstprojekt
+# PartyKunst - das interkunturelle Kunstprojekt für Jugendliche und junge Erwachsene
 
-![](/img/PartyKunst_18.jpg)
+PartyKunst ist ein freies, interkulturelles Jugendkunstprojekt, das seit 2016 mit Teilnehmenden
+im Alter zwischen 14 und 27 Jahren kreativ arbeitet. Bislang gab es zwei Präsentationen mit Musik, Tanz, Filmen,
+Fotos und einem Theaterstück am Ernst Deutsch Theater in Hamburg und dem Haus der Jugend Neuwiedenthal. 
+Die wechselnden AnleiterInnen kommen alle aus den Bereichen Film, Musik, Tanz, Kostüm oder bildende Kunst
+und verfügen über langjährige Erfahrungen auch in der kreativen Arbeit mit Kindern und Jugendlichen. 
+Nach Förderungen durch den Fonds Freiräume steht das aktuelle Projekt in Trägerschaft des Kulturhauses Süderelbe e. V. 
+und wird finanziert durch den Hamburger Integrationsfonds.
 
-Das interkulturelle Kunstprojekt ‚PartyKunstʻ,
-das in einem ersten Abschnitt in 2016 durch ‚Freiräumeʻ - Fonds für kulturelle Projekte mit Geflüchteten der Hamburgischen
-Kulturstiftung finanziert werden konnte und unter der Trägerschaft des Jugendfilm e.V. fungierte wird ab 2017 mittels der Trägerschaft 
-des Kulturhauses Süderelbe e.V. fortgesetzt und vertieft. Kooperationspartner sind die Stadtteilschule Süderelbe,
-der Jugendfilm e.V. und das Haus der Jugend in Neuwiedenthal.
+![](/img/Partykunst1.jpg)
 
-PartyKunst ist eine Projektreihe, die sich an Jugendliche und junge Erwachsene zwischen 12 und
-22 Jahren wendet. Hierbei sind insbesondere Teilnehmer zu nennen, die als Flüchtlinge nach Deutschland gekommen sind 
-und u. U. noch kein Deutsch sprechen. Durch die kreative Arbeit mit anderen und einem konkreten Arbeitsziel wird der Wunsch gestärkt,
-selbst gut Deutsch zu sprechen. Die inhaltlich-künstlerische Arbeit aus den Bereichen szenischer Film, Fotografie,
-Musik/Tanz, Bühnenbild/-Licht, Projektionskunst und ggf. Kostümbildnerei kommt in weiten
-Teilen ohne verbalsprachlichen Einsatz aus und setzt auf eine universelle Wahrnehmung von
-Bildern, Bewegung, Schauspiel und Musik. Darüber hinaus ist es die Erfahrung, dass Neugier, der
-Wunsch nach eigenem künstlerischen Ausdruck und ein positiv aufgeladenes Zusammentreffen
-mit Menschen aus anderen Kulturkreisen gute Mittel gegen mögliche Ressentiments sind.
+### Dreharbeiten 
+Wir drehen derzeit an einem längeren Spielfilm, der noch keinen Titel hat, und dessen Handlung zusammen
+mit einigen unserer Teilnehmer entstanden ist:
+Unsere Geschichte dreht sich um Omar, einen jungen Mann, der als Flüchtling nach Deutschland gekommen ist und jetzt
+in Hamburg zur Schule geht. Omar hat Luna, eine Mitschülerin, als gute Freundin. Er ist aber auch Anfeindungen, die von einer
+kleinen Gruppe in der Klasse ausgehen, ausgesetzt. Die für Omar unbefriedigende Situation eskaliert als Summer, eine sehr
+selbstbewusste junge Frau, in die Klasse kommt. Rat und Unterstützung findet Omar bei seinem Bruder Ali, der jedoch nicht verhindern
+kann, dass Omar eines Tages zusammengeschlagen wird. Dass sich Luna in ihn verliebt hat, nimmt er zunächst gar nicht richtig wahr.
+Luna ist frustriert und lässt sich scheinbar auf Jakub ein, der sie bei einer Party reichlich mit Alkohol versorgt.  
 
-Die  PartyKunst-Veranstaltungen sollen ein breites lokales Publikum
-ansprechen, das zu einer Mischung aus Kunst-Installation und Tanzparty eingeladen ist.
-Ein anregender Austausch mit dem Publikum ist beabsichtigt. 
+![](/img/Partykunst2.jpg)
 
-Die PartyKunst-Angebote werden geleitet von:  
-Michael Baltzer - freie Kunst/Bühnenbild  
-Bertolt Hering - Trickfilm/Foto  
-Hasan Savas - elektronische Musik  
-Dirk Mokrus - Kostüme
-Ulrich Raatz - Film/Projektion/Projektleitung  
+![](/img/Partykunst3.jpg)
 
-Kontaktfür Termine für weitere Infos: Ulrich Raatz, info@raatzfilm.de
+![](/img/Partykunst4.jpg)
+
+### Ferienworkshop vom 6.-10. August 18 im Haus der Jugend Nuwiedenthal 
+Wir kooperieren bei diesem Projekt mit dem Haus der Jungend Neuwiedenthal, wo in der Ferienwoche vom 6. bis 10. August fünf Tage
+lang die Party-/Discoszenen für unseren Film vorbereitet werden. Wir bauen mit interessierten jungen Leuten ein Szenenbild mit
+viel Licht, Spiegelfolien und Video-Rückprojektionen. Und es soll unter Leitung einer erfahrenen Tanzexpertin von der Hamburger
+Hochschule für Sport getanzt werden - das alles, um gute Aufnahmen für unseren Film zu bekommen. 
+Eine Anmeldung im Kulturhaus ist dafür nötig.
+
+![](/img/Partykunst5.jpg)
+ 
+Unser zweiter Kooperationspartner ist das FZ Sandbek, denn unser Film braucht auch Musik. 
+Wer interessiert ist, kommt einfach am Mittwoch, den 11. Juli um 15 Uhr ins FZ Sandbek, Ohrnsweg 50b, 21149 Hamburg.
+
+Kontakt: Ulrich Raatz  uraatz@hotmail.com
+oder über das Kulturhaus 
 
 Das PartyKunst-Projekz im Kulturhaus wird gefördert durch den Hamburger Integrationsfond 
-
-
