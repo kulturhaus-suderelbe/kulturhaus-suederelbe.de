@@ -17,17 +17,15 @@ gegeben.
 
 
 
-**Am Sonntag, den 1.7.18 ab 16 Uhr, liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck**
+**Am Sonntag, den 5.8.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
-"Wie viele Farben hat die Sehnsucht"
+Am Wall 81 von Christine Brückner 
 
-Märchen für Erwachsene
+und weiter Erzählungenh großer Autorinnen
 
-![](/img/rainbow.jpg)
+![](/img/brückner.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
-
-
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
