@@ -1,10 +1,6 @@
 # Kursprogramm Wintersemester 2018
 
-<<<<<<< HEAD:kursangebot/kursprogramm.md
 ## Semesterbeginn am 3. September 2018 
-=======
-## Semesterbeginn am 1. Februar und am 1. September 
->>>>>>> aebff00ac7d59c4e91472f24e517998060dad408:style/kursangebot/kursprogramm.md
 
 ![](/img/Kursprogramm-KH_SoSe18.jpg)
 
