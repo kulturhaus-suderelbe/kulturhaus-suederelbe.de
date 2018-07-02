@@ -19,9 +19,9 @@ gegeben.
 
 **Am Sonntag, den 5.8.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
-Am Wall 81 von Christine Brückner 
+**Am Wall 81 von Christine Brückner** 
 
-und weiter Erzählungenh großer Autorinnen
+und weitere Erzählungen großer Autorinnen
 
 ![](/img/brückner.jpg)
 
