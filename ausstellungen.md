@@ -18,7 +18,7 @@ Eine Ausstellung mit der Künstlergruppe der GDCK, der Gesellschaft für deutsch
 
 vom 4.9.-23.9.18.
 
-Die Vernissage findet am 3.9.18 ab 17 Uhr statt. 
+Die Vernissage findet am 3.9.18 ab 18 Uhr statt. 
 
 Dabei gibt es eine Vorführung: Qi Pao - Lotus Moonlight Tanz mit Regenschirm von Liang Liu
 
