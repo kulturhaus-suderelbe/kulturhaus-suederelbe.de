@@ -1,8 +1,8 @@
-# Kursprogramm Sommersemester 2018
+# Kursprogramm Wintersemester 2018
 
-## Semesterbeginn am 1. Februar 2018 
+## Semesterbeginn am 3. September 2018 
 
-![](/img/Kursprogramm-KH_SoSe18.jpg)
+![](/img/KursprogrammKH_WiSe18.jpg)
 
 [Unser Kursprogramm Sommersemester finden Sie hier zum Download](/downloads/Kurse_SoSe18.pdf)
 
