@@ -8,7 +8,6 @@ navigation:
   - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
-  - chinatime
   - ChanceTanz
   - LittleBigBand
   - Partykunst
