@@ -33,7 +33,7 @@ Vermittlung von Techniken in qualifizierter Form.
 ![](/img/sommerfest-2012-56.jpg)
 
 Beginn
-:   Montag, 5.2.18, von 10-13 Uhr
+:   Montag, 3.9.18, von 10-13 Uhr
 
 Kursleitung
 :   Margrit Werner
@@ -61,7 +61,7 @@ Materialumlage (15 €) zur Verfügung gestellt.
 ![](/img/gabriele-Wendland-holzschnitt.jpg)
 
 Beginn
-:   Montag, 26.03.18, von 19.00-22.00 Uhr , Schnupperkurs 4 Abende
+:   auf Anfrage
 
 Kursleitung
 :   Gabriele Wendland
@@ -95,8 +95,8 @@ E-Bass
 ![](/img/KHS3-078.jpg)
 
 Beginn
-:   Montag 5.2.18 von 14.30-22.00 Uhr
-:   Donnerstag, 1.2.18 von 14.30-22.00 Uhr
+:   Montag 3.9.18 von 14.30-22.00 Uhr
+:   Donnerstag, 6.9.18 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
@@ -128,7 +128,7 @@ abgestimmt.
 ![](/img/wsb_130x150_Dimitar+Georgiev+-+Saxophon+$282014.01$292.jpg)
 
 Beginn
-:   Montag, 5.2.18 von 14-20 Uhr
+:   Montag, 3.9.18 von 14-20 Uhr
 
 Kursleitung
 :   Dimitar Georgiev
@@ -151,8 +151,8 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 2.2.18, von 17-20 Uhr
-:   Montag, 5.2.18, von 15-18 Uhr
+:   Freitag, 7.9.18, von 17-20 Uhr
+:   Montag, 3.9.18, von 15-18 Uhr
 
 
 Kursleitung
@@ -187,7 +187,7 @@ Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
 jeder seinen Platz!
 
 Beginn
-:   Dienstag, 6.2.18, von 10-13 Uhr
+:   Dienstag, 4.9.18, von 10-13 Uhr
 
 Kursleitung
 :   Gabriele Wendland  
@@ -209,7 +209,7 @@ Oberflächengestaltung zu erlernen.
 ![](/img/wsb_144x160_KursPlakat+017.jpg)
 
 Beginn
-:   Dienstag, 6.2.18, von 16.30-18.00 Uhr
+:   Dienstag, 4.9.18, von 16.30-18.00 Uhr
 
 Kursleitung
 :   Teresa Werdier
@@ -232,7 +232,7 @@ Aktzeichnen ist die Grundlage für jede Art der figürlichen Darstellung!
 ![](/img/ruecken.jpg)
 
 Beginn
-:   Dienstag, 6.2.18, von 18.30-21.30 Uhr
+:   Dienstag, 4.9.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -265,8 +265,8 @@ TeilnehmerInnen abgestimmt.
 ![](/img/wsb_145x143_Kachel+Musik+5x5.jpg)
 
 Beginn
-:   Dienstag, 6.2.18
-:   Mittwoch, 7.2.18
+:   Dienstag, 4.9.18
+:   Mittwoch, 5.9.18
 
 Kursleitung
 :   Bettina Sehlbach  
@@ -291,7 +291,7 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-:   Mittwoch von 16.00-17.30 Uhr auf Anfrage
+: Mittwoch von 16.00-17.30 Uhr auf Anfrage
 
 Kursleitung
 :   Gabriele Wendland  
@@ -302,19 +302,6 @@ Kursgebühr
 
 Die Abrechnung über das Bildungspaket ist möglich.
 
-
-## Teatimetalk
-
-Informationen über Kursinhalte, Kurszeiten und Gebühren sowie
-Kursanmeldungen finden Sie unter
-[www.teatimetalk.de](http://www.teatimetalk.de), direkt unter Telefon
-040 702 95 373; E-Mail: <info@teatimetalk.de>
-
-Termine
-:   Mittwochs, 18.45-20.30 Uhr
-
-Kursleitung
-:   Henry Holland
 
 
 # Mittwoch / Donnerstag
@@ -332,21 +319,21 @@ nachfragen.
 ![](/img/wsb_151x154_KHS8+042-gesch$C3$A4rft+etc.JPG)
 
 Beginn
-:   Mittwoch, 7.2.18, von 17-20 Uhr
+:   Mittwoch, 5.9.18, von 17-20 Uhr
 
 Kursleitung
 :   Christian Richert  
     [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
 
 Beginn
-:   Donnerstag, 1.2.18, von 9-12 Uhr
+:   Donnerstag, 6.9.18, von 9-12 Uhr
 
 Kursleitung
 :    
     Ulrich Gauerke
 
 Beginn
-:   Donnerstag, 1.2.18, von 15-18 Uhr
+:   Donnerstag, 6.9.18, von 15-18 Uhr
 
 Kursleitung
 :   Christian Richert  
@@ -370,14 +357,14 @@ oder Porträt behandeln.
 ![](/img/wsb_149x155_WEBAquarell2.jpg)
 
 Beginn
-:   Mittwoch, 7.2.18, von 18.30-21.30 Uhr
+:   Mittwoch, 4.9.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Elke Nack-Karstens  
     [www.elkenack-karstens.de](http://www.elkenack-karstens.de)
 
 Beginn
-:   Freitag, 2.2.18, von 10-13 Uhr
+:   Freitag, 7.9.18, von 10-13 Uhr
 
 Kursleitung
 :   Angelika Holzmann
@@ -400,7 +387,7 @@ Superteam bilden!
 ![](/img/wsb_151x125_Fr$C3$BChlingsfest_2007+023.jpg)
 
 Beginn
-:   Donnerstag, 1.2.18, von 15-18 Uhr
+:  Donnerstag, 6.9.18, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -418,7 +405,7 @@ unterrichtet außer im Kulturhaus an vielen Orten Hamburgs.
 ![](/img/KHS4-001.jpg)
 
 Beginn
-:   Donnerstag, 1.2.18; Uhrzeiten nach Absprache
+:   Donnerstag, 6.9.18; Uhrzeiten nach Absprache
 
 Kursleitung
 :   Dietwalt Mauruschat  
@@ -448,7 +435,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 1.2.18, von 19.30-21.30 Uhr
+:   Donnerstag, 6.9.18, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
@@ -469,7 +456,7 @@ Heimat Bulgarien Auszeichnungen für seine Arbeiten erhalten hat.
 ![](/img/wsb_270x158_DSCN0025.JPG)
 
 Beginn
-:   Donnerstag, 1.2.18, von 18.30-21.30 Uhr
+:   Donnerstag, 6.9.18, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Branimir Georgiev  
@@ -494,7 +481,7 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 1.2.18 von 16.30-18 Uhr
+:   Donnerstag, 6.9.18 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
@@ -521,6 +508,10 @@ Jede Art von Motiv ist recht, Hauptsache, im Lauf der Zeit wird ein eigener Stil
 In angenehmer Atmosphäre und stressfrei können Menschen unterschiedlichen Alters 
 hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
 IMG_4443.jpg)
+
+Beginn:
+
+Freitag, 7.9.18
 
 
 
