@@ -13,7 +13,7 @@ navigation:
 ![](/img/wsb_139x196_KHS1+099-A2.jpg)
 ![](/img/wsb_137x194_Web+15_2.jpg)
 
-## Semesterbeginn am 01. Februar und am 1. September
+## Semesterbeginn am 03. September 2018
 
 Ein neues Semester mit zahlreichen Möglichkeiten, sich unter
 fachkundiger Anleitung kreativ zu betätigen, startet am 1. Februar 2018.
@@ -37,5 +37,5 @@ auch für Fortgeschrittene geeignet. Eine Probestunde kann vereinbart
 werden. Eine Ermäßigung der Gebühren ist nach Absprache möglich.
 
 Das aktuelle Programmangebot finden Sie unter: 
-[Kursprogramm Sommersemester 2018](/kursangebot/kursprogramm.html)
+[Kursprogramm Wintersemester 2018](/kursangebot/kursprogramm.html)
 

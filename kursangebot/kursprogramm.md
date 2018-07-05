@@ -1,8 +1,8 @@
 # Kursprogramm Wintersemester 2018
 
-## Semesterbeginn am 1. Februar und am 1. September jeden Jahres 
+## Semesterbeginn am 3. September 2018 
 
-[Unser Kursprogramm Wintersemester 18 finden Sie hier zum Download](/downloads/KursprogrammKH_WiSe18.pdf)
+[Unser Kursprogramm Wintersemester 2018 finden Sie hier zum Download](/downloads/KursprogrammKH_WiSe18.pdf)
 
 Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
