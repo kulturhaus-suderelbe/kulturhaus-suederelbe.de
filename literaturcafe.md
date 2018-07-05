@@ -19,13 +19,13 @@ gegeben.
 
 **Am Sonntag, den 5.8.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
+
 **"Christine Brückner: Am Wall 81" und andere Erzählungen**
+
 
 ![](/img/august.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
-
-
 
 **Herzlich willkommen, der Eintritt ist frei!**
 
