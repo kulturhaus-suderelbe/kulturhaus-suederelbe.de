@@ -36,6 +36,19 @@ Nehmen Sie mit dem Kulturhaus Süderelbe e.V. durch die angebotenen Kontaktmögl
 auf, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen
 werden kann. 
 
+### 2.3. Umgang mit Newsletter-Daten
+Sie können sich mit Ihrer E-Mail-Adresse im Kulturhaus anmelden und bitten, regelmäßig Informationen über Veranstaltungen
+und Aktivitäten im Kulturhaus auf diesem Wege zu erhalten. Die Nennung ihres Namens und Nachnamens ist freiwillig.
+Im Nachgang senden wir, an die von Ihnen angegebene E-Mail-Adresse eine E-Mail, in der wir Sie um eine Bestätigung Ihrer Anmeldung
+für die "Newsletter" bitten. Erst mit Ihrer Antwortmail erteilen Sie uns die Genehmigung.  
+Um diesen Kontakt zu pflegen, speichern wir die  E-Mail-Adresse in unserem elektronischen Emailsystem.
+Des Weiteren wird  u.U. Ihr Name in einem dazugehörigen Adressbuch gespeichert. Diese Daten, E-Mail-Adressen und Namen verwenden
+wir ausschließlich für den oben angegeben Zweck und geben sie nicht an Dritte weiter. Sie haben jederzeit ein Widerspruchsrecht
+und können durch einfache Mitteilung an uns die Löschung Ihrer Daten aus unserem Verteiler veranlassen.
+
+Die Verarbeitung dieser personenbezogenen Daten geschieht auf Basis der freiwillig erteilten Einwilligung
+gem. Art. 6 Abs. 1 Satz 1 Buchst. a) DSGVO.
+
 ## 3. Weitergabe von Daten
 Personenbezogene Daten werden an Dritte übermittelt, wenn
 -	nach Art. 6 Abs. 1 Satz 1 Buchst. a) DSGVO durch die betroffene Person ausdrücklich dazu eingewilligt wurde,  
