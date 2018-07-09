@@ -41,13 +41,29 @@ Sie können sich mit Ihrer E-Mail-Adresse im Kulturhaus anmelden und bitten, reg
 und Aktivitäten im Kulturhaus auf diesem Wege zu erhalten. Die Nennung ihres Namens und Nachnamens ist freiwillig.
 Im Nachgang senden wir, an die von Ihnen angegebene E-Mail-Adresse eine E-Mail, in der wir Sie um eine Bestätigung Ihrer Anmeldung
 für die "Newsletter" bitten. Erst mit Ihrer Antwortmail erteilen Sie uns die Genehmigung.  
-Um diesen Kontakt zu pflegen, speichern wir die  E-Mail-Adresse in unserem elektronischen Emailsystem.
+Um diesen Kontakt zu pflegen, speichern wir die E-Mail-Adresse in unserem elektronischen Emailsystem.
 Des Weiteren wird  u.U. Ihr Name in einem dazugehörigen Adressbuch gespeichert. Diese Daten, E-Mail-Adressen und Namen verwenden
 wir ausschließlich für den oben angegeben Zweck und geben sie nicht an Dritte weiter. Sie haben jederzeit ein Widerspruchsrecht
 und können durch einfache Mitteilung an uns die Löschung Ihrer Daten aus unserem Verteiler veranlassen.
 
 Die Verarbeitung dieser personenbezogenen Daten geschieht auf Basis der freiwillig erteilten Einwilligung
 gem. Art. 6 Abs. 1 Satz 1 Buchst. a) DSGVO.
+
+### 2.4. Umgang mit Mitglieder-Daten 
+Im Rahmen Ihrer Mitgliedschaft im Verein Kulturhaus Süderelbe e.V. werden von Ihnen bei der Antragstellung folgende Daten erhoben: 
+Name, Vorname, Geburtsdatum, Anschrift, Telefon, E-Mail-Adresse, Eintrittsdatum, Austrittsdatum sowie Zahlung des Mitgliedbeitrags.
+Diese Daten werden zum Zweck der Erfüllung des Vertrags zur Beitrittserklärung von Kulturhaus verarbeitet und in einem dazugehörigen 
+Adressbuch und u.U. in unserem elektonischen Emailsystem gespeichert.Diese Daten geben wir nicht an Dritte weiter und diese werden gelöscht,
+sobald die Notwendigkeit der Speicherung nicht mehr gegeben ist und diese Daten nicht zum weiteren Erhalt der Geschäftsbeziehung benötigt
+werden.
+
+### 2.5. Umgang mit Kursteilnehmer-Daten 
+Im Rahmen Ihrer Kursteilnahme im Kulturhaus Süderelbe e.V. werden von Ihnen bei der Kursanmeldung folgende Daten erhoben: 
+Name, Vorname, Geburtsdatum, Anschrift, Telefon, E-Mail-Adresse, Eintrittsdatum, Austrittsdatum sowie Zahlung der Kursgebühr bzw. 
+Semestergebühr. Diese Daten werden zum Zweck der Erfüllung des Vertrags zur Kursteilnehme von Kulturhaus verarbeitet und in einem dazugehörigen 
+Adressbuch und u.U. in unserem elektonischen Emailsystem gespeichert.Diese Daten geben wir nicht an Dritte weiter und diese werden gelöscht,
+sobald die Notwendigkeit der Speicherung nicht mehr gegeben ist und diese Daten nicht zum weiteren Erhalt der Geschäftsbeziehung benötigt
+werden.  
 
 ## 3. Weitergabe von Daten
 Personenbezogene Daten werden an Dritte übermittelt, wenn
