@@ -77,7 +77,8 @@ Personenbezogene Daten werden an Dritte übermittelt, wenn
 In anderen Fällen werden personenbezogene Daten nicht an Dritte weitergegeben.
 
 ## 4. Ihre Rechte als betroffene Person
-Soweit Ihre personenbezogenen Daten anlässlich des Besuchs unserer Webseite verarbeitet werden, stehen Ihnen als „betroffene Person“ 
+Soweit Ihre personenbezogenen Daten anlässlich des Besuchs unserer Webseite, anlässlich Ihrer Einwilligung zum Newsletter oder 
+im Rahmen der Vereinsmitgliedschaft / Kursteilnahme vom Kulturhaus Süderelbe verarbeitet werden, stehen Ihnen als „betroffene Person“ 
 im Sinne der DSGVO folgende Rechte zu:
 
 ### 4.1 Auskunft
