@@ -22,7 +22,9 @@ Die Vernissage findet am 3.9.18 ab 18 Uhr statt.
 
 Dabei gibt es eine Vorführung: Qi Pao - Lotus Moonlight Tanz mit Regenschirm von Liang Liu
 
-![](/img/chinatime18.jpg)
+Junge Union des chinesischen Vereins Frauen für Frauen Hamburg
+
+![](/img/treffpunkt ost west bild.jpg)
 
 # Vergangene Ausstellungen
 
