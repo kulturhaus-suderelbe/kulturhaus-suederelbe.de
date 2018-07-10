@@ -24,6 +24,10 @@ Dabei gibt es eine Vorführung: Qi Pao - Lotus Moonlight Tanz mit Regenschirm vo
 
 Junge Union des chinesischen Vereins Frauen für Frauen Hamburg
 
+KünstlerInnen: Katrin Binder, Sigrid Gruber, Kathrin Günther, Kaethe Haase-Kornstein, Ayse Kazci, Alwine Pompe, Helena Rauova, Hans-Wilhelm Schate, Peter Schlieper,
+
+Lu-Ping Tan-Storjohann, Antonia Torousis, Helga Tscheuschner, Gabriele Wendland, Mica Will-Flatau 
+
 ![](/img/treffpunkt ost west bild.jpg)
 
 # Vergangene Ausstellungen
