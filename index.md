@@ -3,8 +3,8 @@ navigation:
   - kursangebot
   - literaturcafe
   - china time
-  - Kulturhauskino
   - Movie Girls
+  - Kulturhauskino
   - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
