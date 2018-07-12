@@ -3,7 +3,6 @@ navigation:
   - kursangebot
   - literaturcafe
   - Kulturhauskino
-  - Elmar
   - Movie Girls
   - kindergeburtstage
   - Tanzcompagnie
