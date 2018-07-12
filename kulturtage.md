@@ -10,7 +10,8 @@ in unserer Region zeigen und ein Programm gestalten, das in diesem Zeitraum Kult
 und viele Besucher anzieht.  Unterstützen Sie uns und machen Sie mit! 
    
 Bitte geben Sie uns, sowohl als erfahrener lokaler Kulturveranstalter als auch als Amateur, Ihren Programmbeitrag 
-unter info@kulturhaus-suederelbe.de möglichst bald durch.  
+unter info@kulturhaus-suederelbe.de bis 24. Aug.18durch. 
+
 Herzlichen Dank! 
 
 
