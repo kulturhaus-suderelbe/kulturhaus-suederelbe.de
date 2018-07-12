@@ -2,6 +2,7 @@
 navigation:
   - kursangebot
   - literaturcafe
+  - china time
   - Kulturhauskino
   - Movie Girls
   - kindergeburtstage
