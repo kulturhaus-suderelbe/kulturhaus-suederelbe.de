@@ -4,7 +4,7 @@ Wir freuen uns über Ihren Anruf, Tel.: 796 72 22
 oder Kontakt per Mail an: <info@kulturhaus-suederelbe.de>
 
 [Das Anmeldeformular finden Sie hier zum
-Download](/downloads/Kursanm_14.pdf)
+Download](/downloads/Kursanmeldung_130718)
 
 # Teilnahmebedingungen
 
