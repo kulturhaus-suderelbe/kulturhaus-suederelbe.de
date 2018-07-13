@@ -57,7 +57,7 @@ Schriftführer
 
 [Hier finden Sie die Satzung unseres Vereins](/downloads/Satzung_121115_Neu.pdf)
 
-[Hier finden Sie Ihren Antrag auf Mitgliedschaft in unserem Verein](/downloads/Beitrittserklaerung.pdf)
+[Hier finden Sie Ihren Antrag auf Mitgliedschaft in unserem Verein](/downloads/Beitrittserklaerung_18.pdf)
 
 
 # 38 Jahre Kunst- und Kulturhaus Süderelbe e.V.
