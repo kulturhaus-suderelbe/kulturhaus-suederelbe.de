@@ -1,4 +1,10 @@
-# Kulturhaus-Kino: "Newcomers" am 4. Juli 18 um 19 Uhr
+# Kulturhaus-Kino: Nächste Aufführung in Oktober 18
+
+Hier finden Sie demnächst Informationen über den nächsten Kino-Termin! 
+
+-----------------------------------------------------------------------------------
+
+## Vergangene Filmvorführungen im Kulturhaus-Kino
 
 ![](/img/Kino-Plakat-Juli-2018.jpg)
 
@@ -30,13 +36,6 @@ gewann er 2016 den Preis „Bester Film Non Professional“ beim Film Festival C
 sorgte auch international für Aufsehen: Er lief u.a. bei den Internationalen Filmfestspielen in Cannes, 
 dem Los Angeles CineFest, dem Human Rights Film Festival Barcelona, dem International Scandinavian Film Festival
 und dem Roma Cinema Doc. (Quelle: Pressetext newcomers.de)
-
-Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
-
------------------------------------------------------------------------------------
-
-## Vergangene Filmvorführungen im Kulturhaus-Kino
-
 ![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-1.jpg)
 
 Das Kulturhaus-Kino zeigt am 17. Mai um 19 Uhr den finnischen Spielfilm 
