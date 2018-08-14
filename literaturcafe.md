@@ -17,13 +17,13 @@ gegeben.
 
 
 
-**Am Sonntag, den 5.8.18 ab 16 Uhr, liest Dieter Wehrbrink**
+**Am Sonntag, den 2.9.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
 
-**"Christine Brückner: Am Wall 81" und andere Erzählungen**
+**Mark Twain - die schönsten Erzählungen**
 
 
-![](/img/august.jpg)
+![](/img/Mark-Twain.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
