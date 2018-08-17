@@ -320,8 +320,8 @@ Beginn
 :   Mittwoch, 5.9.18, von 17-20 Uhr
 
 Kursleitung
-:   Christian Richert  
-    [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
+:   Ulrich Gauerke
+    
 
 Beginn
 :   Donnerstag, 6.9.18, von 9-12 Uhr
@@ -329,13 +329,6 @@ Beginn
 Kursleitung
 :    
     Ulrich Gauerke
-
-Beginn
-:   Donnerstag, 6.9.18, von 15-18 Uhr
-
-Kursleitung
-:   Christian Richert  
-    [maha-richi.jimdo.com](http://maha-richi.jimdo.com)
 
 Kursgebühren
 :   150,- € für 15-18 Male je nach Gruppengröße
