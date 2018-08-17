@@ -6,5 +6,5 @@
 
 ![](/img/Handzettel Toepferschule_18-19.jpg)
 
-![](/img/Handzettel Kindergeburtstag_18-19.jpg)
+![](/img/Handzettel Kinderbgeburtstag_18-19.jpg)
 
