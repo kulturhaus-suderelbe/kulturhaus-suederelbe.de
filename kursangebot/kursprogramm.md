@@ -339,14 +339,15 @@ wird die bildhauerische Arbeitsweise mit Ton vermittelt, bei der vollplastisch a
 wird. Ebenfalls einfliessen können anatomische Grundlagen, die Auseinandersetzung mit Abstraktion und 
 künstlerische Oberflächengestaltung. In diesem Kurs wird nicht glasiert.
 
-![](img/IMG_5649edited.jpg)
+![](img/plastik.jpg)
 
-Beginn: Donnerstag, 6.9.18, von 15-18 Uhr
+Beginn 
+:   Donnerstag, 6.9.18, von 15-18 Uhr
 
 Kursleitung: Nushin Morid
 
-Kursgebühren:
-125,- für 15 Male
+Kursgebühre
+:   125,- für 15 Male
 
 
 # Mittwoch / Freitag
