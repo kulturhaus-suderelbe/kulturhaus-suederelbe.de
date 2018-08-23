@@ -1,3 +1,10 @@
 # Kinderkurse auf einen Blick
 
-![](/img/wsb_500x670_Kinderangebotepdf.pdf16.jpg)
+![](/img/Handzettel Malschule_2018-19.jpg)
+
+![](/img/Handzettel Tanzpiraten_2018-19.jpg)
+
+![](/img/Handzettel Toepferschule_18-19.jpg)
+
+![](/img/Handzettel Kinderbgeburtstag_18-19.jpg)
+
