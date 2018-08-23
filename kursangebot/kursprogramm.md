@@ -339,7 +339,7 @@ wird die bildhauerische Arbeitsweise mit Ton vermittelt, bei der vollplastisch a
 wird. Ebenfalls einfliessen können anatomische Grundlagen, die Auseinandersetzung mit Abstraktion und 
 künstlerische Oberflächengestaltung. In diesem Kurs wird nicht glasiert.
 
-![](img/plastik.jpg)
+![](/img/plastik.jpg)
 
 Beginn 
 :   Donnerstag, 6.9.18, von 15-18 Uhr
