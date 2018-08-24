@@ -331,7 +331,7 @@ Kursleitung
 Kursgebühren
 :   150,- € für 15-18 Male je nach Gruppengröße
 
-## Figürliche Plastik
+## Figürliche Tonplastik
 
 In diesem fortlaufenden Kurs dreht sich alles um die menschliche Gestalt. Unter der Anleitung von Nushin Morid, 
 freischaffende Künstlerin, entstehen hier Köpfe, Büsten und ganze Figuren. Anhand abwechselnder Themen
