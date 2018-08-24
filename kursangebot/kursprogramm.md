@@ -462,7 +462,7 @@ Stillleben und Fotovorlagen mit folgenden Materialien gearbeitet werden: Blei- u
 Pastellkreiden, Acryl, Aquarell, Gouache, Malen mit Pigmenten/Eitempera, Fineliner Feder und Tusche gearbeitet 
 werden.
 
-![](/img/nushin.jpg)
+![](/img/nushin.JPG)
 
 Beginn
 :   Donnerstag, 6.9.18, von 18.30-21.30 Uhr
