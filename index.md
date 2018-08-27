@@ -3,7 +3,6 @@ navigation:
   - kursangebot
   - literaturcafe
   - china time
-  - Movie Girls
   - Kulturhauskino
   - kindergeburtstage
   - Tanzcompagnie
@@ -12,6 +11,7 @@ navigation:
   - LittleBigBand
   - Partykunst
   - kulturtage
+  - puppentheater
   - suederelbe-archiv
   - tanztheater 
   - fortbildung
