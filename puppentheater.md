@@ -20,15 +20,20 @@ Voranmeldung für Gruppen erforderlich
 
 ## Programm /Termine 
 
-### Sonntag, 14. Oktober 2018 um 11 Uhr 
+### Kollin und der gestohlene Zauberstab
+Sonntag, 14. Oktober 2018 um 11 Uhr 
 
 ![](/img/Programm Oktober_18.jpg)
 
-### Sonntag, 4. November 2018 um 11 Uhr 
-:   „Kollin und der Nordpolkleber“
+### Kollin un der Nordpolkleber
+Sonntag, 4. November 2018 um 11 Uhr
+ 
+![](/img/Programm November_18.jpg)
 
-### Sonntag, 2. Dezember 2018 um 11 Uhr und 16 Uhr
-:   „Kollin und der Weihnachtsmann“
+### Kollin und der Weihnachtsmann
+Sonntag, 2. Dezember 2018 um 11 Uhr und 16 Uhr
+
+![](/img/Programm Dezember_18.jpg)
 
 
 [www.kollin-kläff.de](http://www.xn--kollin-klff-t8a.de)
