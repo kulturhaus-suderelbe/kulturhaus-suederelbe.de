@@ -280,7 +280,7 @@ Für Kinder ist die Abrechnung über das „Bildungspaket“ möglich.
 
 ## Kindermalschule
 
-Gabriele Wendland bietet in der Kindermalschule Kindern von 5-10 Jahren
+Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet in der Kindermalschule Kindern von 5-10 Jahren
 viel Spaß mit dem Medium Kunst.
 
 Verschiedene Maltechniken und Stilrichtungen werden mit vielen
@@ -292,9 +292,7 @@ Beginn
 : Mittwoch von 16.00-17.30 Uhr auf Anfrage
 
 Kursleitung
-:   Gabriele Wendland  
-    [www.gabriele-wendland.de](http://www.gabriele-wendland.de)
-
+:  Branimir Georgiev
 Kursgebühr
 :   75,- € für 15 Male
 
@@ -306,9 +304,9 @@ Die Abrechnung über das Bildungspaket ist möglich.
 
 ## Holzbildhauerei
 
-Zwei Künstler mit Spezialgebiet Holzbildhauerei unterrichten regelmäßig
-im Kulturhaus: Christian Richert und Ulrich Gauerke. Beide fördern ihre
-KursteilnehmerInnen individuell und unterstützen die eigenschöpferische
+Ein Künstler mit Spezialgebiet Holzbildhauerei unterrichtet regelmäßig
+im Kulturhaus:  Ulrich Gauerke. Er fördert seine
+KursteilnehmerInnen individuell und unterstützt die eigenschöpferische
 Entwicklung und Umsetzung in figürliche oder abstrakte Arbeiten.
 
 Eine Probestunde und ein späterer Einstieg sind möglich! Bitte im Büro
@@ -332,6 +330,24 @@ Kursleitung
 
 Kursgebühren
 :   150,- € für 15-18 Male je nach Gruppengröße
+
+## Figürliche Tonplastik
+
+In diesem fortlaufenden Kurs dreht sich alles um die menschliche Gestalt. Unter der Anleitung von Nushin Morid, 
+freischaffende Künstlerin, entstehen hier Köpfe, Büsten und ganze Figuren. Anhand abwechselnder Themen
+wird die bildhauerische Arbeitsweise mit Ton vermittelt, bei der vollplastisch aufgebaut und später ausgehöhlt 
+wird. Ebenfalls einfliessen können anatomische Grundlagen, die Auseinandersetzung mit Abstraktion und 
+künstlerische Oberflächengestaltung. In diesem Kurs wird nicht glasiert.
+
+![](/img/plastik.jpg)
+
+Beginn 
+:   Donnerstag, 6.9.18, von 15-18 Uhr
+
+Kursleitung: Nushin Morid
+
+Kursgebühre
+:   125,- für 15 Male
 
 
 # Mittwoch / Freitag
@@ -435,26 +451,27 @@ Kursgebühr
 :   125,- €
 
 
-## Acrylmalerei
+## Zeichnen und Malen
 
-Die Bandbreite des Kurses schließt sowohl naturalistisches als auch
-abstraktes Arbeiten mit ein, ebenso Techniken von Nass-in-Nass (wie beim
-Aquarellmalen) bis Impasto (wie beim Ölmalen). Kursleiter ist Branimir
-Georgiev, ein Künstler mit Bilderbuchlebenslauf. Er ist Kunstpädagoge,
-Maler, Zeichner, Grafiker und Mediengestalter, der bereits in seiner
-Heimat Bulgarien Auszeichnungen für seine Arbeiten erhalten hat.
+Ein Kurs für alle, die regelmäßig in einer festen Gruppe zeichnen und malen möchten. 
+In entspannter und anregender Atmosphäre begleitet die Künstlerin Nushin Morid Einsteiger und Fortgeschrittene 
+individuell durch den Kurs. Im Mittelpunkt steht die genaue Beobachtung und realistische Umsetzung als 
+Grundlage der klassischen Zeichnung und Malerei. Auch Bildkomposition, malerische und zeichnerische 
+Perspektive und räumliches Zeichnen mit Licht und Schatten werden im Kurs vermittelt. Es kann nach
+Stillleben und Fotovorlagen mit folgenden Materialien gearbeitet werden: Blei- und Buntstiften, Kohle, 
+Pastellkreiden, Acryl, Aquarell, Gouache, Malen mit Pigmenten/Eitempera, Fineliner Feder und Tusche gearbeitet 
+werden.
 
-![](/img/wsb_270x158_DSCN0025.JPG)
+![](/img/nushin.JPG)
 
 Beginn
 :   Donnerstag, 6.9.18, von 18.30-21.30 Uhr
 
 Kursleitung
-:   Branimir Georgiev  
-    [www.brageo.de](http://www.brageo.de)
+:  Nushin Morid (www.morid.de)
 
 Kursgebühr
-:   125,- €
+:   125,- € für 15 Male
 
 
 ## Tanzpiraten
