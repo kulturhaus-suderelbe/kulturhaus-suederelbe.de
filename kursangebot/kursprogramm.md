@@ -213,7 +213,7 @@ Kursleitung
 :   Teresa Werdier
 
 Kursgebühr
-:   80,- € für 15 Male exkl. Material
+:   85,- € für 15 Male exkl. Material
 
 Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
