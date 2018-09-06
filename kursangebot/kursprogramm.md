@@ -289,12 +289,12 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Mittwoch von 16.00-17.30 Uhr auf Anfrage
+: Mittwoch von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
 Kursgebühr
-:   75,- € für 15 Male
+:   80,- € für 15 Male
 
 Die Abrechnung über das Bildungspaket ist möglich.
 
