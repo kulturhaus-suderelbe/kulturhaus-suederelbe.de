@@ -23,7 +23,7 @@ gegeben.
 **Das Wunder von Bajkonur**
   von Heinz G. Konsalik
 
-![](/img/konsalik.jpg)
+![](/img/konsalikokt..jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
