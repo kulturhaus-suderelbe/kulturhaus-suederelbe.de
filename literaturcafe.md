@@ -17,7 +17,7 @@ gegeben.
 
 
 
-**Am Sonntag, den 7.1018 ab 16 Uhr, liest Dieter Wehrbrink**
+**Am Sonntag, den 7.10.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
 
 **Das Wunder von Bajkonur**
