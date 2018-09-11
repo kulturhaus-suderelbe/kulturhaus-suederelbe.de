@@ -17,13 +17,13 @@ gegeben.
 
 
 
-**Am Sonntag, den 2.9.18 ab 16 Uhr, liest Dieter Wehrbrink**
+**Am Sonntag, den 7.10.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
 
-**Mark Twain - die schönsten Erzählungen**
+**Das Wunder von Bajkonur**
+  von Heinz G. Konsalik
 
-
-![](/img/Mark-Twain.jpg)
+![](/img/konsalikokt..jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 

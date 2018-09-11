@@ -2,16 +2,6 @@
 
 ## Aktuelle Ausstellung
 
-Fotoausstellung des NABU
-
-Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präsentieren sich die Teilnehmer der Fotogruppe des NABU im Kulturhaus Süderelbe.
-
-Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen.
-
-![](/img/nabu.jpg) 
-
-## Nächste Ausstellung
-
 Treffpunkt OST-WEST
 
 Eine Ausstellung mit der Künstlergruppe der GDCK, der Gesellschaft für deutsch-chinesischen Kulturaustausch
@@ -30,7 +20,25 @@ Lu-Ping Tan-Storjohann, Antonia Torousis, Helga Tscheuschner, Gabriele Wendland,
 
 ![](/img/treffpunkt ost west bild.jpg)
 
+## Nächste Ausstellung
+
+Ausstellung von Kursteilnehmerarbeiten
+
+vom 1.10.18 bis zum 31.1.19
+
+
+
+
 # Vergangene Ausstellungen
+
+Fotoausstellung des NABU
+
+Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präsentieren sich die Teilnehmer der Fotogruppe des NABU im Kulturhaus Süderelbe.
+
+Die Ausstellung ist ab Mittwoch, den 6.6.18 werktags von 10-20 Uhr zu sehen.
+
+![](/img/nabu.jpg) 
+
 
 Dimitar Georgiev, "Umgebung und Detail" 28.3.-28.5.18  
 
