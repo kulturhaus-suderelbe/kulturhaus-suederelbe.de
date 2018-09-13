@@ -1,6 +1,8 @@
-# Klotzquintett: How high the moon – Swingjugend in Wilhelmsburg, Michaeliskirche Neugraben am 03. Nov. 18 um 19 Uhr, 
+# Klotzquintett: How high the moon – Swingjugend in Wilhelmsburg, Michaeliskirche Neugraben am 03. Nov. 18 um 19 Uhr 
 
-![](/img/Plakat KlotzQuintett.jpg)
+![](/img/KlotzQuintett.jpg)
+
+### Konzert und Lesung
 
 Während der Bombenkrieg 1943 über Hamburg tobt, zieht eine Jugendbande durch Wilhelmsburg und hört heimlich Jazz. 
 Sie nennen sich die Pfennigbande und ihr Erkennungszeichen ist ein Pfennig am Jackenaufschlag mit zerkratztem Hakenkreuz.
