@@ -4,6 +4,7 @@ navigation:
   - literaturcafe
   - china time
   - Kulturhauskino
+  - KlotzQuintett_18
   - kindergeburtstage
   - Tanzcompagnie
   - ausstellungen
