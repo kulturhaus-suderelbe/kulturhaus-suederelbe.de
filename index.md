@@ -3,6 +3,7 @@ navigation:
   - kursangebot 
   - literaturcafe
   - china time
+  - Movie Girls
   - kulturtage
   - Kulturhauskino
   - kirchberg_18
