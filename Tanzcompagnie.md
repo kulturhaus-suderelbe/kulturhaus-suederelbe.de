@@ -29,7 +29,7 @@ Modern -/Streetdance für Mädchen
 Donnerstag: "Tanzpiraten"  
 16:30 - 17:30 Uhr   
  
-## Infos: Wiebke Heinrich, 0176-62509967
+## Weitere Infos: Wiebke Heinrich, 0176-62509967
 
 
 -------------------------------------------------------------------------------
