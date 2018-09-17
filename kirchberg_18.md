@@ -29,4 +29,4 @@ Im Vorverkauf sind Karten im Kulturhaus Süderelbe, im FitHus (BGZ) und
 an der Theaterkasse Kähler (EKZ Neugraben) erhältlich.  
 Abendkasse: 14 €
 
-![](/img/wsb_192x64_Kulturtage2.jpg)
+![](/img/kulturtage-2018-logo.jpg)
