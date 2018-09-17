@@ -1,4 +1,4 @@
-# Tanzcompagnie Süderelbe - Tanztheaterprojekt "Monster", Aufführungen am 11. Okt. und am 25.Nov. 18
+# Tanzcompagnie Süderelbe - Tanztheaterprojekt "Monster", Aufführungen am 11. Okt. und am 25. Nov. 18
 
 ![](/img/monster_Auffuehrung_18.jpg)
 
