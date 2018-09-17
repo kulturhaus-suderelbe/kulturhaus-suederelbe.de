@@ -1,4 +1,4 @@
-# MOVIE Girls II - Kurzfilmworkshop für Mädchen 8.10. - 13.10.18
+# MOVIE GIRLS II - Kurzfilmworkshop für Mädchen 8.10. - 13.10.18
 
 ![](/img/moviegirls2.jpg)
 
