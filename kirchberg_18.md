@@ -1,27 +1,22 @@
-# Johannes Kirchberg: MEINE SEELE IST NOCH UNTERWEGS am 10. Nov. 17 um 19.30 Uhr
+# Johannes Kirchberg: TESTSIEGER – oder: was tut man nicht alles nicht,am 02.11.18 um 19.30 Uhr 
 
-## Ein WOLFGANG BORCHERT Programm
+![](/img/Kirchberg_Testsieger_2.jpg)
+
+Wie schneiden Sie eigentlich bei ihrem persönlichen Lebenstest ab? Wie viele Sterne haben
+Sie sich verdient? Wie viele Treuepunkte sind Sie wert? Unsere Anschaffungen sind vom Besten.
+Vom Feinsten. TESTSIEGER eben. Der Fernseher, die Instrumente, die Kaffeemaschinen, Kondome, die Autos,
+selbst die Frau (oder auch der Mann) ist ein Testsieger. Auch die Kinder sind vom Testsieger. Zumindest die
+eigenen. Aber ist denn das Beste auch immer das Beste? Oder der Beste? Ist gut immer gut oder
+manchmal nur geht so? Ist das Ding mit Macken nicht meistens auch das Ding, das uns am meisten am Herzen liegt?
+
+Wir vergleichen: Äpfel mit Birnen, Frauen mit Männern, oben mit unten, Lieder mit Texten
+und heute mit gestern. Was tut man nicht alles nicht.
+
+In Kirchbergs neuem Programm treten Lieder gegeneinander an. Neue, alte, schöne, kurze,
+lustige, listige. Das Publikum entscheidet, welches Lied weiterkommt. Und am Ende gibt es den TESTSIEGER.
 
 
-![](/img/Kirchberg-Meine-Seele-Plakatmotiv.jpg)
-
-Verliebt ins Leben, in die Liebe, in die Elbe, schrieb Wolfgang Borchert einige der anrührendsten
-Gedichte über das Meer, die Sehnsucht und seine Heimatstadt Hamburg. Aber
-auch Texte über Krieg, Verlust und Heimatlosigkeit. Der Wahlhamburger Johannes Kirchberg
-entdeckt diese Gedichte für sich und verleiht ihnen durch seine Musik einen ganz
-besonderen Klang.
-
-Die an das klassische Chanson angelehnten Interpretationen Kirchbergs und
-Auszüge aus Briefen und Erzählungen zeigen Borchert in diesem intensiven Bühnenprogramm
-als einen Suchenden, vom Krieg gezeichneten und dennoch humorvollen Menschen.
-Mit Charme, Leichtigkeit und Liebe zum Detail erzählt Kirchberg von Borcherts
-Verhältnis zur Musik, zu seinen Eltern und von seinen Liebeleien. Borchert als Stimme der
-deutschen Nachkriegsliteratur kommt ebenso zu Wort, wie Borchert als genauer Beobachter
-des scheinbar Banalen.
-Der distanzlose Verfasser zeitloser Lyrik bekommt durch Johannes Kirchberg eine Stimme.
-‚Meine Seele ist noch unterwegs‘ ist eine Verbeugung vor dem Dichter.
-
-[www.johannes-kirchberg.de](http://www.johannes-kirchberg.de/meine-seele-ist-noch-unterwegs/)
+[www.johannes-kirchberg.de](http://www.johannes-kirchberg.de)
 
 **Kulturhaus Süderelbe e.V.**  
 Am Johannisland 2  
@@ -33,6 +28,5 @@ Email: info@kulturhaus-suederelbe.de
 Im Vorverkauf sind Karten im Kulturhaus Süderelbe, im FitHus (BGZ) und
 an der Theaterkasse Kähler (EKZ Neugraben) erhältlich.  
 Abendkasse: 14 €
-
 
 ![](/img/wsb_192x64_Kulturtage2.jpg)
