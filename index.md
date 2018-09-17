@@ -1,10 +1,11 @@
 ---
 navigation:
-  - kursangebot
+  - kursangebot 
   - literaturcafe
   - china time
+  - kulturtage
   - Kulturhauskino
-  - Kirchberg_18
+  - kirchberg_18
   - KlotzQuintett_18
   - kindergeburtstage
   - Tanzcompagnie
@@ -12,7 +13,6 @@ navigation:
   - ChanceTanz
   - LittleBigBand
   - Partykunst
-  - kulturtage
   - puppentheater
   - suederelbe-archiv
   - tanztheater 
