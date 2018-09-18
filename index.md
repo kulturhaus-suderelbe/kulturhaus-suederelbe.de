@@ -4,15 +4,14 @@ navigation:
   - kindergeburtstage
   - literaturcafe
   - ausstellungen
+  - veranstaltungen
   - china time
   - ChanceTanz II
   - ChanceTanz
   - Tanzcompagnie
   - Movie Girls
   - kulturtage
-  - Kulturhauskino
-  - kirchberg_18
-  - KlotzQuintett_18  
+  - Kulturhauskino  
   - LittleBigBand
   - Partykunst
   - puppentheater
