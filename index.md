@@ -5,10 +5,8 @@ navigation:
   - literaturcafe
   - ausstellungen
   - veranstaltungen
-  - china time
-  - ChanceTanz II
-  - ChanceTanz
   - Tanzcompagnie
+  - Projekt Monster
   - Movie Girls
   - kulturtage
   - Kulturhauskino  
