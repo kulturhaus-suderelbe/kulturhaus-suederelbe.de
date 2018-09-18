@@ -1,3 +1,8 @@
+# Tanzcompagnie Süderelbe - Hip Hop, Breakdance, Modern-/Streetdance
+
+
+
+
 # Tanzcompagnie Süderelbe - Tanztraining für Mädchen und Jungen von 6 - 16 J. 
 
 ![](/img/Logo_Tanz_Compagnie_Final.jpg)
@@ -32,8 +37,9 @@ Donnerstag: "Tanzpiraten"
 ## Weitere Infos: Wiebke Heinrich, 0176-62509967
 
 
--------------------------------------------------------------------------------
-## Vergangene Aufführungen der Tanzcompagnie Süderelbe: 
+
+
+# Vergangene Aufführungen der Tanzcompagnie Süderelbe: 
  
 ## Schule Ohrnsweg am 05. Nov. 2017 
 
