@@ -4,7 +4,11 @@ Hier finden Sie demnächst Informationen über den nächsten Kino-Termin!
 
 -------------------------------------------------------------------------------
 
-## vergangene Filmaufführungen: 
+
+
+
+
+# Newcomers   
 
 ![](/img/Kino-Plakat-Juli-2018.jpg)
 
