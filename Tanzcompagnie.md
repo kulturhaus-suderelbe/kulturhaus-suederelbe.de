@@ -7,15 +7,7 @@
 
 ![](/img/Logo_Tanz_Compagnie_Final.jpg)
 
-Die Tanzcompagnie Süderelbe wurde auf Initiative des Kulturhauses Süderelbe und der Tanzpädagogin Wiebke Heinrich 
-im März 2016 gegründet. Hier haben besonders tanzbegeisterte Kinder die Möglichkeit kostenlos an wöchentlich stattfindenden 
-Trainingsstunden teilzunehmen. Ziel ist die regelmäßige Kreation von Tanztheaterstücken, in denen sie ihre Interessen 
-und Ideen verwirklichen können. Zusätzlich erstellen die Kinder mit professionellen Künstlern ihre Kostüme und arbeiten 
-am Bühnenbild. Wöchentliches Training in unterschiedlichen Tanzstilen und das Erlernen von Choreografien, in der Gruppe
-und allein, dienen den Kindern als Möglichkeit sich auszudrücken, Frustration und Spannungen abzubauen und dem Erlernen
-von Zusammenhalt und Toleranz gegenüber anderen. Zusätzlich fördert ein Kostüm- und Bühnenbild-Workshop Konzentration, 
-Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerhalb eines Theaterstücks,
-das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
+
 
 ![](/img/2_rs_flyer_kulturhaus_tanztraining_a6_print.jpg)
 
@@ -32,9 +24,21 @@ Modern -/Streetdance für Mädchen
 16-17 Uhr ab 6 Jahre, 17-18 Uhr ab 9 Jahre  
       
 Donnerstag: "Tanzpiraten"  
-16:30 - 17:30 Uhr   
+16:30 - 17:30 Uhr  
  
-## Weitere Infos: Wiebke Heinrich, 0176-62509967
+Die Tanzcompagnie Süderelbe wurde auf Initiative des Kulturhauses Süderelbe und der Tanzpädagogin Wiebke Heinrich 
+im März 2016 gegründet. Hier haben besonders tanzbegeisterte Kinder die Möglichkeit kostenlos an wöchentlich stattfindenden 
+Trainingsstunden teilzunehmen. Ziel ist die regelmäßige Kreation von Tanztheaterstücken, in denen sie ihre Interessen 
+und Ideen verwirklichen können. Zusätzlich erstellen die Kinder mit professionellen Künstlern ihre Kostüme und arbeiten 
+am Bühnenbild. Wöchentliches Training in unterschiedlichen Tanzstilen und das Erlernen von Choreografien, in der Gruppe
+und allein, dienen den Kindern als Möglichkeit sich auszudrücken, Frustration und Spannungen abzubauen und dem Erlernen
+von Zusammenhalt und Toleranz gegenüber anderen. Zusätzlich fördert ein Kostüm- und Bühnenbild-Workshop Konzentration, 
+Geduld und Handfertigkeit. Alles wird zusammengefügt zu einer Geschichte innerhalb eines Theaterstücks,
+das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
+
+### Weitere Infos: Wiebke Heinrich, 0176-62509967
+
+![](/img/Logo_Tanz_Compagnie_Final.jpg)
 
 
 
