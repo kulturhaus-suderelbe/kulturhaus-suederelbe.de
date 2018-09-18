@@ -7,8 +7,12 @@ Hier finden Sie demnächst Informationen über den nächsten Kino-Termin!
 
 
 
+# Vergangene Filmaufführungen im Kulturhaus-Kino
 
-# Newcomers   
+
+
+
+# Newcomers am 4. Juli 2018
 
 ![](/img/Kino-Plakat-Juli-2018.jpg)
 
@@ -41,7 +45,11 @@ sorgte auch international für Aufsehen: Er lief u.a. bei den Internationalen Fi
 dem Los Angeles CineFest, dem Human Rights Film Festival Barcelona, dem International Scandinavian Film Festival
 und dem Roma Cinema Doc. (Quelle: Pressetext newcomers.de)
 
---------------------------------------------------------------------------------
+
+
+
+# Der glücklichste Tag im Leben des Olli Mäki am 17. Mai 2018
+
 ![](/img/KHK-17_04_18-Infoscreen-OlliMaeki-1.jpg)
 
 Das Kulturhaus-Kino zeigt am 17. Mai um 19 Uhr den finnischen Spielfilm 
@@ -69,7 +77,10 @@ Finnlands Oscar-Beitrag 2017 (Kategorie Bester fremdsprachiger Film)
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds
 
- ---------------------------------------------------------------------------------
+
+
+
+# Gegen die Wand am 01. März 2018
 
 ![](/img/KHK-01_03_18-Infoscreen_6.jpg)
 
@@ -93,6 +104,11 @@ Das führt zu Problemen, denn plötzlich ist Cahit eifersüchtig auf Sibels Bett
 ![](/img/KHK-01_03_18-Infoscreen_2.jpg)
 
 Das Kulturhaus-Kino wird gefördert durch den Hamburger Integrationsfonds 
+
+
+
+
+# Raving Iran am 25. Jan. 2018
 
 ![](/img/KHK-25_01_18-Infoscreen4.jpg)
 
