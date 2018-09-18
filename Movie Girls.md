@@ -19,9 +19,10 @@ Anmeldungen unter 0157-37713047 (Nina Becker) oder moviegirls@gmx.de.
 Hier der Link zum Sommerworkshop-Film (s. MOVIE GIRLS I):
 [Coco Chanel Movie Girls](http://vimeo.com/288323542)
 
-________________________________________________________________________
 
-## MOVIE GIRLS I  - ein Kurzfilmworkshop für Mädchen v. 23.7. bis 28.7.18
+
+
+# MOVIE GIRLS I  - ein Kurzfilmworkshop für Mädchen v. 23.7. bis 28.7.18
 
 ![](/img/Movie-Girls-Plakat.jpg)
 
