@@ -64,4 +64,7 @@ Mail: info@kulturhaus-suederelbe.de
   
 [Infos zu Veranstaltungen Harburger Gedenktage 2018](http://gedenken-in-harburg.de/start/veranstaltungen/veranstaltungsdetails/event/harburger-gedenktage-2018/)
 
-![](/img/kulturtage-2018-logo.jpg)
+
+
+
+# ![](/img/kulturtage-2018-logo.jpg)
