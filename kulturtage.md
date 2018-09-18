@@ -19,10 +19,10 @@ Das Programmheft liegt an vielen Orten aus oder es kann im Kulturhaus angeforder
 
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
 
-___________________________________________________________________________________________________
 
 
-## Hier finden Sie Informationen zu den Kulturtagen in 2017 
+
+# Hier finden Sie Informationen zu den Kulturtagen in 2017 
 
 ![](/img/kulturtage-suederelbe-2017-visual-Internet.jpg)
 
