@@ -38,8 +38,6 @@ das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
 
 ### Weitere Infos: Wiebke Heinrich, 0176-62509967
 
-![](/img/Logo_Tanz_Compagnie_Final.jpg)
-
 
 
 
@@ -50,4 +48,6 @@ das im Stadtteil und in der Hamburger Innenstadt aufgeführt wird.
 ![](/img/Tanzcompagnie_plakat.jpg)
 
 Die Tanzcompagnie Süderelbe wird gefördert durch den Hamburger Integrationsfonds.
+
+![](/img/Logo_Tanz_Compagnie_Final.jpg)
 
