@@ -4,7 +4,7 @@
 
 In den von Maya Raue selbstgeschriebenen Puppentheater-Geschichten geht
 es um Freundschaft, Mut und Hilfsbereitschaft. Kollin Kläff, ihre
-Hauptfigur, erlebt in jeder Geschichte ein 40 minütiges Abenteuer. Schon
+Hauptfigur, erlebt in jeder Geschichte ein 40-minütiges Abenteuer. Schon
 die Kleinsten finden sich zurecht und werden zu Verbündeten. Mit Herz
 und Humor bezieht Maya Raue die Kinder mit in die Geschichte ein.
 
@@ -18,24 +18,39 @@ Für Menschen von 2 bis 99 Jahren.
 Dauer ca. 40 Min.  
 Voranmeldung für Gruppen erforderlich
 
-## Programm /Termine 
+[www.kollin-kläff.de](http://www.xn--kollin-klff-t8a.de)
 
-### Kollin und der gestohlene Zauberstab
+[Kollin Kläff auf YouTube](https://www.youtube.com/watch?v=sUu6ZtIaJ5Y)
+
+
+
+
+# Programm /Termine Okt. - Dez. 2018
+
+
+
+
+# Kollin und der gestohlene Zauberstab
 Sonntag, 14. Oktober 2018 um 11 Uhr 
 
 ![](/img/Programm Oktober_18.jpg)
 
-### Kollin un der Nordpolkleber
+
+
+
+# Kollin un der Nordpolkleber
 Sonntag, 4. November 2018 um 11 Uhr
  
 ![](/img/Programm November_18.jpg)
 
-### Kollin und der Weihnachtsmann
+
+
+
+# Kollin und der Weihnachtsmann
 Sonntag, 2. Dezember 2018 um 11 Uhr und 16 Uhr
 
 ![](/img/Programm Dezember_18.jpg)
 
 
-[www.kollin-kläff.de](http://www.xn--kollin-klff-t8a.de)
 
-[Kollin Kläff auf YouTube](https://www.youtube.com/watch?v=sUu6ZtIaJ5Y)
+

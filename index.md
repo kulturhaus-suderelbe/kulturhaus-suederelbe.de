@@ -1,16 +1,17 @@
 ---
 navigation:
   - kursangebot
-  - literaturcafe
-  - china time
-  - Kulturhauskino
   - kindergeburtstage
-  - Tanzcompagnie
+  - literaturcafe
   - ausstellungen
-  - ChanceTanz
+  - veranstaltungen
+  - Tanzcompagnie
+  - Projekt Monster
+  - Movie Girls
+  - kulturtage
+  - Kulturhauskino  
   - LittleBigBand
   - Partykunst
-  - kulturtage
   - puppentheater
   - suederelbe-archiv
   - tanztheater 
