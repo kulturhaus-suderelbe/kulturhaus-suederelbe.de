@@ -1,6 +1,6 @@
 # Kinderkurse auf einen Blick
 
-![](/img/Handzettel Malschule_2018-19.jpg)
+![](/img/Handzettel Malschule_18.jpg)
 
 ![](/img/Handzettel Tanzpiraten_2018-19.jpg)
 
