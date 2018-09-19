@@ -503,13 +503,10 @@ Abrechnung über das Bildungspaket möglich!
 
 ## Arbeiten mit Wasserfarben
  
- Freitags von 10.00-13.00 Uhr
+Freitags von 10.00-13.00 Uhr
 
-![](img/_4443.jpg)
-    
-Kursleitung
-:    Angelika Holzmann
-
+![](img/IMG_4443.jpg)
+   
 Die Arbeit mit Wasserfarben schließt Aquarell genauso wie Tusche mit ein.
 Angelika Holzmann, Fachfrau für diese Art von künstlerischer Arbeit 
 und vieles mehr, betreut ihre KursteilnehmerInnen individuell und ist ihnen sehr zugewandt.
@@ -521,6 +518,8 @@ hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
 Beginn:
 
 Freitag, 7.9.18
+
+Kursleitung: Angelika Holzmann
 
 
 ## Feldenkrais / VHS-Kurs
