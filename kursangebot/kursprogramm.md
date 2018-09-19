@@ -499,15 +499,13 @@ Kursgebühr
 
 Abrechnung über das Bildungspaket möglich!
 
-
 # Freitag
 
 ## Arbeiten mit Wasserfarben
  
- 
-Freitags von 10.00-13.00 Uhr
+ Freitags von 10.00-13.00 Uhr
 
-![](img/img_4443.jpg)
+![](img/_4443.jpg)
     
 Kursleitung
 :    Angelika Holzmann
@@ -523,9 +521,6 @@ hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
 Beginn:
 
 Freitag, 7.9.18
-
-
-
 
 
 ## Feldenkrais / VHS-Kurs
