@@ -506,19 +506,19 @@ Abrechnung über das Bildungspaket möglich!
  
  
 Freitags von 10.00-13.00 Uhr
+
 ![](img/img_4443.jpg)
     
 Kursleitung
 :    Angelika Holzmann
 
 Die Arbeit mit Wasserfarben schließt Aquarell genauso wie Tusche mit ein.
-Angelika Holzmann,Fachfrau für diese Art von künstlerischer Arbeit 
+Angelika Holzmann, Fachfrau für diese Art von künstlerischer Arbeit 
 und vieles mehr, betreut ihre KursteilnehmerInnen individuell und ist ihnen sehr zugewandt.
 Die Themen sind so vielfältig wie der Geschmack der Leute selbst. 
 Jede Art von Motiv ist recht, Hauptsache, im Lauf der Zeit wird ein eigener Stil entwickelt.
 In angenehmer Atmosphäre und stressfrei können Menschen unterschiedlichen Alters 
 hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
-IMG_4443.jpg)
 
 Beginn:
 
