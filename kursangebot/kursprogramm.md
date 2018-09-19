@@ -503,8 +503,11 @@ Abrechnung über das Bildungspaket möglich!
 # Freitag
 
 ## Arbeiten mit Wasserfarben
-
-    Freitags von 10.00-13.00 Uhr
+ 
+ 
+Freitags von 10.00-13.00 Uhr
+![](img/img_4443.jpg)
+    
 Kursleitung
 :    Angelika Holzmann
 
