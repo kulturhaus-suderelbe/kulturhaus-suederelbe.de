@@ -39,3 +39,10 @@ Kontakt
 
 Quelle: Programmflyer 2013 Striepensaal
 
+
+**Lesung während der Kulturtage Süderelbe
+
+**Sommer in Lesmona von Marga Berck
+
+![](/img/Berck.JPG)
+
