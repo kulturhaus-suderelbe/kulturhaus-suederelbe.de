@@ -39,3 +39,21 @@ Kontakt
 
 Quelle: Programmflyer 2013 Striepensaal
 
+
+
+**Lesung während der Kulturtage Süderelbe**
+
+**Sommer in Lesmona von Marga Berck**
+
+**Am Donnerstag, den 25.10.18, um 19 Uhr**
+
+![](/img/Lesung kulturtage.JPG)
+
+Ein fesselnder und poetischer Roman in Briefen
+gelesen von Dörte Ellerbrock und Dieter Wehrbrink
+während der Kulturtage Süderelbe 
+im Kulturhaus Süderelbe,
+Am Johannisland 2, 21147 Hamburg
+
+
+
