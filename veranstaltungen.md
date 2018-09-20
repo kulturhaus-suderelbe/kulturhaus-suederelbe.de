@@ -30,7 +30,7 @@ Tel.: 040-7967222
 Email: info@kulturhaus-suederelbe.de  
 
 **Eintritt: 12 €**  
-Im Vorverkauf sind Karten im Kulturhaus Süderelbe, im FitHus (BGZ) und
+Im Vorverkauf !ab 26. Sept. 18! sind Karten im Kulturhaus Süderelbe, im FitHus (BGZ) und
 an der Theaterkasse Kähler (EKZ Neugraben) erhältlich.  
 Abendkasse: 14 €
 
