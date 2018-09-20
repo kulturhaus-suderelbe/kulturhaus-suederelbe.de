@@ -40,9 +40,9 @@ Kontakt
 Quelle: Programmflyer 2013 Striepensaal
 
 
-**Lesung während der Kulturtage Süderelbe
+**Lesung während der Kulturtage Süderelbe**
 
-**Sommer in Lesmona von Marga Berck
+**Sommer in Lesmona von Marga Berck**
 
 Ein fesselnder und poetischer Roman in Briefen
 
@@ -52,7 +52,7 @@ während der Kulturtage Süderelbe im Kulturhaus Süderelbe,
 
 Am Johannisland 2, 21147 Hamburg
 
-**Am Donnerstag, den 25.10.18, um 19 Uhr
+**Am Donnerstag, den 25.10.18, um 19 Uhr**
 
 ![](/img/Berck.JPG)
 
