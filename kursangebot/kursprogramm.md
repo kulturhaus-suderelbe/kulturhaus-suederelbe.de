@@ -391,7 +391,7 @@ gezeichnet, gemalt und mit Pastellkreiden gearbeitet. Der Kurs hat
 TeilnehmerInnen ab 10 Jahren, die mit allen anderen Altersgruppen ein
 Superteam bilden!
 
-![](/img/wsb_151x125_Fr$C3$BChlingsfest_2007+023.jpg)
+![](/img/elster.jpg)
 
 Beginn
 :  Donnerstag, 6.9.18, von 15-18 Uhr
