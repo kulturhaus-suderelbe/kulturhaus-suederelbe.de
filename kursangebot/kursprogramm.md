@@ -505,7 +505,7 @@ Abrechnung über das Bildungspaket möglich!
  
 Freitags von 10.00-13.00 Uhr
 
-![](img/IMG_4443.jpg)
+![](/img/frosch.jpg)
    
 Die Arbeit mit Wasserfarben schließt Aquarell genauso wie Tusche mit ein.
 Angelika Holzmann, Fachfrau für diese Art von künstlerischer Arbeit 
