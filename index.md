@@ -1,7 +1,6 @@
 ---
 navigation:
   - kursangebot
-  - kindergeburtstage
   - literaturcafe
   - ausstellungen
   - veranstaltungen

@@ -1,10 +1,21 @@
-# Kulturhaus-Kino: Nächste Aufführung in Oktober 18
+# Kulturhaus-Kino 
 
-Hier finden Sie demnächst Informationen über den nächsten Kino-Termin! 
+## Ein schöner Filmklassiker über Liebe und Flucht
+  
+### Am 11. Oktober 2018 um 19 Uhr 
 
--------------------------------------------------------------------------------
+![](/img/Kulturhaus-Kino_111018.jpg) 
+
+USA 1942  
+Regie: Michael Curtiz  
+FSK: 6 J.
+
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
 
 
+ 
 
 
 # Vergangene Filmaufführungen im Kulturhaus-Kino
