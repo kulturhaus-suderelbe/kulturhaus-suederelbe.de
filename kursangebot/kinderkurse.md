@@ -1,4 +1,4 @@
-# Angebote für Kinder: Kurse und Veranstaltungen
+# Angebote für Kinder: Kurse, Gruppen, Veranstaltungen
 
 
 
