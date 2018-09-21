@@ -210,7 +210,7 @@ Beginn
 :   Dienstag, 4.9.18, von 16.30-18.00 Uhr
 
 Kursleitung
-:   Teresa Werdier
+:   Nushin Morid
 
 Kursgebühr
 :   85,- € für 15 Male exkl. Material
@@ -330,24 +330,6 @@ Kursleitung
 
 Kursgebühren
 :   150,- € für 15-18 Male je nach Gruppengröße
-
-## Figürliche Tonplastik
-
-In diesem fortlaufenden Kurs dreht sich alles um die menschliche Gestalt. Unter der Anleitung von Nushin Morid, 
-freischaffende Künstlerin, entstehen hier Köpfe, Büsten und ganze Figuren. Anhand abwechselnder Themen
-wird die bildhauerische Arbeitsweise mit Ton vermittelt, bei der vollplastisch aufgebaut und später ausgehöhlt 
-wird. Ebenfalls einfliessen können anatomische Grundlagen, die Auseinandersetzung mit Abstraktion und 
-künstlerische Oberflächengestaltung. In diesem Kurs wird nicht glasiert.
-
-![](/img/plastik.jpg)
-
-Beginn 
-:   Donnerstag, 6.9.18, von 15-18 Uhr
-
-Kursleitung: Nushin Morid
-
-Kursgebühre
-:   125,- für 15 Male
 
 
 # Mittwoch / Freitag
