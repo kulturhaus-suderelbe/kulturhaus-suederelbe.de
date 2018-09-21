@@ -1,8 +1,9 @@
-# Kulturhaus-Kino: Nächste Aufführung in Oktober 18
+# Kulturhaus-Kino 
 
-Hier finden Sie demnächst Informationen über den nächsten Kino-Termin! 
+![](/img/Kulturhaus-Kino_111018.jpg) 
 
--------------------------------------------------------------------------------
+
+
 
 
 
