@@ -1,8 +1,14 @@
 # Kulturhaus-Kino 
 
+## Ein schöner Filmklassiker über Liebe und Flucht
+  
+### Am 11. Oktober 2018 um 19 Uhr 
+
 ![](/img/Kulturhaus-Kino_111018.jpg) 
 
-
+USA 1942
+Regie: Michael Curtiz
+FSK: 6 J. 
 
 
 
