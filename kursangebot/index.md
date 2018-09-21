@@ -1,8 +1,8 @@
 ---
 navigation:
   - kursprogramm
-  - kursanmeldung
   - kinderkurse
+  - kursanmeldung
 ---
 
 # Kursangebot
