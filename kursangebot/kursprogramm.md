@@ -391,7 +391,7 @@ gezeichnet, gemalt und mit Pastellkreiden gearbeitet. Der Kurs hat
 TeilnehmerInnen ab 10 Jahren, die mit allen anderen Altersgruppen ein
 Superteam bilden!
 
-![](/img/elster.jpg)
+![](/img/wsb_151x125_Fr$C3$BChlingsfest_2007+023.jpg)
 
 Beginn
 :  Donnerstag, 6.9.18, von 15-18 Uhr
@@ -499,27 +499,30 @@ Kursgebühr
 
 Abrechnung über das Bildungspaket möglich!
 
+
 # Freitag
 
 ## Arbeiten mit Wasserfarben
- 
-Freitags von 10.00-13.00 Uhr
 
-![](/img/frosch.jpg)
-   
+    Freitags von 10.00-13.00 Uhr
+Kursleitung
+:    Angelika Holzmann
+
 Die Arbeit mit Wasserfarben schließt Aquarell genauso wie Tusche mit ein.
-Angelika Holzmann, Fachfrau für diese Art von künstlerischer Arbeit 
+Angelika Holzmann,Fachfrau für diese Art von künstlerischer Arbeit 
 und vieles mehr, betreut ihre KursteilnehmerInnen individuell und ist ihnen sehr zugewandt.
 Die Themen sind so vielfältig wie der Geschmack der Leute selbst. 
 Jede Art von Motiv ist recht, Hauptsache, im Lauf der Zeit wird ein eigener Stil entwickelt.
 In angenehmer Atmosphäre und stressfrei können Menschen unterschiedlichen Alters 
 hier ihre Auszeit nehmen. Gönnen Sie sich ihre Zeit für sich!
+IMG_4443.jpg)
 
 Beginn:
 
 Freitag, 7.9.18
 
-Kursleitung: Angelika Holzmann
+
+
 
 
 ## Feldenkrais / VHS-Kurs
