@@ -47,7 +47,7 @@ Quelle: Programmflyer 2013 Striepensaal
 
 **Am Donnerstag, den 25.10.18, um 19 Uhr**
 
-![](/img/Lesung kulturtage.JPG)
+![](/img/Lesung kulturtage.jpg)
 
 Ein fesselnder und poetischer Roman in Briefen
 gelesen von Dörte Ellerbrock und Dieter Wehrbrink
