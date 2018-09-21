@@ -6,12 +6,16 @@
 
 ![](/img/Kulturhaus-Kino_111018.jpg) 
 
-USA 1942
-Regie: Michael Curtiz
-FSK: 6 J. 
+USA 1942  
+Regie: Michael Curtiz  
+FSK: 6 J.
+
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
 
 
-
+ 
 
 
 # Vergangene Filmaufführungen im Kulturhaus-Kino
