@@ -4,16 +4,15 @@ navigation:
   - literaturcafe
   - ausstellungen
   - veranstaltungen
-  - Tanzcompagnie
   - Projekt Monster
   - Movie Girls
   - kulturtage
-  - Kulturhauskino  
+  - Kulturhauskino
   - LittleBigBand
   - Partykunst
   - puppentheater
   - suederelbe-archiv
-  - tanztheater 
+  - tanztheater
   - fortbildung
   - Willkommen
   - gefluechtete
@@ -25,7 +24,7 @@ navigation:
   - bgz
   - Impressum
   - Datenschutz
-  - archiv 
+  - archiv
 ---
 
 # Wir über uns
