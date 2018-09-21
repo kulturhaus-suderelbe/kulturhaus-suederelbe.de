@@ -37,7 +37,7 @@ Abendkasse: 14 €
 
 
 
-# Klotzquintett: How high the moon – Swingjugend in Wilhelmsburg, Michaeliskirche Neugraben am 3. Nov. 18 um 19 Uhr 
+# Klotzquintett: How high the moon – Swingjugend in Wilhelmsburg am 3. Nov. 18 um 19 Uhr 
 
 ![](/img/KlotzQuintett.jpg)
 
