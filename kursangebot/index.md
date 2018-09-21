@@ -3,6 +3,8 @@ navigation:
   - kursprogramm
   - kursanmeldung
   - kinderkurse
+  - Projekt Monster
+  - Tanzcompagnie
 ---
 
 # Kursangebot
