@@ -1,6 +1,6 @@
 # Rapunzel, Weihnachtsmärchen am 20. Nov. um 9.30 und um 11 Uhr 
 
-![](/img/Rapunzel.jpg)
+![](/img/Sterntaler.jpg)
 
 ### Präsentiert von der Puppenbühne "Die Sterntaler" 
 
