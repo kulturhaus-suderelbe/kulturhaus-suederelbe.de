@@ -1,11 +1,11 @@
 ---
 navigation:
   - kursprogramm
-  - kursanmeldung
   - kinderkurse
+  - kursanmeldung
 ---
 
-# Kursangebot
+# Programmangebot: Kurse und Gruppen
 
 ## 1980 - 2018: 38 Jahre Kulturhaus Süderelbe e.V.
 

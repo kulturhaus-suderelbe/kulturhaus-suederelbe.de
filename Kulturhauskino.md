@@ -1,8 +1,11 @@
 # Kulturhaus-Kino 
 
-## Ein schöner Filmklassiker über Liebe und Flucht
-  
-### Am 11. Oktober 2018 um 19 Uhr 
+![](/img/KHKino-Logo4.jpg)
+
+
+
+
+# Ein Filmklassiker über Liebe und Flucht am 11. Oktober 2018 um 19 Uhr 
 
 ![](/img/Kulturhaus-Kino_111018.jpg) 
 

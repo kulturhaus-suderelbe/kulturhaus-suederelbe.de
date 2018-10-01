@@ -5,8 +5,8 @@
 {%- if p.navigation -%}
 {%- assign navigation = p.navigation -%}
 {%- else -%}
-
 {%- assign navigation = "" | split: "/" -%}
+{%- endif -%}
 
 {%- for q in site.pages -%}
 {%- assign name = q.name | remove: ".md" -%}
@@ -33,8 +33,8 @@
 {%- endif -%}
 
 {%- endfor -%}
+{%- assign navigation = navigation | uniq -%}
 
-{%- endif -%}
 {%- endif -%}
 {%- endfor -%}
 

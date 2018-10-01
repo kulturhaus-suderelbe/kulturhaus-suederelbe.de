@@ -1,14 +1,13 @@
-# Angebote für Kinder: Kurse und Veranstaltungen
+# Angebote für Kinder: Kurse und Gruppen
 
 
 # Kurse 
 
 ![](/img/Handzettel Malschule_18.jpg)
 
+![](/img/Handzettel Tanzpiraten_18.jpg)
+
 ![](/img/Handzettel Toepferschule_18-19.jpg)
-
-![](/img/Handzettel Tanzpiraten_2018-19.jpg)
-
 
 # Kindergeburtstage
 
