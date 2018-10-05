@@ -65,7 +65,6 @@ Beginn
 :   Freitag, 7.9.18, von 17-20 Uhr
 :   Montag, 3.9.18, von 15-18 Uhr
 
-
 Kursleitung
 :   Dörte Ellerbrock
 
@@ -215,7 +214,6 @@ Grafiker und Mediengestalter. Er hat in seiner Heimat Bulgarien mehrere Auszeich
 Die Gruppe sucht neue Teilnehmer*innen!
 
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
-
   
 Beginn
 :   18.10.2018 
@@ -483,7 +481,7 @@ Die Abrechnung über das Bildungspaket ist möglich.
 
 
 
-## Tanzpiraten, Donnerstag 
+# Tanzpiraten, Donnerstag 
 
 Wiebke Heinrich, Tanzpädagogin mit viel Erfahrung mit Kids - auch in
 Schulen - setzt den Bewegungsdrang der Kinder in Rhythmusgefühl und
