@@ -23,6 +23,7 @@ Mehr Infos finden Sie hier:
 
 
 
+
 ## Ölmalerei, Montag von 10-13 Uhr 
 
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
@@ -43,6 +44,8 @@ Kursleitung
 
 Kursgebühr
 : 125,- € 
+
+
 
 
 
@@ -72,6 +75,7 @@ Kursgebühr
 
 
 
+
 ## Malerei-Techniken, Dienstag von 10-13 Uhr 
 
 Aquarell, Acryl, Kreiden... Gabriele Wendland, freiberufliche Künstlerin aus
@@ -90,6 +94,7 @@ Kursleitung
 
 Kursgebühr
 :   125,- € / Semester
+
 
 
 
@@ -148,6 +153,7 @@ Kursgebühr
 
 
 
+
 ## Stillleben, Zeichnen und mehr , Donnerstag 15-18 Uhr 
 
 Es sind nicht nur Stillleben, die in diesem Kurs entstehen, sondern auch
@@ -167,6 +173,7 @@ Kursleitung
 
 Kursgebühr
 :   125,- €
+
 
 
 
@@ -198,6 +205,7 @@ Kursgebühren
 
 
 
+
 ## Acrylmalerei, Donnerstag 18.30-21.30 Uhr  
 
 Die Bandbreite des Kurses schließt sowohl naturalistisches als auch abstraktes Arbeitenmit ein, ebenso Techniken
@@ -217,6 +225,7 @@ Kursleitung
 
 Kursgebühr
 :   125,- € für 10 Male 
+
 
 
 
@@ -242,6 +251,7 @@ Kursleitung
 
 Kursgebühr
 :   125,- € für 15 Male
+
 
 
 
@@ -275,6 +285,7 @@ Kursgebühr
 
 
 
+
 ## Freie Ateliergemeinschaft L.A.R.S.
 
 Informationen bitte direkt über Susanne Brussolo Telefon 040 701 50 30
@@ -291,6 +302,7 @@ Ansprechpartnerin
 
 
 # Musik
+
 
 
 
@@ -337,6 +349,7 @@ möglich, genau wie die monatliche Bezahlung von € 50,- bzw. € 60,-.
 
 
 
+
 ## Saxophon, Klarinette, Blockflöte, Klavier - Montag 
 
 Dimitar Georgiev, hervorragend ausgebildeter Musiker und Pädagoge aus
@@ -357,6 +370,7 @@ Kursleitung
 
 Kursgebühr
 :   60,- € monatlich für 18 Male 1/2 Stunde Einzelunterricht / Semester
+
 
 
 
@@ -387,6 +401,7 @@ Für Kinder ist die Abrechnung über das „Bildungspaket“ möglich.
 
 
 
+
 ## Geige / Gesang - Donnerstag 
 
 Dietwalt Mauruschat, freier Musiker und Spezialist für Violine, Viola
@@ -412,7 +427,9 @@ möglich.
 
 
 
+
 # Kinderkurse 
+
 
 
 
@@ -442,6 +459,7 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
+
 ## Kindermalschule, Mittwoch 16.30-18 Uhr 
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet in der Kindermalschule Kindern von 5-10 Jahren
@@ -461,6 +479,7 @@ Kursgebühr
 :   80,- € für 15 Male
 
 Die Abrechnung über das Bildungspaket ist möglich.
+
 
 
 
@@ -493,7 +512,9 @@ Abrechnung über das Bildungspaket möglich.
 
 
 
+
 # Bewegung 
+
 
 
 
@@ -525,6 +546,7 @@ Kursgebühr
 
 
 
+
 ## Yoga, Dienstag 20-21,30 Uhr 
 
 Informationen über Kursinhalte, Kurszeiten und Kosten sowie Kursanmeldung bitte
@@ -535,6 +557,7 @@ Termine
 
 Kursleitung
 :   Elisabeth Trudzinski
+
 
 
 
@@ -555,6 +578,7 @@ Kursleitung
 
 
 
+	
 ## Kundalini-Yoga / VHS-Kurs - Montag 
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie die
