@@ -24,7 +24,7 @@ Mehr Infos finden Sie hier:
 
 
 
-## Ölmalerei, Montag von 10-13 Uhr 
+# Ölmalerei, Montag
 
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
 unabhängig von Vorkenntnissen und sonstigen Voraussetzungen - das
@@ -50,7 +50,7 @@ Kursgebühr
 
 
 
-## Keramik (Aufbautechnik), Montag 15-18 Uhr, Freitag 17-20 Uhr 
+# Keramik (Aufbautechnik), Montag / Freitag 
 
 „Figur, Gefäß, Relief, damit sind alle Themenbereiche erfasst“, sagt
 Fachfrau Dörte Ellerbrock, die, egal welche ausgefallenen Themen die
@@ -76,7 +76,7 @@ Kursgebühr
 
 
 
-## Malerei-Techniken, Dienstag von 10-13 Uhr 
+# Malerei-Techniken, Dienstag 
 
 Aquarell, Acryl, Kreiden... Gabriele Wendland, freiberufliche Künstlerin aus
 Hamburg, ist bekannt durch viele Ausstellungen und u.a. ihre Arbeit an der
@@ -99,7 +99,7 @@ Kursgebühr
 
 
 
-## Figürliches Zeichnen/Akt, Dienstag 18.30-21.30 Uhr 
+# Figürliches Zeichnen/Akt, Dienstag 
 
 Mit wechselnden Modellen (weiblich/männlich) wird hier das Auge
 trainiert, die menschlichen Formen in all ihrer Vielfalt und
@@ -123,7 +123,7 @@ Kursgebühr
 
 
 
-## Aquarellmalerei, Mittwoch 18. 30-21.30 / Freitag 10.13 Uhr 
+# Aquarellmalerei, Mittwoch / Freitag  
 
 Sehen lernen und das Gesehene in ein Bild umsetzen möchten viele -
 alles, was dazugehört, ist Geduld mit sich selbst und fachliche
@@ -154,7 +154,7 @@ Kursgebühr
 
 
 
-## Stillleben, Zeichnen und mehr , Donnerstag 15-18 Uhr 
+# Stillleben, Zeichnen und mehr , Donnerstag  
 
 Es sind nicht nur Stillleben, die in diesem Kurs entstehen, sondern auch
 Porträts, Landschaften oder, wenn das Auge ermüdet ist, auch mal
@@ -178,7 +178,7 @@ Kursgebühr
 
 
 
-## Holzbildhauerei, Mittwoch 17-20 Uhr, Donnerstag 9-12 Uhr 
+# Holzbildhauerei, Mittwoch / Donnerstag 
 
 Ein Künstler mit Spezialgebiet Holzbildhauerei unterrichtet regelmäßig
 im Kulturhaus:  Ulrich Gauerke. Er fördert seine
@@ -206,7 +206,7 @@ Kursgebühren
 
 
 
-## Acrylmalerei, Donnerstag 18.30-21.30 Uhr  
+# Acrylmalerei, Donnerstag  
 
 Die Bandbreite des Kurses schließt sowohl naturalistisches als auch abstraktes Arbeitenmit ein, ebenso Techniken
 von Nass-in-Nass (wie beim Aquarell bis Impasto (wie beim Ölmalen). Der Kursleiter Branim Georgiev ist Kunstpädagoge, Maler, Zeichner,
@@ -230,7 +230,7 @@ Kursgebühr
 
 
 
-## Zeichnen und Malen, Beginn auf Anfrage 
+## Zeichnen und Malen, Zeiten auf Anfrage 
 
 Ein Kurs für alle, die regelmäßig in einer festen Gruppe zeichnen und malen möchten. 
 In entspannter und anregender Atmosphäre begleitet die Künstlerin Nushin Morid Einsteiger und Fortgeschrittene 
@@ -256,7 +256,7 @@ Kursgebühr
 
 
 
-## Holzschnitt, Schnupperkurs, Beginn auf Anfrage 
+# Holzschnitt, Schnupperkurs, Zeiten auf Anfrage 
 
 Angeregt durch die Holzschnittkunst verschiedener Künstler werden
 unterschiedliche Techniken, wie der Schwarz-Weiß-Druck, der verlorenen
@@ -286,7 +286,7 @@ Kursgebühr
 
 
 
-## Freie Ateliergemeinschaft L.A.R.S.
+# Freie Ateliergemeinschaft L.A.R.S., Freitag 
 
 Informationen bitte direkt über Susanne Brussolo Telefon 040 701 50 30
 oder mobil 0173 613 11 77.
@@ -307,7 +307,7 @@ Ansprechpartnerin
 
 
 
-## Gitarrenunterricht, Montag und Donnerstag
+## Gitarrenunterricht, Montag / Donnerstag
 
 Peter Karliczek unterrichtet seit vielen Jahren E-Bass, akustische und
 E-Gitarre im Kulturhaus. Er arbeitet nach Tabulatur und frei.
@@ -350,7 +350,7 @@ möglich, genau wie die monatliche Bezahlung von € 50,- bzw. € 60,-.
 
 
 
-## Saxophon, Klarinette, Blockflöte, Klavier - Montag 
+# Saxophon, Klarinette, Blockflöte, Klavier -  Montag 
 
 Dimitar Georgiev, hervorragend ausgebildeter Musiker und Pädagoge aus
 Bulgarien mit dem Spezialgebiet Saxophon und Klarinette, aber auch
@@ -375,7 +375,7 @@ Kursgebühr
 
 
 
-## Klavier / Gesang - Dienstag und Mittwoch 
+# Klavier / Gesang - Dienstag / Mittwoch 
 
 Bettina Sehlbach, Pädagogin für Klavier und Gesang, unterrichtet an
 mehreren Orten in Hamburg und Umgebung.
@@ -402,7 +402,7 @@ Für Kinder ist die Abrechnung über das „Bildungspaket“ möglich.
 
 
 
-## Geige / Gesang - Donnerstag 
+# Geige / Gesang , Donnerstag 
 
 Dietwalt Mauruschat, freier Musiker und Spezialist für Violine, Viola
 und Gesang, ist viel auf Konzert- und Opernbühnen unterwegs. Er
@@ -434,7 +434,7 @@ möglich.
 
 
 
-## Töpferschule für Kinder, Dienstag 16.30-18 Uhr 
+# Töpferschule für Kinder, Dienstag 
 
 Unter der fachkundigen Anleitung von Künstlerin Nushin Morid können
 Kinder kneten, formen und sich durch das urtümliche Material Ton in
@@ -460,7 +460,7 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-## Kindermalschule, Mittwoch 16.30-18 Uhr 
+# Kindermalschule, Mittwoch 
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet in der Kindermalschule Kindern von 5-10 Jahren
 viel Spaß mit dem Medium Kunst.
@@ -484,7 +484,7 @@ Die Abrechnung über das Bildungspaket ist möglich.
 
 
 
-## Tanzpiraten, Donnerstag 16.30-18 Uhr 
+## Tanzpiraten, Donnerstag 
 
 Wiebke Heinrich, Tanzpädagogin mit viel Erfahrung mit Kids - auch in
 Schulen - setzt den Bewegungsdrang der Kinder in Rhythmusgefühl und
@@ -519,7 +519,7 @@ Abrechnung über das Bildungspaket möglich.
 
 
 
-## Energy Dance / Yoga, Donnerstag 19.30-21.30 Uhr 
+# Energy Dance / Yoga, Donnerstag 
 
 Energy Dance ist Training für alle, die Lust auf Bewegung und
 Rhythmus haben. Vielfältige dynamische Bewegungen werden zu fließenden
@@ -547,7 +547,7 @@ Kursgebühr
 
 
 
-## Yoga, Dienstag 20-21,30 Uhr 
+# Yoga, Dienstag 
 
 Informationen über Kursinhalte, Kurszeiten und Kosten sowie Kursanmeldung bitte
 direkt unter Telefon: 040 765 62 92, E-Mail: [etrudzinski@web.de](mailto:etrudzinski@web.de)
@@ -562,7 +562,7 @@ Kursleitung
 
 
 
-## Feldenkrais / VHS-Kurs
+# Feldenkrais / VHS-Kurs, Freitag 
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie
 Anmeldungen unter [www.vhs-hamburg.de](http://www.vhs-hamburg.de) oder
@@ -579,7 +579,7 @@ Kursleitung
 
 
 	
-## Kundalini-Yoga / VHS-Kurs - Montag 
+# Kundalini-Yoga / VHS-Kurs,  Montag 
 
 Informationen über Kursinhalte, Kurszeiten und Gebühren sowie die
 Anmeldung unter Telefon 040 771 10 303 bzw.
