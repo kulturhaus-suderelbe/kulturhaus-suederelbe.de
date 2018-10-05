@@ -230,7 +230,7 @@ Kursgebühr
 
 
 
-## Zeichnen und Malen, Zeiten auf Anfrage 
+# Zeichnen und Malen, Zeiten auf Anfrage 
 
 Ein Kurs für alle, die regelmäßig in einer festen Gruppe zeichnen und malen möchten. 
 In entspannter und anregender Atmosphäre begleitet die Künstlerin Nushin Morid Einsteiger und Fortgeschrittene 
@@ -336,10 +336,9 @@ Kursleitung
 :   Peter Karliczek
 
 Kursgebühren
-
+:   
     Gruppenunterricht
     :   145 € / Semester, 120 € / Semester für Kinder
-
     Einzelunterricht
     :   300 € / Semester, 250 € / Semester für Kinder 
 
