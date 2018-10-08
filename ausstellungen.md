@@ -2,6 +2,16 @@
 
 ## Aktuelle Ausstellung
 
+- Pause -
+
+## Nächste Ausstellung
+
+Ausstellung von Kursteilnehmerarbeiten
+
+vom 15.10.18 bis zum 31.1.19
+
+# Vergangene Ausstellungen
+
 Treffpunkt OST-WEST
 
 Eine Ausstellung mit der Künstlergruppe der GDCK, der Gesellschaft für deutsch-chinesischen Kulturaustausch
@@ -19,18 +29,6 @@ KünstlerInnen: Katrin Binder, Sigrid Gruber, Kathrin Günther, Kaethe Haase-Kor
 Lu-Ping Tan-Storjohann, Antonia Torousis, Helga Tscheuschner, Gabriele Wendland, Mica Will-Flatau 
 
 ![](/img/treffpunkt ost west bild.jpg)
-
-## Nächste Ausstellung
-
-Ausstellung von Kursteilnehmerarbeiten
-
-vom 1.10.18 bis zum 31.1.19
-
-
-
-
-# Vergangene Ausstellungen
-
 Fotoausstellung des NABU
 
 Mit beeindruckenden Fotos aus dem Fischbeker Moor und der Fischbeker Heide präsentieren sich die Teilnehmer der Fotogruppe des NABU im Kulturhaus Süderelbe.

@@ -20,10 +20,9 @@ gegeben.
 **Am Sonntag, den 7.10.18 ab 16 Uhr, liest Dieter Wehrbrink**
 
 
-**Das Wunder von Bajkonur**
-  von Heinz G. Konsalik
+**
 
-![](/img/konsalikokt..jpg)
+![](/img/.jpg)
 
 Beginn: 16 Uhr, Einlass ab 15.30 Uhr
 
