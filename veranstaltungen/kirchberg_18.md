@@ -15,7 +15,6 @@ und heute mit gestern. Was tut man nicht alles nicht.
 In Kirchbergs neuem Programm treten Lieder gegeneinander an. Neue, alte, schöne, kurze,
 lustige, listige. Das Publikum entscheidet, welches Lied weiterkommt. Und am Ende gibt es den TESTSIEGER.
 
-
 [www.johannes-kirchberg.de](http://www.johannes-kirchberg.de)
 
 **Kulturhaus Süderelbe e.V.**  
