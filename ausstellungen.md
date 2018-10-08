@@ -2,7 +2,7 @@
 
 ## Aktuelle Ausstellung
 
-- Aufbauphase -
+ Aufbauphase 
 
 ## Nächste Ausstellung
 
