@@ -16,18 +16,6 @@ gegeben.
 8.38)](http://www.hamburg1.de/sendungen/18/4575/Gymnasium_Finkenwerder_zeigt_Courage_Literaturcafe_im_Striepensaal.html)
 
 
-
-**Am Sonntag, den 7.10.18 ab 16 Uhr, liest Dieter Wehrbrink**
-
-
-**
-
-![](/img/.jpg)
-
-Beginn: 16 Uhr, Einlass ab 15.30 Uhr
-
-**Herzlich willkommen, der Eintritt ist frei!**
-
 Kontakt
 :   Dieter Wehrbrink, Telefon 040 702 55 06  
     Kulturhaus Süderelbe, Telefon 040 796 72 22
