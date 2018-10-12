@@ -38,6 +38,8 @@ im Rahmen der Kulturtage 2018
 
 eine musikalische Lesung mit eigenem Text
 
+Herzlich willkommen, der Eintritt ist frei!
+
 
 
 **Lesung während der Kulturtage Süderelbe**
