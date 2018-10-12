@@ -5,6 +5,39 @@
 
 
 
+# Why are we creative? - Warum sind wir kreativ? am 01. Nov. 2018 um 19 Uhr 
+
+![](/img/Kulturhaus-Kino_111018.jpg) 
+
+Der Film „WHY ARE WE CREATIVE?“ zelebriert die besten Kreativen der Welt und nimmt die Zuschauer
+mit auf eine unterhaltsame und überraschende Odyssee in die Welt der Kreativität.
+Der Film basiert auf dem „Why Are You Creative“-Projekt des Regisseurs Hermann Vaske und ist eine einzigartige
+Reise durch die verschiedenen Facetten der Kreativität: künstlerisch, intellektuell, philosophisch und wissenschaftlich. 
+
+Mit dabei sind Regisseure wie Wim Wenders und David Lynch, Musikerinnen und Musiker wie Björk und Bono, Künstlerinnen und Künstler wie Marina Abramović und Damien Hirst, Modemacherinnen wie Vivienne Westwood, Schauspielerinnen wie Angelina Jolie und Isabella Rossellini, Schauspieler wie Willem Dafoe, Sean Penn und John Cleese, Staatsmänner wie Nelson Mandela und Mikhail Gorbatschow, Wissenschaftler wie Stephen
+Hawking, religiöse Führer wie der Dalai Lama und Gesamtkunstwerke wie David Bowie.
+
+Alles in allem hat Vaske in 30 Jahren Kreativgespräche mit über 50 Nobel- und Oscarpreisträgern geführt. 
+
+Ein Dokumentarfilm auf den Spuren des Geheimnisses der Kreativität. 
+
+Deutschland 2018
+Regie: Hermann Vaske
+Laufzeit: 82 Min. 
+FSK: ohne Altersbechränkung  
+
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
+
+
+
+
+# Vergangene Filmaufführungen im Kulturhaus-Kino
+
+
+
+
 # Ein Filmklassiker über Liebe und Flucht am 11. Oktober 2018 um 19 Uhr 
 
 ![](/img/Kulturhaus-Kino_111018.jpg) 
@@ -16,12 +49,6 @@ FSK: 6 J.
 ## Der Eintritt ist frei, gerne Spenden 
 
 Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
-
-
- 
-
-
-# Vergangene Filmaufführungen im Kulturhaus-Kino
 
 
 
