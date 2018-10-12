@@ -7,7 +7,7 @@
 
 # Why are we creative? - Warum sind wir kreativ? am 01. Nov. 2018 um 19 Uhr 
 
-![](/img/Kulturhaus-Kino_111018.jpg) 
+![](/img/Kinoplakat_011118.jpg) 
 
 Der Film „WHY ARE WE CREATIVE?“ zelebriert die besten Kreativen der Welt und nimmt die Zuschauer
 mit auf eine unterhaltsame und überraschende Odyssee in die Welt der Kreativität.
