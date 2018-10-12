@@ -38,6 +38,7 @@ im Rahmen der Kulturtage 2018
 
 eine musikalische Lesung mit eigenem Text
 
+![](/img/LesungNov18.JPG)
 Herzlich willkommen, der Eintritt ist frei!
 
 
