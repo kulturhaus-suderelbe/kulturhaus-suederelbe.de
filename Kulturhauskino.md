@@ -21,11 +21,11 @@ Alles in allem hat Vaske in 30 Jahren Kreativgespräche mit über 50 Nobel- und 
 
 Ein Dokumentarfilm auf den Spuren des Geheimnisses der Kreativität. 
 
-Deutschland 2018
-Regie: Hermann Vaske
-Laufzeit: 82 Min. 
+Deutschland 2018  
+Regie: Hermann Vaske  
+Laufzeit: 82 Min.  
 FSK: ohne Altersbechränkung  
-
+  
 ## Der Eintritt ist frei, gerne Spenden 
 
 Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
