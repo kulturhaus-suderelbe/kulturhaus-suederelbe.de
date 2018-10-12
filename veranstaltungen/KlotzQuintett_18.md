@@ -13,7 +13,7 @@ Veranstaltung des Süderelbe-Archiv
 Das Süderelbe-Archiv erinnert an die Lebensläufe zweier Mitglieder der Pfennigbande aus Neugraben-Fischbek. 
 
 **Michaeliskirche Neugraben**
-:   Cuxhavener straße 3234 
+:   Cuxhavener Straße 323 
 :   21149 Hamburg  
 
 Karten gibt es an der Abendkasse für 8 €
