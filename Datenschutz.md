@@ -12,7 +12,7 @@ Verantwortlicher:  Stephan Kaiser (1. Vors.)  c/o Kulturhaus Süderelbe e.V.
 
 Beim Aufruf dieser Webseite - www.kulturhaus-suederelbe.de - werden durch den Internet-Browser, 
 den der Besucher verwendet, automatisch Daten an den Server dieser Webseite gesendet und zeitlich begrenzt
-in einer Protokolldatei (Logfile) gespeichert. Bis zur automati-schen Löschung werden nachstehende 
+in einer Protokolldatei (Logfile) gespeichert. Bis zur automatischen Löschung werden nachstehende 
 Daten ohne weitere Eingabe des Besuchers gespeichert:  
 - IP-Adresse des Endgeräts des Besuchers,  
 - Datum und Uhrzeit des Zugriffs durch den Besucher,    
@@ -53,7 +53,7 @@ gem. Art. 6 Abs. 1 Satz 1 Buchst. a) DSGVO.
 Im Rahmen Ihrer Mitgliedschaft im Verein Kulturhaus Süderelbe e.V. werden von Ihnen bei der Antragstellung folgende Daten erhoben: 
 Name, Vorname, Geburtsdatum, Anschrift, Telefon, E-Mail-Adresse, Eintrittsdatum, Austrittsdatum sowie Zahlung des Mitgliedbeitrags.
 Diese Daten werden zum Zweck der Erfüllung des Vertrags zur Beitrittserklärung von Kulturhaus verarbeitet und in einem dazugehörigen 
-Adressbuch und u.U. in unserem elektonischen Emailsystem gespeichert.Diese Daten geben wir nicht an Dritte weiter und diese werden gelöscht,
+Adressbuch und u.U. in unserem elekrtonischen Emailsystem gespeichert. Diese Daten geben wir nicht an Dritte weiter und diese werden gelöscht,
 sobald die Notwendigkeit der Speicherung nicht mehr gegeben ist und diese Daten nicht zum weiteren Erhalt der Geschäftsbeziehung benötigt
 werden.
 
