@@ -26,6 +26,22 @@ Kontakt
 
 Quelle: Programmflyer 2013 Striepensaal
 
+**Literaturcafé im Striepensaal**
+
+**Am Sonntag, den 4.11.18, um 16 Uhr**
+
+liest Dieter Wehrbrink gemein mit Gunter Miedeck
+
+im Rahmen der Kulturtage 2018
+
+**Der Karneval der Tiere**
+
+eine musikalische Lesung mit eigenem Text
+
+![](/img/LesungNov18.JPEG)
+
+Herzlich willkommen, der Eintritt ist frei!
+
 
 
 **Lesung während der Kulturtage Süderelbe**
