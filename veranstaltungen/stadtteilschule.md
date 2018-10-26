@@ -1,5 +1,7 @@
 # Criss Cross Big Band und The Young ClassX Chor am 03. Nov. um 18 Uhr
 
+![](/img/The Band CrissCross.jpg)
+
 Die Criss Cross Big Band gibt es jetzt seit 40 Jahren. Wie kaum eine andere Bigband hat Criss Cross einen völlig
 eigenen Sound. Dies liegt insbesondere daran, dass nahezu alle Titel von dem Bandleader Jochen Arp arrangiert wurden.
 Die musikalischen Stilrichtungen der Hamburger Bigband gehen von Swing über Funk und Latin bis hin zum Tango Nuevo.
@@ -8,6 +10,8 @@ die sich auch der Musik von Miles Davis, Weather Report, Stevie Wonder, den Brec
 Natürlich gehören auch diverse Jazz-Klassiker zum Repertoire.
  Die Sängerin Schirin Al-Mousa liebt es - wie die Band - quer durch die Stile zu jazzen. Ihre besondere Vorliebe gilt
 aber der lateinamerikanischen Musik, die sie unvergleichlich präsentiert.
+
+![](/img/Chor Stadtteilschule_2016.jpg)
 
 Den Mittel-und Oberstufenchor der Stadtteilschule Süderelbe gibt es seit neun Jahren. Insgesamt 110 Mädchen und Jungen
 der Jahrgangsstufen 7 –13 (Alter 13-19 Jahren) proben wöchentlich unter dem Motto „Shackles“ – „Nimm die Fesseln von den Füßen“
