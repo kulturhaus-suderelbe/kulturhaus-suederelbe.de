@@ -30,14 +30,6 @@ Voranmeldung für Gruppen erforderlich
 
 
 
-# Kollin und der gestohlene Zauberstab
-Sonntag, 14. Oktober 2018 um 11 Uhr 
-
-![](/img/Programm Oktober_18.jpg)
-
-
-
-
 # Kollin un der Nordpolkleber
 Sonntag, 4. November 2018 um 11 Uhr
  
