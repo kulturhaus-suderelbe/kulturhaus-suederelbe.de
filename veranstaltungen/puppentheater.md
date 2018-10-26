@@ -25,7 +25,7 @@ Voranmeldung für Gruppen erforderlich
 
 
 
-# Programm /Termine Okt. - Dez. 2018
+# Programm / Termine 
 
 
 
