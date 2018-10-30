@@ -7,7 +7,7 @@
 
 # Why are we creative? - Warum sind wir kreativ? am 01. Nov. 2018 um 19 Uhr 
 
-![](/img/Kinoplakat_011118.jpg) 
+![](/img/Kino_011118.jpg) 
 
 Der Film „WHY ARE WE CREATIVE?“ zelebriert die besten Kreativen der Welt und nimmt die Zuschauer
 mit auf eine unterhaltsame und überraschende Odyssee in die Welt der Kreativität.
@@ -20,6 +20,12 @@ Hawking, religiöse Führer wie der Dalai Lama und Gesamtkunstwerke wie David Bo
 Alles in allem hat Vaske in 30 Jahren Kreativgespräche mit über 50 Nobel- und Oscarpreisträgern geführt. 
 
 Ein Dokumentarfilm auf den Spuren des Geheimnisses der Kreativität. 
+
+![](/img/KHK-01-11-18-Infoscreen-6.jpg)
+ 
+![](/img/KHK-01-11-18-Infoscreen-2.jpg)
+
+![](/img/KHK-01-11-18-Infoscreen-3.jpg)
 
 Deutschland 2018  
 Regie: Hermann Vaske  

@@ -25,15 +25,7 @@ Voranmeldung für Gruppen erforderlich
 
 
 
-# Programm /Termine Okt. - Dez. 2018
-
-
-
-
-# Kollin und der gestohlene Zauberstab
-Sonntag, 14. Oktober 2018 um 11 Uhr 
-
-![](/img/Programm Oktober_18.jpg)
+# Programm / Termine 
 
 
 
