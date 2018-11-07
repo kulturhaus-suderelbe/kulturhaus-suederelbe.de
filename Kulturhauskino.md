@@ -5,6 +5,39 @@
 
 
 
+# Sturm am 22. Nov. 2018 um 19 Uhr 
+
+Am Donnerstag, 22. November 2018, zeigen wir um 19 Uhr den Film ‚Sturm‘ von Hans-Christian Schmid, ein deutsch-dänisch-niederländischer
+Spielfilm aus dem Jahr 2009, in dem es um den Prozess gegen einen Ex-General der bosnischen Serben vor dem Internationalen Strafgerichtshof
+in Den Haag geht. Zeugen, die gegen den Ex-General aussagen wollen, werden massiv eingeschüchtert. So hat die Staatsanwaltschaft
+kaum eine Chance, ihre Anklage mit tragfähigen Beweisen zu untermauern. Die Einflussnahme zugunsten des E-Militärs reicht dabei bis
+hinein in den Strafgerichtshof. Die Rolle der ermittelnden Staatsanwältin spielt Kerry Fox.Der Film wurde ausgezeichnet u. a. mit dem Friedenspreis des Deutschen Films.
+ 
+![](/img/kulturhauskino22_nov_18_klein.jpg) 
+
+![](/img/KHK-1118-Infoscreen2.jpg)
+ 
+![](/img/KHK-1118-Infoscreen3.jpg)
+
+Friedenspreis des Deutschen Films
+
+DNK/NL/D 2009  
+Regie: Hans-Christian Schmid   
+FSK: 12 Jahre
+
+  
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
+
+
+
+
+# Vergangene Filmaufführungen im Kulturhaus-Kino
+
+
+
+
 # Why are we creative? - Warum sind wir kreativ? am 01. Nov. 2018 um 19 Uhr 
 
 ![](/img/Kino_011118.jpg) 
@@ -35,11 +68,6 @@ FSK: ohne Altersbechränkung
 ## Der Eintritt ist frei, gerne Spenden 
 
 Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
-
-
-
-
-# Vergangene Filmaufführungen im Kulturhaus-Kino
 
 
 
