@@ -36,7 +36,7 @@ liest Dieter Wehrbrink
 
 von A.J.Cronin
 
-![](/img/Dezember18.JPEG)
+![](/img/Dezember18.jpg)
 
 Herzlich willkommen, der Eintritt ist frei!
 
