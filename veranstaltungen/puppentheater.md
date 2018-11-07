@@ -30,14 +30,6 @@ Voranmeldung für Gruppen erforderlich
 
 
 
-# Kollin un der Nordpolkleber
-Sonntag, 4. November 2018 um 11 Uhr
- 
-![](/img/Programm November_18.jpg)
-
-
-
-
 # Kollin und der Weihnachtsmann
 Sonntag, 2. Dezember 2018 um 11 Uhr und 16 Uhr
 
