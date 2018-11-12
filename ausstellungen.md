@@ -19,6 +19,15 @@ Fischbeker Geschichte und Bilder werden auf 28 großformatigen Tafeln
 
 dargestellt.
 
+Die Ausstellung läuft vom 10.2.19 zwei Monate lang und ist werktags geöffnet 
+
+von 10.00 bis 20.00 Uhr.
+
+Am 28.3.19 um 19.30 findet in den Räumen des Kulturhauses eine öffentliche Veranstaltung
+
+zu dem Thema statt. 
+
+
 ![](/img/pio1930.JPEG)
 
 
