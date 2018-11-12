@@ -19,7 +19,7 @@ Fischbeker Geschichte und Bilder werden auf 28 großformatigen Tafeln
 
 dargestellt.
 
-![](/img/pio1930.jpg)
+![](/img/pio1930.JPEG)
 
 
 
