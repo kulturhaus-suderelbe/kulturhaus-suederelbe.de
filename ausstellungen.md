@@ -25,7 +25,9 @@ von 10.00 bis 20.00 Uhr.
 
 Am 28.3.19 um 19.30 findet in den Räumen des Kulturhauses eine öffentliche Veranstaltung
 
-zu dem Thema statt. 
+zu dem Thema statt.
+
+Das Kulturhaus Süderelbe befindet sich Am Johannisland 2, 21147 Hamburg. 
 
 
 ![](/img/pio1930.JPEG)
