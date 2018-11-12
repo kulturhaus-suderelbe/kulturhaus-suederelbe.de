@@ -2,7 +2,7 @@
 
 ## Aktuelle Ausstellung
 
-Kursteilehmerarbeiten aus den Bereichen Malerei und Zeichnung
+Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
  
 ## Nächste Ausstellung
