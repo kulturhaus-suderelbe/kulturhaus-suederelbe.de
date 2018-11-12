@@ -2,15 +2,33 @@
 
 ## Aktuelle Ausstellung
 
- Aufbauphase 
+Kursteilehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
+ 
 ## Nächste Ausstellung
+
+Erinnerungen aus dem Dorf Fischbek
+
+"Dat mööt ji for all Tieden fastholen"
+
+Die Erinnerungen aus dem Dorf Fischbek beginnen mit der ersten Ansiedlung
+
+im 16. Jahrhundert und reichen bis zum Beginn des 21. Jahrhunderts. 
+
+Fischbeker Geschichte und Bilder werden auf 28 großformatigen Tafeln 
+
+dargestellt.
+
+![](/img/pio1930.jpg)
+
+
+
+# Vergangene Ausstellungen
 
 Ausstellung von Kursteilnehmerarbeiten
 
 vom 15.10.18 bis zum 31.1.19
 
-# Vergangene Ausstellungen
 
 Treffpunkt OST-WEST
 
