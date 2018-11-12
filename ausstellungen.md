@@ -36,10 +36,6 @@ Das Kulturhaus Süderelbe befindet sich Am Johannisland 2, 21147 Hamburg.
 
 # Vergangene Ausstellungen
 
-Ausstellung von Kursteilnehmerarbeiten
-
-vom 15.10.18 bis zum 31.1.19
-
 
 Treffpunkt OST-WEST
 
