@@ -30,7 +30,7 @@ eine öffentliche Veranstaltung zu dem Thema statt.
 Das Kulturhaus Süderelbe befindet sich Am Johannisland 2, 21147 Hamburg. 
 
 
-![](/img/Pio1930.JPEG)
+![](/img/Pio1930.jpg)
 
 
 
