@@ -25,7 +25,5 @@ finden Sie auf der Internet-Seite des Süderelbe-Archivs:
 [www.suederelbe-archiv.de](http://www.suederelbe-archiv.de) 
 
 Kontakt
-:   Matthias Pfeifer (Bücherhalle Neugraben), Tel. 701 76 22  
-    Stephan Kaiser (Kulturhaus Süderelbe), Tel. 0179-28 24 625
-	E.Mail: <info@suederelbe-archiv.de>
+:   info@suederelbe-archiv.de
 
