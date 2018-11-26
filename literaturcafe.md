@@ -28,35 +28,21 @@ Quelle: Programmflyer 2013 Striepensaal
 
 **Literaturcafé im Striepensaal**
 
-**Am Sonntag, den 4.11.18, um 16 Uhr**
+**Am Sonntag, den 2.12.18, um 16 Uhr**
 
-liest Dieter Wehrbrink gemein mit Gunter Miedeck
+liest Dieter Wehrbrink 
 
-im Rahmen der Kulturtage 2018
+**Die Frau des Wirts**
 
-**Der Karneval der Tiere**
+von A.J.Cronin
 
-eine musikalische Lesung mit eigenem Text
-
-![](/img/LesungNov18.JPEG)
+![](/img/Dezember18.jpg)
 
 Herzlich willkommen, der Eintritt ist frei!
 
 
 
-**Lesung während der Kulturtage Süderelbe**
 
-**Sommer in Lesmona von Marga Berck**
-
-**Am Donnerstag, den 25.10.18, um 19 Uhr**
-
-![](/img/Lesung kulturtage.jpg)
-
-Ein fesselnder und poetischer Roman in Briefen
-gelesen von Dörte Ellerbrock und Dieter Wehrbrink
-während der Kulturtage Süderelbe 
-im Kulturhaus Süderelbe,
-Am Johannisland 2, 21147 Hamburg
 
 
 

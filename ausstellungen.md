@@ -2,15 +2,40 @@
 
 ## Aktuelle Ausstellung
 
- Aufbauphase 
+Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
+ 
 ## Nächste Ausstellung
 
-Ausstellung von Kursteilnehmerarbeiten
+Erinnerungen aus dem Dorf Fischbek
 
-vom 15.10.18 bis zum 31.1.19
+"Dat mööt ji for all Tieden fastholen"
+
+Die Erinnerungen aus dem Dorf Fischbek beginnen mit der ersten Ansiedlung
+
+im 16. Jahrhundert und reichen bis zum Beginn des 21. Jahrhunderts. 
+
+Fischbeker Geschichte und Bilder werden auf 28 großformatigen Tafeln 
+
+dargestellt.
+
+Die Ausstellung läuft vom 10.3.19 bis zum 10.4.19 und ist werktags geöffnet 
+
+von 10.00 bis 20.00 Uhr.
+
+Am 28.3.19 um 19.30 findet in den Räumen des Kulturhauses 
+
+eine öffentliche Veranstaltung zu dem Thema statt.
+
+Das Kulturhaus Süderelbe befindet sich Am Johannisland 2, 21147 Hamburg. 
+
+
+![](/img/Pio1930.jpg)
+
+
 
 # Vergangene Ausstellungen
+
 
 Treffpunkt OST-WEST
 
