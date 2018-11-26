@@ -17,12 +17,12 @@ Kinderkulturhaus KIKU in Hamburg-Bergedorf und dem Kulturhaus Süderelbe
 innerhalb des Bildungs- und Gemeinschaftszentrum BGZ Süderelbe in
 Hamburg-Neugraben an:
 
--   Sa, den 27.01.2018 im KIKU, Kinderkulturhaus
--   Sa, den 24.03.2018 im Kulturhaus Süderelbe, BGZ Süderelbe
--   Sa, den 19.05.2018 im KIKU, Kinderkulturhaus
--   Sa, den 30.06.2018 im Kulturhaus Süderelbe, BGZ Süderelbe
--   Sa, den 22.09.2018 im KIKU, Kinderkulturhaus
--   Sa, den 03.11.2018 im Kulturhaus Süderelbe, BGZ Süderelbe
+-   Sa, den 26.01.2019 im KIKU, Kinderkulturhaus
+-   Sa, den 23.02.2019 im Kulturhaus Süderelbe, BGZ Süderelbe
+-   Sa, den 27.04.2019 im KIKU, Kinderkulturhaus
+-   Sa, den 25.05.2019 im KIKU, Kinderkulturhaus
+-   Sa, den 07.09.2019 im Kulturhaus Süderelbe, BGZ Süderelbe
+-   Sa, den 02.11.2019 im Kulturhaus Süderelbe, BGZ Süderelbe
 
 Jeweils von 10 bis 17 Uhr
 
