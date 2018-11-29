@@ -27,7 +27,7 @@ die ihre Heimat verlassen müssen und sich auf den Weg machen – auf der Suche 
 
 ![](/img/KHK-13-12-18-Infoscreen1.jpg)
  
-![](/img/KHK-25_01_18-Infoscreen4.jpg)
+![](/img/KHK-13-12-18-Infoscreen-2.jpg)
 
 
 D 2016  
