@@ -36,7 +36,7 @@ liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck
 
 von Heinrich Böll
 
-![](/img/.jpg)
+![](/img/böll2.jpg)
 
 Herzlich willkommen, der Eintritt ist frei!
 
