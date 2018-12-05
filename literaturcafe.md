@@ -28,15 +28,15 @@ Quelle: Programmflyer 2013 Striepensaal
 
 **Literaturcafé im Striepensaal**
 
-**Am Sonntag, den 2.12.18, um 16 Uhr**
+**Am Sonntag, den 6.1.19, um 16 Uhr**
 
-liest Dieter Wehrbrink 
+liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck
 
-**Die Frau des Wirts**
+**Nicht nur zur Weihnachtszeit**
 
-von A.J.Cronin
+von Heinrich Böll
 
-![](/img/Dezember18.jpg)
+![](/img/.jpg)
 
 Herzlich willkommen, der Eintritt ist frei!
 
