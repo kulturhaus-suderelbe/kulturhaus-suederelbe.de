@@ -5,6 +5,48 @@
 
 
 
+# My Escape - meine Flucht am 13. Dez. 18 um 19 Uhr 
+
+Der Dokumentarfilm #MyEscape beschreibt die Flucht von Syrien, Afghanistan und Eritrea nach Deutschland mithilfe der (Handy-) Videos 
+von Flüchtlingen. Hunderttausende von Menschen sind 2015 nach Deutschland geflohen. Diese Zahlen sind ebenso einmalig wie die Tatsache,
+dass viele dieser Fluchtwege erstmalig dokumentiert wurden: Nicht von Filmemachern oder Nachrichtenteams, sondern von den Flüchtlingen
+selbst.
+
+Für viele Flüchtlinge ist das Mobiltelefon ein unverzichtbares Mittel zur Organisation ihrer Flucht.
+Gleichzeitig transportieren sie damit Erinnerungen an das Zurückgelassene und einige dokumentieren damit auch die Fluchtstationen.
+In den sozialen Netzwerken kursieren zahllose Clips, die nicht über sondern von der Flucht nach Deutschland erzählen, nicht aus sicherem
+Abstand, sondern aus unmittelbarer Nähe. 
+
+Der Dokumentarfilm #MyEscape hat solche Fluchtgeschichten gesammelt:
+Die (Handy-)Videos der Flüchtlinge erzählen von ihrer Heimat, von ihrem Abschied, den verschiedenen Stationen der Flucht,
+der Ankunft in Deutschland und schließlich den ersten Eindrücken hier. In dem Dokumentarfilm kommentieren Flüchtlinge ihr
+Filmmaterial in ausführlichen Interviews. So entsteht ein eindrückliches Bild aus nächster Nähe, von Menschen, 
+die ihre Heimat verlassen müssen und sich auf den Weg machen – auf der Suche nach Sicherheit.
+
+![](/img/KHK-13.12.18-Infoscreen-3.jpg) 
+
+![](/img/KHK-13-12-18-Infoscreen1.jpg)
+ 
+![](/img/KHK-13-12-18-Infoscreen-2.jpg)
+
+
+D 2016  
+Regie: Elke Sasse
+Filmlänge: 90 Min.   
+FSK: 12 Jahre
+  
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
+
+
+
+
+# Vergangene Filmaufführungen im Kulturhaus-Kino
+
+
+
+
 # Sturm am 22. Nov. 2018 um 19 Uhr 
 
 Am Donnerstag, 22. November 2018, zeigen wir um 19 Uhr den Film ‚Sturm‘ von Hans-Christian Schmid, ein deutsch-dänisch-niederländischer
@@ -24,16 +66,10 @@ Friedenspreis des Deutschen Films
 DNK/NL/D 2009  
 Regie: Hans-Christian Schmid   
 FSK: 12 Jahre
-
   
 ## Der Eintritt ist frei, gerne Spenden 
 
 Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
-
-
-
-
-# Vergangene Filmaufführungen im Kulturhaus-Kino
 
 
 
