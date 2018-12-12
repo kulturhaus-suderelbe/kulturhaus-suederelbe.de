@@ -173,6 +173,8 @@ Kursleitung
 Kursgebühr
 :   125,- €
 
+![](/img/stillleben.JEPG)
+
 
 
 
