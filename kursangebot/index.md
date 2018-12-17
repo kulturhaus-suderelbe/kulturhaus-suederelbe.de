@@ -13,7 +13,7 @@ navigation:
 ![](/img/wsb_139x196_KHS1+099-A2.jpg)
 ![](/img/wsb_137x194_Web+15_2.jpg)
 
-## Semesterbeginn am 03. September 2018
+## Semesterbeginn am 1. Februar 2019
 
 Ein neues Semester mit zahlreichen Möglichkeiten, sich unter
 fachkundiger Anleitung kreativ zu betätigen, startet am 1. Februar 2018.

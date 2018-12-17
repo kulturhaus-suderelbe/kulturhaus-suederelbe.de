@@ -165,7 +165,7 @@ Superteam bilden!
 ![](/img/elster.jpg)
 
 Beginn
-:  Donnerstag, 6.9.18, von 15-18 Uhr
+:  Donnerstag, 7.2.19, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -192,10 +192,10 @@ nachfragen.
 ![](/img/wsb_151x154_KHS8+042-gesch$C3$A4rft+etc.JPG)
 
 Beginn
-:   Mittwoch, 5.9.18, von 17-20 Uhr
+:   Mittwoch, 6.2.19, von 17-20 Uhr
 
 Beginn
-:   Donnerstag, 6.9.18, von 9-12 Uhr
+:   Donnerstag, 7.2.19, von 9-12 Uhr
 
 Kursleitung
 :   Ulrich Gauerke
@@ -218,42 +218,13 @@ Die Gruppe sucht neue Teilnehmer*innen!
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
   
 Beginn
-:   18.10.2018 
+:   7.2.2019 
 
 Kursleitung
 :  Dimitar Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
 :   125,- € für 10 Male 
-
-
-
-
-
-# Zeichnen und Malen, Zeiten auf Anfrage 
-
-Ein Kurs für alle, die regelmäßig in einer festen Gruppe zeichnen und malen möchten. 
-In entspannter und anregender Atmosphäre begleitet die Künstlerin Nushin Morid Einsteiger und Fortgeschrittene 
-individuell durch den Kurs. Im Mittelpunkt steht die genaue Beobachtung und realistische Umsetzung als 
-Grundlage der klassischen Zeichnung und Malerei. Auch Bildkomposition, malerische und zeichnerische 
-Perspektive und räumliches Zeichnen mit Licht und Schatten werden im Kurs vermittelt. Es kann nach
-Stillleben und Fotovorlagen mit folgenden Materialien gearbeitet werden: Blei- und Buntstiften, Kohle, 
-Pastellkreiden, Acryl, Aquarell, Gouache, Malen mit Pigmenten/Eitempera, Fineliner Feder und Tusche gearbeitet 
-werden.
-
-![](/img/nushin.JPG)
-
-Beginn
-:   Auf Anfrage
-
-Kursleitung
-:  Nushin Morid (www.morid.de)
-
-Kursgebühr
-:   125,- € für 15 Male
-
-
-
 
 
 # Holzschnitt, Schnupperkurs, Zeiten auf Anfrage 
@@ -329,8 +300,8 @@ E-Bass
 ![](/img/KHS3-078.jpg)
 
 Beginn
-:   Montag, 3.9.18 von 14.30-22.00 Uhr
-:   Donnerstag, 6.9.18 von 14.30-22.00 Uhr
+:   Montag, 4.2.19 von 14.30-22.00 Uhr
+:   Donnerstag, 7.2.19 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
@@ -362,7 +333,7 @@ abgestimmt.
 ![](/img/wsb_130x150_Dimitar+Georgiev+-+Saxophon+$282014.01$292.jpg)
 
 Beginn
-:   Montag, 3.9.18 von 14-20 Uhr
+:   Montag, 4.2.19 von 14-20 Uhr
 
 Kursleitung
 :   Dimitar Georgiev
@@ -385,8 +356,8 @@ TeilnehmerInnen abgestimmt.
 ![](/img/wsb_145x143_Kachel+Musik+5x5.jpg)
 
 Beginn
-:   Dienstag, 4.9.18
-:   Mittwoch, 5.9.18
+:   Dienstag, 5.2.19
+:   Mittwoch, 6.2.19
 
 Kursleitung
 :   Bettina Sehlbach  
@@ -410,7 +381,7 @@ unterrichtet außer im Kulturhaus an vielen Orten Hamburgs.
 ![](/img/KHS4-001.jpg)
 
 Beginn
-:   Donnerstag, 6.9.18; Uhrzeiten nach Absprache
+:   Donnerstag, 7.2.19; Uhrzeiten nach Absprache
 
 Kursleitung
 :   Dietwalt Mauruschat  
@@ -429,10 +400,6 @@ möglich.
 
 # Kinderkurse 
 
-
-
-
-
 # Töpferschule für Kinder, Dienstag 
 
 Unter der fachkundigen Anleitung von Künstlerin Nushin Morid können
@@ -445,7 +412,7 @@ Oberflächengestaltung zu erlernen.
 ![](/img/wsb_144x160_KursPlakat+017.jpg)
 
 Beginn
-:   Dienstag, 4.9.18, von 16.30-18.00 Uhr
+:   Dienstag, 5.2.19, von 16.30-18.00 Uhr
 
 Kursleitung
 :   Nushin Morid
@@ -459,7 +426,7 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-# Kindermalschule, Mittwoch 
+# Kindermalschule, Mittwoch von 16.30-18.00 Uhr 
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet in der Kindermalschule Kindern von 5-10 Jahren
 viel Spaß mit dem Medium Kunst.
@@ -470,7 +437,7 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Mittwoch von 16.30-18.00 Uhr 
+: Mittwoch, 6.2.19, von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
@@ -498,13 +465,13 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 6.9.18 von 16.30-18 Uhr
+:   Donnerstag, 7.2.19 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
 
 Kursgebühr
-:   80€ für 15 Male
+:   80,- € für 15 Male
 
 Abrechnung über das Bildungspaket möglich.
 
@@ -534,7 +501,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 6.9.18, von 19.30-21.30 Uhr
+:   Donnerstag, 7.2.19, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
