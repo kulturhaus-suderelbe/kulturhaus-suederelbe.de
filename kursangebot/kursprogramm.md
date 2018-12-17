@@ -1,6 +1,6 @@
-# Kursprogramm Wintersemester 2018
+# Kursprogramm Sommersemester 2019
 
-## Semesterbeginn am 3. September 2018 
+## Semesterbeginn am 1. Februar 2018 
 
 [Unser Kursprogramm Wintersemester 2018 finden Sie hier zum Download](/downloads/KursprogrammKH_WiSe18.pdf)
 
@@ -37,7 +37,7 @@ Vermittlung von Techniken in qualifizierter Form.
 ![](/img/sommerfest-2012-56.jpg)
 
 Beginn
-:   Montag, 3.9.18, von 10-13 Uhr
+:   Montag, 4.2.19, von 10-13 Uhr
 
 Kursleitung
 :   Margrit Werner
@@ -62,8 +62,8 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 7.9.18, von 17-20 Uhr
-:   Montag, 3.9.18, von 15-18 Uhr
+:   Freitag, 8.2.19, von 17-20 Uhr
+:   Montag, 4.2.19, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -85,10 +85,10 @@ Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
 jeder seinen Platz!
 
 Beginn
-:   Dienstag, 4.9.18, von 10-13 Uhr
+:   Dienstag, 5.2.19, von 10-13 Uhr
 
 Kursleitung
-:   Gabriele Wendland  
+:   Sigrid Gruber 
     [www.gabriele-wendland.de](http://www.gabriele-wendland.de)
 
 Kursgebühr
@@ -110,7 +110,7 @@ Aktzeichnen ist die Grundlage für jede Art der figürlichen Darstellung!
 ![](/img/ruecken.jpg)
 
 Beginn
-:   Dienstag, 4.9.18, von 18.30-21.30 Uhr
+:   Dienstag, 5.2.19, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -134,14 +134,14 @@ oder Porträt behandeln.
 ![](/img/wsb_149x155_WEBAquarell2.jpg)
 
 Beginn
-:   Mittwoch, 4.9.18, von 18.30-21.30 Uhr
+:   Mittwoch, 6.2.19, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Elke Nack-Karstens  
     [www.elkenack-karstens.de](http://www.elkenack-karstens.de)
 
 Beginn
-:   Freitag, 7.9.18, von 10-13 Uhr
+:   Freitag, 1.2.19, von 10-13 Uhr
 
 Kursleitung
 :   Angelika Holzmann
