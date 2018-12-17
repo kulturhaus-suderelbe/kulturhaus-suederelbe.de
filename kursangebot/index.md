@@ -7,7 +7,7 @@ navigation:
 
 # Programmangebot: Kurse und Gruppen
 
-## 1980 - 2018: 38 Jahre Kulturhaus Süderelbe e.V.
+## 1980 - 2019: 39 Jahre Kulturhaus Süderelbe e.V.
 
 ![](/img/wsb_139x188_Web+15_1.jpg)
 ![](/img/wsb_139x196_KHS1+099-A2.jpg)
@@ -16,7 +16,7 @@ navigation:
 ## Semesterbeginn am 1. Februar 2019
 
 Ein neues Semester mit zahlreichen Möglichkeiten, sich unter
-fachkundiger Anleitung kreativ zu betätigen, startet am 1. Februar 2018.
+fachkundiger Anleitung kreativ zu betätigen, startet am 1. Februar 2019.
 Zu zivilen Preisen kann hier im Bereich bildende Kunst gemalt,
 gezeichnet, geschnitzt oder getöpfert werden. Im Musikbereich und im
 Bereich Bewegung findet ebenfalls wöchentlicher Unterricht statt
