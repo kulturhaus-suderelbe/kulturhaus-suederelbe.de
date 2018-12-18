@@ -1,8 +1,10 @@
 # Kulturhaus-Kino 
 
-![](/img/KHKino-Logo4.jpg)
-
 [Das Kulturhaus-Kino Programm Januar-Juni 2019 finden Sie hier:](/downloads/kulturhaus-kino-folder-3-12-18.pdf)
+
+![](/img/Kulturhaus-Kino-Visual.jpg)
+
+
 
 
 
