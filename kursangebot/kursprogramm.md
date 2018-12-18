@@ -1,6 +1,6 @@
 # Kursprogramm Sommersemester 2019
 
-## Semesterbeginn am 1. Februar 2018 
+## Semesterbeginn am 1. Februar 2019 
 
 [Unser Kursprogramm Wintersemester 2018 finden Sie hier zum Download](/downloads/KursprogrammKH_WiSe18.pdf)
 
@@ -19,9 +19,6 @@ Mehr Infos finden Sie hier:
 
 
 # Bildende Kunst 
-
-
-
 
 
 # Ölmalerei, Montag
@@ -77,9 +74,8 @@ Kursgebühr
 
 # Malerei-Techniken, Dienstag 
 
-Aquarell, Acryl, Kreiden... Gabriele Wendland, freiberufliche Künstlerin aus
-Hamburg, ist bekannt durch viele Ausstellungen und u.a. ihre Arbeit an der
-Kunsthalle Hamburg. Sie passt die Kursinhalte ihren KursteilnehmerInnen an
+Aquarell, Acryl, Kreiden... Sigrid Gruber, freiberufliche Künstlerin, ist bekannt durch viele 
+Ausstellungen . Sie passt die Kursinhalte ihren KursteilnehmerInnen an
 und betreut sie individuell.
 Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
 jeder seinen Platz!
@@ -89,10 +85,10 @@ Beginn
 
 Kursleitung
 :   Sigrid Gruber 
-    [www.gabriele-wendland.de](http://www.gabriele-wendland.de)
+   (www.sigridgruber.com)
 
 Kursgebühr
-:   125,- € / Semester
+:   125,- € / 15 Male
 
 
 
@@ -428,8 +424,8 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 # Kindermalschule, Mittwoch von 16.30-18.00 Uhr 
 
-Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet in der Kindermalschule Kindern von 5-10 Jahren
-viel Spaß mit dem Medium Kunst.
+Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
+in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
 
 Verschiedene Maltechniken und Stilrichtungen werden mit vielen
 Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
