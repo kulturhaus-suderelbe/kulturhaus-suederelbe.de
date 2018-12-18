@@ -1,6 +1,6 @@
 # Kulturtage Süderelbe: 24. Okt. bis 10. Nov. 2019
 
-![](/img/vorhang.jpg)
+![](/img/roter-vorhang-shutterstock_96137384.jpg)
 
 Im zehnten  Jahr finden die "Kulturtage Süderelbe" unter der organisatorischen Leitung des Kulturhauses Süderelbe
 vom 24. Oktober bis 10. November 2019 statt.
@@ -16,6 +16,13 @@ Ihren Programmbeitrag, sowohl als erfahrener lokaler Kulturveranstalter als auch
 wir gerne im Kulturtage- Programmflyer auf, dieser wird  dann von uns intensiv beworben.
 Sie können uns Ihren Programmbeitrag ab sofort unter: info@kulturhaus-suederelbe.de durchgeben.  
 Herzlichen Dank! 
+
+
+
+
+# Hier finden Sie Informationen zu den Kulturtagen in 2018 
+
+![](/img/kulturtage-2018-logo.jpg)
 
 [Das Kulturtage-Programm 2018 hier zur Ansicht](/downloads/kulturtage_programm_2018.pdf)
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
