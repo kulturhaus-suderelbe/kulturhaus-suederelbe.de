@@ -30,11 +30,19 @@ Voranmeldung für Gruppen erforderlich
 
 
 
-# Kollin und der Weihnachtsmann
-Sonntag, 2. Dezember 2018 um 11 Uhr und 16 Uhr
+# Kollin und der freche Drache Blitz am 13. Jan. um 16 Uhr
+ 
+![](/img/Programm Dezember_18.jpg)
+
+# Kollin und der dufte König am 03. Febr. um 16 Uhr
 
 ![](/img/Programm Dezember_18.jpg)
 
+# Kollin und die Glitzerschnecke am 03. März um 16 Uhr
 
+![](/img/Programm Dezember_18.jpg)
 
+# Kollin Kläff und der kleine Pirat am 07. April um 16 Uhr
+
+![](/img/Programm Dezember_18.jpg)
 
