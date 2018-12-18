@@ -32,17 +32,17 @@ Voranmeldung für Gruppen erforderlich
 
 # Kollin und der freche Drache Blitz am 13. Jan. um 16 Uhr
  
-![](/img/Programm Dezember_18.jpg)
+![](/img/Programm Januar -19.jpg)
 
 # Kollin und der dufte König am 03. Febr. um 16 Uhr
 
-![](/img/Programm Dezember_18.jpg)
+![](/img/Programm Februar_19.jpg)
 
 # Kollin und die Glitzerschnecke am 03. März um 16 Uhr
 
-![](/img/Programm Dezember_18.jpg)
+![](/img/Programm März_19.jpg)
 
 # Kollin Kläff und der kleine Pirat am 07. April um 16 Uhr
 
-![](/img/Programm Dezember_18.jpg)
+![](/img/Programm April_19.jpg)
 
