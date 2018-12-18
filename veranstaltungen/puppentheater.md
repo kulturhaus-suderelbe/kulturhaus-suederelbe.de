@@ -44,5 +44,5 @@ Voranmeldung für Gruppen erforderlich
 
 # Kollin Kläff und der kleine Pirat am 07. April um 16 Uhr
 
-![](/img/Programm April_19.jpg)
+![](/img/Programm April _19.jpg)
 
