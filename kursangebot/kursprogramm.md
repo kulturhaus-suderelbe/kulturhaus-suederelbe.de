@@ -1,6 +1,6 @@
-# Kursprogramm Wintersemester 2018
+# Kursprogramm Sommersemester 2019
 
-## Semesterbeginn am 3. September 2018 
+## Semesterbeginn am 1. Februar 2019 
 
 [Unser Kursprogramm Wintersemester 2018 finden Sie hier zum Download](/downloads/KursprogrammKH_WiSe18.pdf)
 
@@ -21,9 +21,6 @@ Mehr Infos finden Sie hier:
 # Bildende Kunst 
 
 
-
-
-
 # Ölmalerei, Montag
 
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
@@ -37,7 +34,7 @@ Vermittlung von Techniken in qualifizierter Form.
 ![](/img/sommerfest-2012-56.jpg)
 
 Beginn
-:   Montag, 3.9.18, von 10-13 Uhr
+:   Montag, 4.2.19, von 10-13 Uhr
 
 Kursleitung
 :   Margrit Werner
@@ -62,8 +59,8 @@ freie Formen.
 ![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
 
 Beginn
-:   Freitag, 7.9.18, von 17-20 Uhr
-:   Montag, 3.9.18, von 15-18 Uhr
+:   Freitag, 8.2.19, von 17-20 Uhr
+:   Montag, 4.2.19, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -77,22 +74,21 @@ Kursgebühr
 
 # Malerei-Techniken, Dienstag 
 
-Aquarell, Acryl, Kreiden... Gabriele Wendland, freiberufliche Künstlerin aus
-Hamburg, ist bekannt durch viele Ausstellungen und u.a. ihre Arbeit an der
-Kunsthalle Hamburg. Sie passt die Kursinhalte ihren KursteilnehmerInnen an
+Aquarell, Acryl, Kreiden... Sigrid Gruber, freiberufliche Künstlerin, ist bekannt durch viele 
+Ausstellungen . Sie passt die Kursinhalte ihren KursteilnehmerInnen an
 und betreut sie individuell.
 Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
 jeder seinen Platz!
 
 Beginn
-:   Dienstag, 4.9.18, von 10-13 Uhr
+:   Dienstag, 5.2.19, von 10-13 Uhr
 
 Kursleitung
-:   Gabriele Wendland  
-    [www.gabriele-wendland.de](http://www.gabriele-wendland.de)
+:   Sigrid Gruber 
+   (www.sigridgruber.com)
 
 Kursgebühr
-:   125,- € / Semester
+:   125,- € / 15 Male
 
 
 
@@ -110,7 +106,7 @@ Aktzeichnen ist die Grundlage für jede Art der figürlichen Darstellung!
 ![](/img/ruecken.jpg)
 
 Beginn
-:   Dienstag, 4.9.18, von 18.30-21.30 Uhr
+:   Dienstag, 5.2.19, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
@@ -134,14 +130,14 @@ oder Porträt behandeln.
 ![](/img/wsb_149x155_WEBAquarell2.jpg)
 
 Beginn
-:   Mittwoch, 4.9.18, von 18.30-21.30 Uhr
+:   Mittwoch, 6.2.19, von 18.30-21.30 Uhr
 
 Kursleitung
 :   Elke Nack-Karstens  
     [www.elkenack-karstens.de](http://www.elkenack-karstens.de)
 
 Beginn
-:   Freitag, 7.9.18, von 10-13 Uhr
+:   Freitag, 1.2.19, von 10-13 Uhr
 
 Kursleitung
 :   Angelika Holzmann
@@ -165,13 +161,15 @@ Superteam bilden!
 ![](/img/elster.jpg)
 
 Beginn
-:  Donnerstag, 6.9.18, von 15-18 Uhr
+:  Donnerstag, 7.2.19, von 15-18 Uhr
 
 Kursleitung
 :   Dörte Ellerbrock
 
 Kursgebühr
 :   125,- €
+
+![](/img/stillleben.JPG)
 
 
 
@@ -190,10 +188,10 @@ nachfragen.
 ![](/img/wsb_151x154_KHS8+042-gesch$C3$A4rft+etc.JPG)
 
 Beginn
-:   Mittwoch, 5.9.18, von 17-20 Uhr
+:   Mittwoch, 6.2.19, von 17-20 Uhr
 
 Beginn
-:   Donnerstag, 6.9.18, von 9-12 Uhr
+:   Donnerstag, 7.2.19, von 9-12 Uhr
 
 Kursleitung
 :   Ulrich Gauerke
@@ -216,42 +214,13 @@ Die Gruppe sucht neue Teilnehmer*innen!
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
   
 Beginn
-:   18.10.2018 
+:   7.2.2019 
 
 Kursleitung
 :  Dimitar Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
 :   125,- € für 10 Male 
-
-
-
-
-
-# Zeichnen und Malen, Zeiten auf Anfrage 
-
-Ein Kurs für alle, die regelmäßig in einer festen Gruppe zeichnen und malen möchten. 
-In entspannter und anregender Atmosphäre begleitet die Künstlerin Nushin Morid Einsteiger und Fortgeschrittene 
-individuell durch den Kurs. Im Mittelpunkt steht die genaue Beobachtung und realistische Umsetzung als 
-Grundlage der klassischen Zeichnung und Malerei. Auch Bildkomposition, malerische und zeichnerische 
-Perspektive und räumliches Zeichnen mit Licht und Schatten werden im Kurs vermittelt. Es kann nach
-Stillleben und Fotovorlagen mit folgenden Materialien gearbeitet werden: Blei- und Buntstiften, Kohle, 
-Pastellkreiden, Acryl, Aquarell, Gouache, Malen mit Pigmenten/Eitempera, Fineliner Feder und Tusche gearbeitet 
-werden.
-
-![](/img/nushin.JPG)
-
-Beginn
-:   Auf Anfrage
-
-Kursleitung
-:  Nushin Morid (www.morid.de)
-
-Kursgebühr
-:   125,- € für 15 Male
-
-
-
 
 
 # Holzschnitt, Schnupperkurs, Zeiten auf Anfrage 
@@ -327,8 +296,8 @@ E-Bass
 ![](/img/KHS3-078.jpg)
 
 Beginn
-:   Montag, 3.9.18 von 14.30-22.00 Uhr
-:   Donnerstag, 6.9.18 von 14.30-22.00 Uhr
+:   Montag, 4.2.19 von 14.30-22.00 Uhr
+:   Donnerstag, 7.2.19 von 14.30-22.00 Uhr
 
 Kursleitung
 :   Peter Karliczek
@@ -360,7 +329,7 @@ abgestimmt.
 ![](/img/wsb_130x150_Dimitar+Georgiev+-+Saxophon+$282014.01$292.jpg)
 
 Beginn
-:   Montag, 3.9.18 von 14-20 Uhr
+:   Montag, 4.2.19 von 14-20 Uhr
 
 Kursleitung
 :   Dimitar Georgiev
@@ -383,8 +352,8 @@ TeilnehmerInnen abgestimmt.
 ![](/img/wsb_145x143_Kachel+Musik+5x5.jpg)
 
 Beginn
-:   Dienstag, 4.9.18
-:   Mittwoch, 5.9.18
+:   Dienstag, 5.2.19
+:   Mittwoch, 6.2.19
 
 Kursleitung
 :   Bettina Sehlbach  
@@ -408,7 +377,7 @@ unterrichtet außer im Kulturhaus an vielen Orten Hamburgs.
 ![](/img/KHS4-001.jpg)
 
 Beginn
-:   Donnerstag, 6.9.18; Uhrzeiten nach Absprache
+:   Donnerstag, 7.2.19; Uhrzeiten nach Absprache
 
 Kursleitung
 :   Dietwalt Mauruschat  
@@ -427,10 +396,6 @@ möglich.
 
 # Kinderkurse 
 
-
-
-
-
 # Töpferschule für Kinder, Dienstag 
 
 Unter der fachkundigen Anleitung von Künstlerin Nushin Morid können
@@ -443,7 +408,7 @@ Oberflächengestaltung zu erlernen.
 ![](/img/wsb_144x160_KursPlakat+017.jpg)
 
 Beginn
-:   Dienstag, 4.9.18, von 16.30-18.00 Uhr
+:   Dienstag, 5.2.19, von 16.30-18.00 Uhr
 
 Kursleitung
 :   Nushin Morid
@@ -457,10 +422,10 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-# Kindermalschule, Mittwoch 
+# Kindermalschule, Mittwoch von 16.30-18.00 Uhr 
 
-Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet in der Kindermalschule Kindern von 5-10 Jahren
-viel Spaß mit dem Medium Kunst.
+Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
+in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
 
 Verschiedene Maltechniken und Stilrichtungen werden mit vielen
 Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
@@ -468,7 +433,7 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Mittwoch von 16.30-18.00 Uhr 
+: Mittwoch, 6.2.19, von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
@@ -496,13 +461,13 @@ Selbstständigkeit, Kreativität und Ausdrucksfähigkeit.
 Für Kinder ab 3 Jahre
 
 Beginn
-:   Donnerstag, 6.9.18 von 16.30-18 Uhr
+:   Donnerstag, 7.2.19 von 16.30-18 Uhr
 
 Kursleitung
 :   Wiebke Heinrich
 
 Kursgebühr
-:   80€ für 15 Male
+:   80,- € für 15 Male
 
 Abrechnung über das Bildungspaket möglich.
 
@@ -532,7 +497,7 @@ der Muskulatur kombiniert. Erholsame Entspannung rundet den Abend ab.
 ![](/img/Energy%20Dance%20und%20Yoga-Kulturhaus_01.jpg)
 
 Beginn
-:   Donnerstag, 6.9.18, von 19.30-21.30 Uhr
+:   Donnerstag, 7.2.19, von 19.30-21.30 Uhr
 
 Kursleitung
 :   Kristine Drengere
