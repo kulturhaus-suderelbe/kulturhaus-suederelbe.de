@@ -34,6 +34,5 @@ Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
 
 ![](/img/kulturtage-suederelbe-2017-visual-Internet.jpg)
 
-[Das Kulturtage-Programm 2017 hier zur 
-Ansicht](/downloads/KT-Heft-52_Seiten-rdz.pdf)
+[Das Kulturtage-Programm 2017 hier zur Ansicht](/downloads/KT-Heft-52-Seiten-rdz.pdf)
 
