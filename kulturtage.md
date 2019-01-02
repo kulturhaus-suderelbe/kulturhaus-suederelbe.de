@@ -24,6 +24,8 @@ Herzlichen Dank!
 
 ![](/img/kulturtage-2018-logo.jpg)
 
+![](/img/Plakat kulturtage_suederelbe_2018_rdz.jpg)
+
 [Das Kulturtage-Programm 2018 hier zur Ansicht](/downloads/kulturtage_programm_2018.pdf)
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
 
