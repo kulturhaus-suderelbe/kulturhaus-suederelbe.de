@@ -13,6 +13,8 @@ Der Abend wird umrahmt von der Fotoausstellung "Volle Segel-Ruhige See" von Wern
 
 [www.werner-pfeifer.eu](http://www.werner-pfeifer.eu)
 
+![](/img/Plakat_WP_22.2.19.jpg)
+
 **Kulturhaus Süderelbe**
 :   Am Johannisland 2 
 :   21147 Hamburg  
