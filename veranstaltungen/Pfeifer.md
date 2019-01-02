@@ -1,4 +1,4 @@
-# Werner Pfeifer am 22. Febr. 19.30 Uhr 
+# Liedermacher Werner Pfeifer am 22. Febr. 19.30 Uhr 
 
 ## Hafenballaden, Chansons, Blues und Geschichten 
 
@@ -8,6 +8,8 @@ Harburgs Hafenbarde kommt nach Neugraben! Der Wohnschiffer, Journalist und Musik
 Hafenballaden und Chansons vor. Mit Herz und Tiefgang: wunderschöne Liederund Geschichten über das Leben,
 den Hamburger und Harburger Hafen, die Liebe und alles was Sehnsucht und Spaß macht. Dabei spielt Werner Pfeifer auf
 seinen schönsten Akustikgitarren. Begleitet wird er von Dabine Dreismann am Saxophon und der Querflöte. 
+
+Der Abend wird umrahmt von der Fotoausstellung "Volle Segel-Ruhige See" von Werner Pfeifer.  
 
 [www.werner-pfeifer.eu](http://www.werner-pfeifer.eu)
 
