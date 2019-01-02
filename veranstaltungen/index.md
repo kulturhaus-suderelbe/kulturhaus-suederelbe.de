@@ -1,6 +1,7 @@
 ---
 navigation:
   - puppentheater
+  - Pfeifer
 ---
 
 # Veranstaltungen, Konzerte, Kindertheater, Aufführungen...
