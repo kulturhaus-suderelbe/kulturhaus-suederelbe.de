@@ -72,10 +72,11 @@ Kursgebühr
 
 
 
-# Malerei-Techniken, Dienstag 
+# Expressive Malerei, Dienstag 
 
 Aquarell, Acryl, Kreiden... Sigrid Gruber, freiberufliche Künstlerin, ist bekannt durch viele 
-Ausstellungen . Sie passt die Kursinhalte ihren KursteilnehmerInnen an
+Ausstellungen . Es wird mit Farben, flüssig oder pastos, gearbeitet, und Materialien wie Sand, Pappe 
+oder ähnlichem experimentiert. Sie passt die Kursinhalte ihren KursteilnehmerInnen an
 und betreut sie individuell.
 Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
 jeder seinen Platz!
@@ -217,7 +218,7 @@ Beginn
 :   7.2.2019 
 
 Kursleitung
-:  Dimitar Georgiev  [www.brageo.de](http://www.brageo.de)
+:  Branimir Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
 :   125,- € für 10 Male 
