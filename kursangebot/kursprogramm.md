@@ -75,7 +75,7 @@ Kursgebühr
 # Expressive Malerei, Dienstag 
 
 Aquarell, Acryl, Kreiden... Sigrid Gruber, freiberufliche Künstlerin, ist bekannt durch viele 
-Ausstellungen . Es wird mit Farben, flüssig oder pastos, gearbeitet, und Materialien wie Sand, Pappe 
+Ausstellungen . Es wird mit Farben, flüssig oder pastos, gearbeitet, und mit Materialien wie Sand, Pappe 
 oder ähnlichem experimentiert. Sie passt die Kursinhalte ihren KursteilnehmerInnen an
 und betreut sie individuell.
 Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
