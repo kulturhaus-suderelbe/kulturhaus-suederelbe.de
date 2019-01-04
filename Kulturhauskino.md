@@ -1,6 +1,34 @@
-# Kulturhaus-Kino 
+# Kulturhaus-Kino, Programm Januar-Juni 19 
 
-![](/img/KHKino-Logo4.jpg)
+[Das Kulturhaus-Kino Programm Januar-Juni 2019 finden Sie hier:](/downloads/kulturhaus-kino-folder-3-12-18.pdf)
+
+![](/img/Kulturhaus-Kino-Visual.jpg)
+
+
+
+
+
+
+# Angst essen Seele auf am 17. Jan. um 19 Uhr
+ 
+![](/img/Kino Januar.jpg)
+
+In einer Kneipe, in die sie vor dem Regen geflohen ist, lernt die etwa sechzigjährige Witwe Emmi Kurowski (Brigitte Mira),
+die als Putzfrau arbeitet, den mindestens zwanzig Jahre jüngeren Marokkaner Ali (El Hedi Ben Salem) kennen.
+Ali tanzt mit Emmi, sie reden miteinander, er begleitet sie nach Hause. Er zieht zu Emmi. Schließlich heiraten sie. - Emmis Umfeld
+reagiert feindselig und irritiert.
+
+Fassbinders Film büßt auch Jahrzehnte nach seinem Erscheinen 1974 kaum an Aktualität ein.
+In weiteren Rollen: Barbara Valentin, Irm Hermann, Rainer Werner Fassbinder, Walter Sedlmayr.
+
+D 1974
+Regie: Rainer Werner Fassbinder   
+FSK: 12 Jahre
+  
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
+
 
 
 

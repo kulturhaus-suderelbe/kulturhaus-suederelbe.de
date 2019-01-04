@@ -1,22 +1,32 @@
-# Kulturtage Süderelbe 19. Okt. bis 04. Nov. 18, PROGRAMM 
+# Kulturtage Süderelbe: 24. Okt. bis 10. Nov. 2019
+
+![](/img/roter-vorhang-shutterstock_96137384.jpg)
+
+Im zehnten  Jahr finden die "Kulturtage Süderelbe" unter der organisatorischen Leitung des Kulturhauses Süderelbe
+vom 24. Oktober bis 10. November 2019 statt.
+ 
+Mit den Kulturtagen möchten wir zusammen mit Ihnen einen Querschnitt des vielfältigen kulturellen Lebens
+in unserer Region zeigen und ein Programm gestalten, das in diesem Zeitraum Kultur in Süderelbe widerspiegelt
+und viele Besucher anzieht. Unterstützen Sie uns und machen Sie mit!
+ 
+Ob Lesung, Konzert, Ausstellung, Performance, Theaterstück oder Tanzveranstaltung - 
+bringen Sie Ihre Veranstaltung, oder gerne Ihre Vorstellung von Ihrer Heimat, auf die „Bühne“ der Kulturtage.
+
+Ihren Programmbeitrag, sowohl als erfahrener lokaler Kulturveranstalter als auch als Amateur, nehmen
+wir gerne im Kulturtage- Programmflyer auf, dieser wird  dann von uns intensiv beworben.
+Sie können uns Ihren Programmbeitrag ab sofort unter: info@kulturhaus-suederelbe.de durchgeben.  
+Herzlichen Dank! 
+
+
+
+
+# Hier finden Sie Informationen zu den Kulturtagen in 2018 
 
 ![](/img/kulturtage-2018-logo.jpg)
 
-Ziel der Kulturtage ist es,  Künstlern, Vereinen und lokalen Einrichtungen in der Region Süderelbe
-eine Plattform zu bieten und  einen Querschnitt des vielfältigen kulturellen Lebens in unserer Region zu zeigen.
-Mit den Kulturtagen  wird ein Programm geboten, das ein lebendiges Bild der kulturellen Arbeit in der Region 
-abbildet und viele Besucher anzieht.
- 
-Die Vielfalt der kulturellen Angebote im Süderelberaum werden im neunten Jahr vom Kulturhaus Süderelbe ins
-Blickfeld der Öffentlichkeit gerückt. Rund zwei Wochen lang können sich Interessierte mit der Kunst in allen
-Bereichen beschäftigen und auseinander setzen. Wie bunt unser Kulturleben in Süderelbe ist, beweisen die vielen 
-Veranstaltungen in diesen Tagen. 
+![](/img/Plakat kulturtage_suederelbe_2018_rdz.jpg)
 
-[Das Kulturtage-Programm 2018 kann sich sehen lassen! Hier zur 
-Ansicht](/downloads/kulturtage_programm_2018.pdf)
-
-Das Programmheft liegt an vielen Orten aus oder es kann im Kulturhaus angefordert werden.
-
+[Das Kulturtage-Programm 2018 hier zur Ansicht](/downloads/kulturtage_programm_2018.pdf)
 Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
 
 
@@ -26,6 +36,5 @@ Allen Mitwirkenden sagen wir ein riesiges Dankeschön!
 
 ![](/img/kulturtage-suederelbe-2017-visual-Internet.jpg)
 
-[Das Kulturtage-Programm 2017 hier zur 
-Ansicht](/downloads/KT-Heft-52_Seiten-rdz.pdf)
+[Das Kulturtage-Programm 2017 hier zur Ansicht](/downloads/KT-Heft-52-Seiten-rdz.pdf)
 

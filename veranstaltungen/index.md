@@ -1,12 +1,7 @@
 ---
 navigation:
-  - ChanceTanz II
   - puppentheater
-  - kirchberg_18
-  - KlotzQuintett_18
-  - stadtteilschule
-  - Schalom-Haus
-  - Rapunzel
+  - Pfeifer
 ---
 
 # Veranstaltungen, Konzerte, Kindertheater, Aufführungen...
