@@ -78,11 +78,11 @@ Kursgebühr
 
 Wir arbeiten nach dem Lustprinzip - Lust auf Farben, Formen und Linien. 
 Wir arbeiten mit Farben flüssig oder pastös und Materialien wie Sand, Pappe ö.ä., 
-die wir in das Bild einarbeiten. Wir lernen verschiedene Techniken kennen, und setzen diese experimentell ein. 
+die wir in das Bild einarbeiten. Wir lernen verschiedene Techniken kennen und setzen diese experimentell ein. 
 Wir spachteln, drucken, kollagieren und arbeiten gerne auch sichtweise. 
 
 Wir lernen voneinander, tauschen uns aus, sehen uns Ausstellungen an und lernen das "richtige Sehen" - 
-hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie baisert sondern auch für Spannung
+hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie basiert, sondern auch für Spannung
 und Dynamik im Bild sorgt. 
 
 Beginn
