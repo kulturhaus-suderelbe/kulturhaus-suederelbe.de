@@ -5,7 +5,7 @@
 Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
  
-## Nächste Ausstellung
+## Nächste Ausstellungen
 
 
 
@@ -14,6 +14,8 @@ Volle Segel - Ruhige See
 Eine Fotoausstellung von Werner Pfeifer, Barde und Geschichtenerzähler,
 
 als Umrahmung für sein Konzert am 22.2.19 im Stadtteilsaal
+
+
 
 
 
