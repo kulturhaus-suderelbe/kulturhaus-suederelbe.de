@@ -423,7 +423,7 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-# Kindermalschule, Mittwoch von 16.30-18.00 Uhr 
+# Kindermalschule, Dienstag von 16.30-18.00 Uhr 
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
 in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
@@ -434,7 +434,7 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Mittwoch, 6.2.19, von 16.30-18.00 Uhr 
+: Dienstag, 12.2.19, von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
