@@ -83,8 +83,6 @@ Wir lernen voneinander, tauschen uns aus, sehen uns Ausstellungen an und lernen 
 hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie baisert sondern auch für Spannung
 und Dynamik im Bild sorgt. 
 
-![](/img/wsb_145x135_Fr$C3$BChlingsfest_2007+050.jpg)
-
 Beginn
 :   Dienstag, 5.2.19, von 10-13 Uhr
 
