@@ -2,7 +2,7 @@
 
 ## Semesterbeginn am 1. Februar 2019 
 
-[Unser Kursprogramm Sommersemester 2019 finden Sie hier zum Download](/downloads/Kursprogramm_SoSe19.pdf)
+[Unser Kursprogramm Sommersemester 2019 finden Sie hier zum Download](/downloads/Kursprogramm 19.pdf)
 
 Kursdauer/Semester ist 18x3 Zeitstunden, wenn nicht anders angegeben.
 Wir bitten um Verständnis, dass bei zu niedriger Teilnehmerzahl der
