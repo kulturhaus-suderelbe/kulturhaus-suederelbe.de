@@ -77,7 +77,7 @@ Kursgebühr
 # Expressive freie Malerei, Dienstag 
 
 Wir arbeiten nach dem Lustprinzip - Lust auf Farben, Formen und Linien. 
-Wir arbeiten mit Fraben flüssig oder pastös und Materialien wie Sand, Pappe ö.ä., 
+Wir arbeiten mit Farben flüssig oder pastös und Materialien wie Sand, Pappe ö.ä., 
 die wir in das Bild einarbeiten. Wir lernen verschiedene Techniken kennen, und setzen diese experimentell ein. 
 Wir spachteln, drucken, kollagieren und arbeiten gerne auch sichtweise. 
 
