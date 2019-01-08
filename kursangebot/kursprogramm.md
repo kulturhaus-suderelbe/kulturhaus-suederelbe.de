@@ -77,12 +77,12 @@ Kursgebühr
 # Expressive freie Malerei, Dienstag 
 
 Wir arbeiten nach dem Lustprinzip - Lust auf Farben, Formen und Linien. 
-Wir arbeiten mit Fraben flüssig oder pastös und Materialien wie Sand, Pappe ö.ä., 
-die wir in das Bild einarbeiten. Wir lernen verschiedene Techniken kennen, und setzen diese experimentell ein. 
+Wir arbeiten mit Farben flüssig oder pastös und Materialien wie Sand, Pappe ö.ä., 
+die wir in das Bild einarbeiten. Wir lernen verschiedene Techniken kennen und setzen diese experimentell ein. 
 Wir spachteln, drucken, kollagieren und arbeiten gerne auch sichtweise. 
 
 Wir lernen voneinander, tauschen uns aus, sehen uns Ausstellungen an und lernen das "richtige Sehen" - 
-hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie baisert sondern auch für Spannung
+hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie basiert, sondern auch für Spannung
 und Dynamik im Bild sorgt. 
 
 Beginn
@@ -429,7 +429,9 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-# Kindermalschule, Mittwoch 
+# Kindermalschule, Dienstag von 16.30-18.00 Uhr 
+
+
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
 in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
@@ -440,7 +442,7 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Mittwoch, 6.2.19, von 16.30-18.00 Uhr 
+: Dienstag, 12.2.19, von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
