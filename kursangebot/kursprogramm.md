@@ -21,6 +21,8 @@ Mehr Infos finden Sie hier:
 # Bildende Kunst 
 
 
+
+
 # Ölmalerei, Montag
 
 Mit Farben experimentieren und dabei eigene Fähigkeiten entdecken,
@@ -72,24 +74,26 @@ Kursgebühr
 
 
 
-# Expressive Malerei, Dienstag 
+# Expressive freie Malerei, Dienstag 
 
-Aquarell, Acryl, Kreiden... Sigrid Gruber, freiberufliche Künstlerin, ist bekannt durch viele 
-Ausstellungen . Es wird mit Farben, flüssig oder pastos, gearbeitet, und mit Materialien wie Sand, Pappe 
-oder ähnlichem experimentiert. Sie passt die Kursinhalte ihren KursteilnehmerInnen an
-und betreut sie individuell.
-Ob jung oder alt, fortgeschritten oder Anfänger: In dieser Gruppe findet
-jeder seinen Platz!
+Wir arbeiten nach dem Lustprinzip - Lust auf Farben, Formen und Linien. 
+Wir arbeiten mit Fraben flüssig oder pastös und Materialien wie Sand, Pappe ö.ä., 
+die wir in das Bild einarbeiten. Wir lernen verschiedene Techniken kennen, und setzen diese experimentell ein. 
+Wir spachteln, drucken, kollagieren und arbeiten gerne auch sichtweise. 
+
+Wir lernen voneinander, tauschen uns aus, sehen uns Ausstellungen an und lernen das "richtige Sehen" - 
+hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie baisert sondern auch für Spannung
+und Dynamik im Bild sorgt. 
 
 Beginn
 :   Dienstag, 5.2.19, von 10-13 Uhr
 
 Kursleitung
 :   Sigrid Gruber 
-   (www.sigridgruber.com)
+    [www.sigridgruber.com](http://www.sigridgruber.com/)
 
 Kursgebühr
-:   125,- € / 15 Male
+:   125,- € / für 15 Male
 
 
 
@@ -215,13 +219,15 @@ Die Gruppe sucht neue Teilnehmer*innen!
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
   
 Beginn
-:   7.2.2019 
+:   21.2.2019 
 
 Kursleitung
-:  Branimir Georgiev  [www.brageo.de](http://www.brageo.de)
+:  Dimitar Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
 :   125,- € für 10 Male 
+
+
 
 
 # Holzschnitt, Schnupperkurs, Zeiten auf Anfrage 
@@ -424,6 +430,8 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 # Kindermalschule, Dienstag von 16.30-18.00 Uhr 
+
+
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
 in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
