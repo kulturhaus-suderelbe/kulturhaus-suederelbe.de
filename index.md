@@ -1,11 +1,10 @@
 ---
 navigation:
+  - bfd
   - kursangebot
   - literaturcafe
   - ausstellungen
   - veranstaltungen
-  - Projekt Monster
-  - Movie Girls
   - kulturtage
   - Kulturhauskino
   - LittleBigBand
