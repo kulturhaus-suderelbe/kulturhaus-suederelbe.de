@@ -28,15 +28,15 @@ Quelle: Programmflyer 2013 Striepensaal
 
 **Literaturcafé im Striepensaal**
 
-**Am Sonntag, den 6.1.19, um 16 Uhr**
+**Am Sonntag, den 3.2.19, um 16 Uhr**
 
-liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck
+liest Dieter Wehrbrink 
 
-**Nicht nur zur Weihnachtszeit**
+**Geh, wohin dein Herz dich trägt**
 
-von Heinrich Böll
+von Susanna Tamaro
 
-![](/img/heinrich böll.jpg)
+![](/img/Herz.jpg)
 
 Herzlich willkommen, der Eintritt ist frei!
 

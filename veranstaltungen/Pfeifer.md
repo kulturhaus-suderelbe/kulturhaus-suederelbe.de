@@ -5,7 +5,7 @@
 ![](/img/Pfeifer.jpg)
 
 Harburgs Hafenbarde kommt nach Neugraben! Der Wohnschiffer, Journalist und Musiker Werner Pfeifer stellt seine
-Hafenballaden und Chansons vor. Mit Herz und Tiefgang: wunderschöne Liederund Geschichten über das Leben,
+Hafenballaden und Chansons vor. Mit Herz und Tiefgang: wunderschöne Lieder und Geschichten über das Leben,
 den Hamburger und Harburger Hafen, die Liebe und alles was Sehnsucht und Spaß macht. Dabei spielt Werner Pfeifer auf
 seinen schönsten Akustikgitarren. Begleitet wird er von Dabine Dreismann am Saxophon und der Querflöte. 
 
