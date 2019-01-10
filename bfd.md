@@ -1,4 +1,4 @@
-# Unterstützung im Kultur-Team gesucht(BFD) 
+# Unterstützung im Kultur-Team gesucht (BFD) 
 
 ![](/img/BFD_Banner_DU.jpg)
 
