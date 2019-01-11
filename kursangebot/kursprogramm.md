@@ -429,7 +429,7 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-# Kindermalschule, Mittwoch von 16.30-18.00 Uhr 
+# Kindermalschule, Dienstag von 16.30-18.00 Uhr 
 
 
 
@@ -442,7 +442,7 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Mittwoch, 13.2.19, von 16.30-18.00 Uhr 
+: Dienstag, 12.2.19, von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
