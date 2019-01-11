@@ -15,6 +15,8 @@ Eine Fotoausstellung von Werner Pfeifer, Barde und Geschichtenerzähler,
 
 als Umrahmung für sein Konzert am 22.2.19 im Stadtteilsaal
 
+Die Ausstellung läuft vom 22.2.19 bis zum 5.3.19 und ist werktags geöffnet von 10.00 bis 20.00 Uhr
+
 
 
 
