@@ -21,6 +21,7 @@ Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 Eine Fotoausstellung von Werner Pfeifer, Barde und Geschichtenerzähler,
 
 als Umrahmung für sein Konzert am 22.2.19 im Stadtteilsaal. 
+Die Ausstellung läuft bis 05.03.19
 
 ![](/img/Ausstellung-Pfeifer.jpg)
 
