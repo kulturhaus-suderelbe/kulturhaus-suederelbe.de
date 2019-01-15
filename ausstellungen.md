@@ -1,29 +1,32 @@
 # Ausstellungen
 
-## Aktuelle Ausstellung
+
+
+
+# Aktuelle Ausstellung
 
 Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
+
+
+
  
-## Nächste Ausstellungen
+# Nächste Ausstellungen
 
 
 
-## Volle Segel - Ruhige See
+
+# Volle Segel - Ruhige See
 
 Eine Fotoausstellung von Werner Pfeifer, Barde und Geschichtenerzähler,
 
 als Umrahmung für sein Konzert am 22.2.19 im Stadtteilsaal
 
-Die Ausstellung läuft vom 22.2.19 bis zum 5.3.19 und ist werktags geöffnet von 10.00 bis 20.00 Uhr
-
-![](img/DSC_7541.JPG)
 
 
 
 
-
-## Erinnerungen aus dem Dorf Fischbek
+# Erinnerungen aus dem Dorf Fischbek
 
 "Dat mööt ji for all Tieden fastholen"
 
