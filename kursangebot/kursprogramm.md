@@ -85,6 +85,8 @@ Wir lernen voneinander, tauschen uns aus, sehen uns Ausstellungen an und lernen 
 hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie basiert, sondern auch für Spannung
 und Dynamik im Bild sorgt. 
 
+![](/img/Gruber_malerei.jpg)
+
 Beginn
 :   Dienstag, 5.2.19, von 10-13 Uhr
 
@@ -403,6 +405,9 @@ möglich.
 
 # Kinderkurse 
 
+
+
+
 # Töpferschule für Kinder, Dienstag 
 
 Unter der fachkundigen Anleitung von Künstlerin Nushin Morid können
@@ -430,8 +435,6 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 # Kindermalschule, Dienstag von 16.30-18.00 Uhr 
-
-
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
 in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
