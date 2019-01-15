@@ -22,7 +22,7 @@ Eine Fotoausstellung von Werner Pfeifer, Barde und Geschichtenerzähler,
 
 als Umrahmung für sein Konzert am 22.2.19 im Stadtteilsaal. 
 
-![](/img/DSC_7541.jpg)
+![](/img/Ausstellung-Pfeifer.jpg)
 
 
 
