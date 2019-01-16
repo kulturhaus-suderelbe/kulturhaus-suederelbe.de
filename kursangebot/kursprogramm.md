@@ -85,6 +85,8 @@ Wir lernen voneinander, tauschen uns aus, sehen uns Ausstellungen an und lernen 
 hierbei geht es um eine gelungene Komposition, die nicht nur auf Farbharmonie basiert, sondern auch für Spannung
 und Dynamik im Bild sorgt. 
 
+![](/img/Gruber_malerei.jpg)
+
 Beginn
 :   Dienstag, 5.2.19, von 10-13 Uhr
 
@@ -403,6 +405,9 @@ möglich.
 
 # Kinderkurse 
 
+
+
+
 # Töpferschule für Kinder, Dienstag 
 
 Unter der fachkundigen Anleitung von Künstlerin Nushin Morid können
@@ -416,12 +421,14 @@ Oberflächengestaltung zu erlernen.
 
 Beginn
 :   Dienstag, 5.2.19, von 16.30-18.00 Uhr
+Termine
+:   5./26.Febr., 19./26. März, 2./9./16./23./30. Apr., 7./21. Mai, 11./18./25. Juni
 
 Kursleitung
 :   Nushin Morid
 
 Kursgebühr
-:   85,- € für 15 Male exkl. Material
+:   85,- € für 14 Male exkl. Material
 
 Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
@@ -429,9 +436,7 @@ Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
 
 
-# Kindermalschule, Dienstag von 16.30-18.00 Uhr 
-
-
+# Kindermalschule, Mittwoch von 16.30-18.00 Uhr 
 
 Branimir Georgiev, bildender Künstler, Grafiker und Lehrer an der Stadtteilschule Süderelbe, bietet 
 in der Kindermalschule Kindern von 5-10 Jahrenviel Spaß mit dem Medium Kunst.
@@ -442,14 +447,14 @@ Materialien ausprobiert und nach den Vorstellungen der Kinder umgesetzt.
 ![](/img/wsb_155x162_kindermalschule.jpg)
 
 Beginn
-: Dienstag, 12.2.19, von 16.30-18.00 Uhr 
+: Mittwoch, 13.2.19, von 16.30-18.00 Uhr 
 
 Kursleitung
 :  Branimir Georgiev
 Kursgebühr
 :   80,- € für 15 Male
 
-Die Abrechnung über das Bildungspaket ist möglich.
+Die Abrechnung über das "Bildungspaket" ist möglich.
 
 
 
@@ -478,7 +483,7 @@ Kursleitung
 Kursgebühr
 :   80,- € für 15 Male
 
-Abrechnung über das Bildungspaket möglich.
+Abrechnung über das Bildungspaket ist möglich.
 
 
 

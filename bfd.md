@@ -6,6 +6,6 @@ Wir, das  Kulturhaus Süderelbe, suchen zum nächstmöglichen Zeitpunkt eine/n F
 unterstützen möchte - im Rahmen des Bundesfreiwilligendienstes Kultur und Bildung.
 
 Informationen zum Bundesfreiwilligendienst undBewerbung über die
-[BFD-Platzbörse] (https://www.bfd-kultur-bildung-hh.de/fuer-freiwillige/platzboerse-fuer-bfd-kultur-und-bildung-in-hamburg/)
+[BFD-Platzbörse](https://www.bfd-kultur-bildung-hh.de/fuer-freiwillige/platzboerse-fuer-bfd-kultur-und-bildung-in-hamburg/)
 
 
