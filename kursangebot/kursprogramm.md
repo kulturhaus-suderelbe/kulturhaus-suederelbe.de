@@ -165,7 +165,7 @@ gezeichnet, gemalt und mit Pastellkreiden gearbeitet. Der Kurs hat
 TeilnehmerInnen ab 10 Jahren, die mit allen anderen Altersgruppen ein
 Superteam bilden!
 
-![](/img/elster.jpg)
+![](/img/elster.JPEG)
 
 Beginn
 :  Donnerstag, 7.2.19, von 15-18 Uhr
