@@ -40,6 +40,16 @@ von Susanna Tamaro
 
 Herzlich willkommen, der Eintritt ist frei!
 
+**Ein Hinweis auf die "Südlese" von Mitte März bis Mitte April:
+
+Dieter Wehrbrink und Gunter Miedeck lesen gemeinsam 
+
+am 7.4.19 ab 16 Uhr im Striepensaal
+
+"Eigene Geschichten"
+
+
+
 
 
 
