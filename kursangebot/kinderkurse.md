@@ -27,6 +27,9 @@ Der Grundpreis beträgt 120 € exkl. Materialien
 Ellie S. Beyer
 :   Figuren-Filzen
 
+Nushin Morid
+:    Töpfern
+
 NN
 :   Malen 
 
