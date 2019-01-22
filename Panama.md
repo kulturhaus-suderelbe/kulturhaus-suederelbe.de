@@ -1,6 +1,6 @@
 # Theater Mär: „Oh, wie schön ist Panama“ am 14. März 19 um 09.30 Uhr und um 11.00 Uhr 
 
-![](/img/Pamama.jpg)
+![](/img/Panama.jpg)
 
 „Wenn man einen Freund hat braucht man sich vor nichts zu fürchten!“ Der kleine Tiger und der kleine Bär sind dicke Freunde.
 Und sie fürchten sich vor nichts, weil sie zusammen wunderbar stark sind. In ihrem Haus am Fluss haben sie es gemütlich. 
