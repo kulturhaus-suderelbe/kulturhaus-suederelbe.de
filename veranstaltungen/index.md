@@ -2,6 +2,7 @@
 navigation:
   - puppentheater
   - Pfeifer
+  - Panama
 ---
 
 # Veranstaltungen, Konzerte, Kindertheater, Aufführungen...
