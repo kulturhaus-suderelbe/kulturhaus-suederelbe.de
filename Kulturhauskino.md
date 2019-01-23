@@ -19,9 +19,8 @@ nebeneinandergestellt werden, tritt die Unmenschlichkeit der Abschiebepraxis deu
 
 D 2016  
 Ein Film von Carsten Rau und Hauke Wendler  
-FSK: 12 Jahre
+FSK: 12 Jahre  
 
- 
 ![](/img/KHK Feb.jpg)
 
   
