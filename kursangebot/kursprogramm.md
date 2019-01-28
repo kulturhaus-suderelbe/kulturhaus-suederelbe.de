@@ -422,13 +422,13 @@ Oberflächengestaltung zu erlernen.
 Beginn
 :   Dienstag, 5.2.19, von 16.30-18.00 Uhr
 Termine
-:   5./26.Febr., 19./26. März, 2./9./16./23./30. Apr., 7./21. Mai, 11./18./25. Juni
+:   5./26.Febr., 19./26. März, 2./9./16./23./30. Apr., 7./21. Mai, 28. Mai, 11./18./25. Juni
 
 Kursleitung
 :   Nushin Morid
 
 Kursgebühr
-:   85,- € für 14 Male exkl. Material
+:   85,- € für 15 Male exkl. Material
 
 Abrechnung der Kursgebühr über das „Bildungspaket“ ist möglich.
 
