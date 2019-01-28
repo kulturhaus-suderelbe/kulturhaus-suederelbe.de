@@ -1,5 +1,12 @@
 # Kulturtage Süderelbe: 24. Okt. bis 10. Nov. 2019
 
+Unser Projekt "Kulturtage Süderelbe" unter den 10 Finalisten des diesjährigen Stadtteilkulturpreises 2019!
+
+![](/img/Stadtteilkulturpreis-Logo.jpg)
+
+Mit diesem wichtigsten Preis der Stadtteilkultur werden herausragende und inspirierende Projekte der Lokalen Kultur ausgezeichnet.
+[Informationen zum Stadtteilkulturpreis 2019 finden Sie hier](https://www.stadtkultur-hh.de/2019/01/hamburger-stadtteilkulturpreis-2019-zehn-herausragende-kulturprojekte-und-programme-im-finale-2/)
+
 ![](/img/kulturtage-suederelbe-2019-10J-web.jpg)
 
 Im zehnten  Jahr finden die "Kulturtage Süderelbe" unter der organisatorischen Leitung des Kulturhauses Süderelbe
