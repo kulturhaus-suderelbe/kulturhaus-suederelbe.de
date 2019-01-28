@@ -57,8 +57,8 @@ Schriftführer
 [Hier finden Sie Ihren Antrag auf Mitgliedschaft in unserem Verein](/downloads/Beitrittserklaerung_18.pdf)
 
 
-# 38 Jahre Kunst- und Kulturhaus Süderelbe e.V.
-## 1980 - 2018
+# 39 Jahre Kunst- und Kulturhaus Süderelbe e.V.
+## 1980 - 2019
 
 #### Kultur vor Ort
 
@@ -147,13 +147,13 @@ Im Striepensaal bietet das Kulturhaus jeden 1. Sonntag im Monat von
 Weitere Informationen siehe [Literaturcafe im Striepensaal](/literaturcafe.html)
 oder unter Tel. 040 702 55 06.
 
-## Kulturtage Süderelbe 2018
+## Kulturtage Süderelbe 2019
 
 In bewährter Weise sollen die „Kulturtage Süderelbe“ sowohl eine
 Plattform für erfahrene lokale Kulturveranstalter sein als auch
 Amateuren einen schützenden Rahmen bieten, um sich in der Öffentlichkeit
 mit einem Programmbeitrag zu präsentieren. Weitere Informationen siehe
-[Kulturtage Süderelbe 2018](/kulturtage.html).
+[Kulturtage Süderelbe 2019](/kulturtage.html).
 
 Das Kulturhaus Süderelbe wird gefördert von der Kulturbehörde Hamburg
 über das Bezirksamt Harburg. Mit einer Spende oder einer Mitgliedschaft
