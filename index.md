@@ -9,7 +9,6 @@ navigation:
   - Kulturhauskino
   - LittleBigBand
   - Partykunst
-  - puppentheater
   - suederelbe-archiv
   - tanztheater
   - fortbildung
