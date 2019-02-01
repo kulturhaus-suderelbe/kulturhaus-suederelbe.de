@@ -8,6 +8,29 @@
 
 
 
+# Abschiebepraxis am 21. Febr. um 19 Uhr
+ 
+![](/img/Kino-Plakat-210219.jpg)
+
+Der Dokumentarfilm berichtet über die Abschiebung zweier albanischen Familien. Er beschreibt die staatlich
+organisierte Sammelabschiebung inklusive Vorbereitung und Durchführung und besucht schließlich die Abgeschobenen
+in Albanien. Obwohl alle beteiligten Seiten zu Wort kommen und die unterschiedlichen Ansichten relativ sachlich
+nebeneinandergestellt werden, tritt die Unmenschlichkeit der Abschiebepraxis deutlich zu Tage. (Filmdienst)
+
+D 2016  
+Ein Film von Carsten Rau und Hauke Wendler  
+FSK: 12 Jahre  
+
+![](/img/KHK Feb.jpg)
+
+  
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
+
+
+
+
 
 # Angst essen Seele auf am 17. Jan. um 19 Uhr
  
