@@ -1,6 +1,6 @@
 # Stadtteilkulturpreis 2019: Zweifache Nominierung für Hamburgs Süden!  
 
-![](/img/suedlogo-Stadtteilpreis19.jpg)
+![](/img/suedlogo-19.jpg)
 
 Die Projekte „Kulturtage Süderelbe“, das seit 2010 jährlich vom  Kulturhaus Süderelbe organisiertes Kulturfestival
 und das Projekt „3falt – Kunst, Kultur, Kreativität“ der Initiative SuedKultur zur möglichen Umnutzung der leerstehenden
