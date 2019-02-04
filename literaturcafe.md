@@ -57,7 +57,7 @@ denn beide sind nicht nur Vortragende, sondern auch Autoren!
 Zum ersten Mal sind sie bereit, das öffentlich zu machen. 
 Über den Inhalt wird noch nichts verraten - lassen Sie sich überraschen.
 
-
+![](/IMG_20190118.jpg)  ![](img/Dieter.PNG)
 
 
 
