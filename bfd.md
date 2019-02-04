@@ -15,7 +15,7 @@ Für den Stadtteilkulturpreis wurden dieses Jahr 50 Bewerbungen eingereicht. Aus
 Jury den Preisträger, der Mitte Februar bekannt gegeben wird. Der Senator für Kultur und Medien Dr. Carsten Brosda wird
 dann am 16. April im feierlichen Rahmen den Preis überreichen. 
 
-Infos über diesjährige Kulturtage Süderelbe von 24. Okt. bis 10. November sind zu finden unter www.kulturhaus-suederelbe.de
+Infos über diesjährige Kulturtage Süderelbe von 24. Okt. bis 10. November sind zu finden unter [Kulturtage Süderelbe 2019](/kulturtage.html) 
 und über das neue Kulturprojekt „3falt“ in Harburg unter [www.dreifalt.info](http://www.dreifalt.info) und
 [www.sued-kultur.de](http://www.sued-kultur.de)
 
