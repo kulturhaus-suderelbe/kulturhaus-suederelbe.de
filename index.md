@@ -1,6 +1,6 @@
 ---
 navigation:
-  - bfd
+  - stadtteilkulturpreis
   - kursangebot
   - literaturcafe
   - ausstellungen
