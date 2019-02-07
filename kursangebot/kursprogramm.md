@@ -224,7 +224,7 @@ Beginn
 :   21.2.2019 
 
 Kursleitung
-:  Dimitar Georgiev  [www.brageo.de](http://www.brageo.de)
+:  Branimir Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
 :   125,- € für 10 Male 

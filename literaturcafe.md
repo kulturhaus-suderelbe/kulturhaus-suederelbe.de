@@ -28,16 +28,16 @@ Quelle: Programmflyer 2013 Striepensaal
 
 **Literaturcafé im Striepensaal**
 
-**Am Sonntag, den 3.2.19, um 16 Uhr**
+**Am Sonntag, den 3.3.19, um 16 Uhr**
 
-liest Dieter Wehrbrink 
+liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck 
 
-**Geh, wohin dein Herz dich trägt**
+**...und noch´n Gedicht**
 
-von Susanna Tamaro
+Humorvolle Gedichte verschiedener Autoren
 
 
-![](/img/Herz.jpg)
+![](/img/erhardt.jpg)
 
 Herzlich willkommen, der Eintritt ist frei!
 
@@ -57,7 +57,7 @@ denn beide sind nicht nur Vortragende, sondern auch Autoren!
 Zum ersten Mal sind sie bereit, das öffentlich zu machen. 
 Über den Inhalt wird noch nichts verraten - lassen Sie sich überraschen.
 
-![](/IMG_20190118.jpg)  ![](img/Dieter.PNG)
+![](img\gunter.jpg)  ![](img/Dieter.png)
 
 
 
