@@ -221,13 +221,13 @@ Die Gruppe sucht neue Teilnehmer*innen!
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
   
 Beginn
-:   21.2.2019 
+:   28.2.2019 
 
 Kursleitung
 :  Branimir Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
-:   125,- € für 10 Male 
+:   125,- € für 12 Male 
 
 
 
