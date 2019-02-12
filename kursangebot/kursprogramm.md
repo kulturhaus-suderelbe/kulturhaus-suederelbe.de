@@ -114,7 +114,7 @@ und nutzen Wort-Collagen. Der Fantasie sind keine Grenzen gesetzt.
 
 Wir arbeiten zur Unterstützung des kreativen Schreibens auch mit Pinsel und Farbe, Fotos, Collagen, Musik u.v.m.
 
-![](/img/Gruber_malerei.jpg)
+![](/img/header_lebenswegschreiben.jpg)
 
 Beginn
 :   Dienstag, 26.03.19, von 15-17 Uhr
@@ -249,13 +249,13 @@ Die Gruppe sucht neue Teilnehmer*innen!
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
   
 Beginn
-:   28.2.2019 
+:   21.2.2019 
 
 Kursleitung
 :  Branimir Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
-:   125,- € für 12 Male 
+:   125,- € für 10 Male 
 
 
 
