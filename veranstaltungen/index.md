@@ -2,6 +2,7 @@
 navigation:
   - puppentheater
   - Pfeifer
+  - takadoon
   - Panama
 ---
 
