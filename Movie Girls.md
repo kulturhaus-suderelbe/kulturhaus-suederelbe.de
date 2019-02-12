@@ -1,6 +1,6 @@
 # MOVIE GIRLS III - Kurzfilmworkshop für Mädchen 11.-13. März 19
 
-![](/img/moviegirls2.jpg)
+![](/img/moviegirls3_rdz.jpg)
 
 In der Woche vom 11. bis 15. März findet im Kulturhaus Süderelbe in Neugraben täglich von 11 bis 17 Uhr
 ein Kurzfilm-Workshop zum Thema „Musikvideo“ für Mädchen statt. Von der Idee bis zum fertigen Film entstehen
