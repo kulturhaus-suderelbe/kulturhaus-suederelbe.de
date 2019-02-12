@@ -23,7 +23,8 @@ Alex Klauck dm,voc
 
 Veranstaltung des Kulturhauses Süderelbe  
 
-Eintritt: 16.- € / Abendkasse // 13.- € Vvk
-Vorverkauf: Kulturhaus Süderelbe, FitHus, Seniorenresidenz und Theaterkasse Kähler im SEZ
-mail: info@kulturhaus-suederelbe.de, Tel. 796 72 22  
+Eintritt: 16.- € / Abendkasse // 13.- € Vvk  
+Vorverkauf: Kulturhaus Süderelbe, FitHus, Seniorenresidenz und Theaterkasse Kähler im SEZ  
+mail: info@kulturhaus-suederelbe.de, Tel. 796 72 22
 
+  
