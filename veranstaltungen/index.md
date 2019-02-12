@@ -1,7 +1,9 @@
 ---
-navigation:
-  - puppentheater
+navigation: 
   - Pfeifer
+  - takadoon  
+  - wallenstein
+  - puppentheater
   - Panama
 ---
 

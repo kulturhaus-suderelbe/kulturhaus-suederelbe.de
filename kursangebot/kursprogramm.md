@@ -101,6 +101,34 @@ Kursgebühr
 
 
 
+# Kreatives Lebenswegschreiben, Dienstag 
+
+In unserem Kurs kreatives Lebenswegschreiben wollen wir intuitiv-spielerisch wichtige
+Erinnerungen ausfindig und durch autobiografischer Skizzen, Texte und autobiografische Poesie sichtbar machen.
+Wir begegnen dem Schreiben spielerisch, skizzenhaft, so wie auch die Erinnerung selbst keine klar gezeichnete Form hat.
+Jeder von uns trägt ein Puzzle-Werk der Lebenserinnerungen in sich. Einige Episoden erscheinen bunt und lebendig,
+andere grau und dunkel. Wir stöbern in unserem inneren Haus nach Geschich- ten, Anekdoten und Lebensthemen.
+Wir erwecken und wiederbeleben Wendepunkte und Blitzlichter, scheuen uns aber auch nicht vor Krisen und Beichten.
+Mal schreiben wir nah an der Realität entlang, mal in Märchenform, wir mixen Buchstabensuppe
+und nutzen Wort-Collagen. Der Fantasie sind keine Grenzen gesetzt.
+
+Wir arbeiten zur Unterstützung des kreativen Schreibens auch mit Pinsel und Farbe, Fotos, Collagen, Musik u.v.m.
+
+![](/img/header_lebenswegschreiben.jpg)
+
+Beginn
+:   Dienstag, 26.03.19, von 15-17 Uhr
+
+Kursleitung
+:   Ulrike Hinrichs 
+    [www.lebenswegschreiben.de](http://www.lebenswegschreiben.de/)
+
+Kursgebühr
+:   125,- € / für 10 Male (exkl. Material) 
+
+
+
+
 # Figürliches Zeichnen/Akt, Dienstag 
 
 Mit wechselnden Modellen (weiblich/männlich) wird hier das Auge
@@ -221,13 +249,13 @@ Die Gruppe sucht neue Teilnehmer*innen!
 ![](/img/wsb_371x279_Ernst-August-Schleuse+reduziert.jpg)
   
 Beginn
-:   28.2.2019 
+:   21.2.2019 
 
 Kursleitung
 :  Branimir Georgiev  [www.brageo.de](http://www.brageo.de)
 
 Kursgebühr
-:   125,- € für 12 Male 
+:   125,- € für 10 Male 
 
 
 
