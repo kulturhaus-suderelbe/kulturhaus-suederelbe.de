@@ -61,7 +61,7 @@ Die Ausstellung ist werktags zu sehen vom 15.5.19 bis 28.6.19.
 
 # Ralph Bühr
 
-Handarbeit in Verbindung von Auquarell und Strich
+Handarbeit in Verbindung von Aquarell und Strich
 
 Ausstellung vom 9.9. bis 18.10.19
 
