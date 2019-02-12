@@ -1,10 +1,10 @@
 ---
-navigation:
-  - puppentheater
+navigation: 
   - Pfeifer
-  - takadoon
-  - Panama
+  - takadoon  
   - wallenstein
+  - puppentheater
+  - Panama
 ---
 
 # Veranstaltungen, Konzerte, Kindertheater, Aufführungen...
