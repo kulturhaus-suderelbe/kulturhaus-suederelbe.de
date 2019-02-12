@@ -63,7 +63,9 @@ Die Ausstellung ist werktags zu sehen vom 15.5.19 bis 28.6.19.
 
 Handarbeit in Verbindung von Aquarell und Strich
 
-Ausstellung vom 9.9. bis 18.10.19
+Ausstellung zu sehen werktags von 10-20 Uhr vom 9.9. bis 18.10.19
+
+Vernissage am Freitag, den 6.9.19 ab 19 Uhr
 
 ![](/img/Amsel-Apfel.jpg)
 
