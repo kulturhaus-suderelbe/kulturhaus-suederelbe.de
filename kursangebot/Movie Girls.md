@@ -1,4 +1,4 @@
-# MOVIE GIRLS III - Kurzfilmworkshop für Mädchen 11.-13. März 19
+# MOVIE GIRLS III - Kurzfilmworkshop für Mädchen 11.-15. März 19
 
 ![](/img/moviegirls3_rdz.jpg)
 
