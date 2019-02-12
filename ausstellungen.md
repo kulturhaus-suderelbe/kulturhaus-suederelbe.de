@@ -26,9 +26,6 @@ Die Ausstellung läuft bis 05.03.19
 ![](/img/Ausstellung-Pfeifer.jpg)
 
 
-
-
-
 # Erinnerungen aus dem Dorf Fischbek
 
 "Dat mööt ji for all Tieden fastholen"
@@ -53,6 +50,13 @@ Das Kulturhaus Süderelbe befindet sich Am Johannisland 2, 21147 Hamburg.
 
 
 ![](/img/Pio1930.jpg)
+
+
+# Dimitar Georgiev
+
+Neue Fotos 
+
+Die Ausstellung ist werktags zu sehen vom 15.5.19 bis 28.6.19.
 
 
 
