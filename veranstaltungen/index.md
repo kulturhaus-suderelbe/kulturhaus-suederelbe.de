@@ -4,6 +4,7 @@ navigation:
   - Pfeifer
   - takadoon
   - Panama
+  - wallenstein
 ---
 
 # Veranstaltungen, Konzerte, Kindertheater, Aufführungen...
