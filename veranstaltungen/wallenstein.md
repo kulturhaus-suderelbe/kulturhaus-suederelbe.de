@@ -23,5 +23,3 @@ Tel. 796 72 22
 Vorverkauf: Kulturhaus Süderelbe, FitHus, Seniorenresidenz, Theaterkasse Kähler im SEZ und
 Ticketshop im Phoenix Center Harbur
 
-
-  
