@@ -59,7 +59,7 @@ denn beide sind nicht nur Vortragende, sondern auch Autoren!
 Zum ersten Mal sind sie bereit, das öffentlich zu machen. 
 Über den Inhalt wird noch nichts verraten - lassen Sie sich überraschen.
 
-![](/img/gunter.JPEG)  ![](img/Dieter.png)
+![](/img/miedeck.JPEG)  ![](img/Dieter.png)
 
 
 
