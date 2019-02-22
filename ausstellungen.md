@@ -5,7 +5,7 @@
 
 # Aktuelle Ausstellung
 
-Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnun
+Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
 
 
