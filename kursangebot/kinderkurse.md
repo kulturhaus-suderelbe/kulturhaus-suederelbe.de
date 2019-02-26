@@ -7,7 +7,7 @@
 
 ![](/img/Handzettel Tanzpiraten_18.jpg)
 
-![](/img/Töpferschule Handzettel 2019.jpg)
+![](/img/Töpferschule 2019.jpg)
 
 # Kindergeburtstage
 
