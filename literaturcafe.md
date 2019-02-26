@@ -42,6 +42,10 @@ Humorvolle Gedichte verschiedener Autoren
 Herzlich willkommen, der Eintritt ist frei!
 
 
+
+
+
+
 **Ein Hinweis auf die Südlese von Mitte März bis Mitte April ´19:**
 
 Dieter Wehrbrink und Gunter Miedeck lesen gemeinsam 
@@ -57,7 +61,7 @@ denn beide sind nicht nur Vortragende, sondern auch Autoren!
 Zum ersten Mal sind sie bereit, das öffentlich zu machen. 
 Über den Inhalt wird noch nichts verraten - lassen Sie sich überraschen.
 
-![](img\gunter.jpg)  ![](img/Dieter.png)
+![](/img/miedeck.jpg)  ![](img/Dieter.png)
 
 
 

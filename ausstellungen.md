@@ -10,12 +10,6 @@ Kursteilnehmerarbeiten aus den Bereichen Malerei und Zeichnung
 
 
 
- 
-# Nächste Ausstellungen
-
-
-
-
 # Volle Segel - Ruhige See
 
 Eine Fotoausstellung von Werner Pfeifer, Barde und Geschichtenerzähler,
@@ -24,6 +18,9 @@ als Umrahmung für sein Konzert am 22.2.19 im Stadtteilsaal.
 Die Ausstellung läuft bis 05.03.19
 
 ![](/img/Ausstellung-Pfeifer.jpg)
+
+
+# Zukünftige Ausstellungen
 
 
 # Erinnerungen aus dem Dorf Fischbek
@@ -38,7 +35,7 @@ Fischbeker Geschichte und Bilder werden auf 28 großformatigen Tafeln
 
 dargestellt.
 
-Die Ausstellung läuft vom 10.3.19 bis zum 10.4.19 und ist werktags geöffnet 
+Die Ausstellung läuft vom 21.3.19 bis zum 09.5.19 und ist werktags geöffnet 
 
 von 10.00 bis 20.00 Uhr.
 
@@ -57,6 +54,17 @@ Das Kulturhaus Süderelbe befindet sich Am Johannisland 2, 21147 Hamburg.
 Neue Fotos 
 
 Die Ausstellung ist werktags zu sehen vom 15.5.19 bis 28.6.19.
+
+
+# Ralph Bühr
+
+Handarbeit in Verbindung von Aquarell und Strich
+
+Ausstellung zu sehen werktags von 10-20 Uhr vom 9.9. bis 18.10.19
+
+Vernissage am Freitag, den 6.9.19 ab 19 Uhr
+
+![](/img/Amsel-Apfel.jpg)
 
 
 
