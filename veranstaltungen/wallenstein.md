@@ -5,9 +5,9 @@
 ## Hamburgs Blueslegende in Neugraben!
  
 Die faszinierende, magisch ungekünstelte musikalische Authentizität dieses Trios entsteht aus Abi Wallensteins
-perkussivem und druckvollem Gitarrenspiel, seine heiser rauchigen Stimme, die durch den rhythmisch geprägten,
+perkussivem und druckvollem Gitarrenspiel, seiner heiser-rauchigen Stimme, die durch den rhythmisch geprägten,
 melodischen Bluesharpstil Steve Bakers vorangetrieben wird. Martin Röttger verleiht mit seinem explosiv-kraftvollen,
-dann wieder elastisch-weichen Beat dieser packenden Mischung aus archaischem Blues und wildem Boogei,
+dann wieder elastisch-weichen Beat dieser packenden Mischung aus archaischem Blues und wildem Boogie,
 groovendem Funk und herzzerreisenden Balladen das Fundament für eine auf schier blindem, gegenseitigem Verständnis
 basierenden musikalischen Interaktion.
 
