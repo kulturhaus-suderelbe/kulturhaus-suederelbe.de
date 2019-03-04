@@ -46,6 +46,8 @@ Zum ersten Mal sind sie bereit, das öffentlich zu machen.
 
 ![](/img/miedeck.jpg)  ![](img/Dieter.png)
 
+Herzlich willkommen - der Eintritt ist frei!
+
 
 
 
