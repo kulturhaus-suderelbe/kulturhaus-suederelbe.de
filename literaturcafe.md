@@ -28,23 +28,6 @@ Quelle: Programmflyer 2013 Striepensaal
 
 **Literaturcafé im Striepensaal**
 
-**Am Sonntag, den 3.3.19, um 16 Uhr**
-
-liest Dieter Wehrbrink gemeinsam mit Gunter Miedeck 
-
-**...und noch´n Gedicht**
-
-Humorvolle Gedichte verschiedener Autoren
-
-
-![](/img/erhardt.jpg)
-
-Herzlich willkommen, der Eintritt ist frei!
-
-
-
-
-
 
 **Ein Hinweis auf die Südlese von Mitte März bis Mitte April ´19:**
 
@@ -62,6 +45,8 @@ Zum ersten Mal sind sie bereit, das öffentlich zu machen.
 Über den Inhalt wird noch nichts verraten - lassen Sie sich überraschen.
 
 ![](/img/miedeck.jpg)  ![](img/Dieter.png)
+
+Herzlich willkommen - der Eintritt ist frei!
 
 
 
