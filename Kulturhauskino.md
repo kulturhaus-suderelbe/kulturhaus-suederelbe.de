@@ -7,6 +7,34 @@
 
 
 
+# Sin Nombre am 21. März um 19 Uhr
+ 
+![](/img/Sinnombre-Plakat.jpg)
+
+Das Spielfilmdebut von Autor und Regisseur Fukunaga beschreibt das Leben des 18jährigen
+Mexikaners Casper, der Mitglied der kriminellen Jugendgang Mara Salvatrucha ist, der keine Skrupel
+vor dem Töten von Mitgliedern anderer Jugendgangskennt, sich aber schon bald selbst als Verfolgter der
+eigenen Gang auf den Weg an die mexikanischamerikanische Grenze macht. Dort lernt er die junge
+Sayra kennen, die ebenfalls in die USA fliehen will. Der Film wurde bei internationalen Festivals
+mehrfach ausgezeichnet. Dokumentarfilmer Jakob Preuss lernt während einer Recherchereise den aus Kamerun
+emigrierten Paul kennen. Der floh in der Hoffnung auf ein besseres Leben durch die
+Sahara und wartet nun in Marokko auf ein Schiff, das ihn nach Europa übersetzen soll. Später
+treffen Paul und Jakob erneut aufeinander: in Granada, nachdem Paul aus der Abschiebehaft
+entlassen wurde und seinen Traum verwirklichen möchte, nach Deutschland zu reisen.
+
+Der Film wurde bei internationalen Festivals mehrfach ausgezeichnet.
+
+MEX/USA 2009, Regie: Cary Fukunaga  
+FSK: 16 Jahre  
+
+![](/img/Sinnombre.jpg)
+  
+## Der Eintritt ist frei, gerne Spenden 
+
+Das Kulturhaus-Kino wird gefördert durch das Bezirksamt Harburg
+
+
+
 
 # Abschiebepraxis am 21. Febr. um 19 Uhr
  
