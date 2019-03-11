@@ -1,6 +1,5 @@
 ---
 navigation: 
-  - Pfeifer
   - takadoon  
   - wallenstein
   - puppentheater
