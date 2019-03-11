@@ -1,6 +1,7 @@
 ---
 navigation: 
-  - takadoon  
+  - takadoon
+  - Fischbeker  
   - wallenstein
   - puppentheater
   - Panama
